@@ -4,6 +4,7 @@
 
 **Narasumber:** Dr. Bart Slagter (Laboratory of Geo-Information Science and Remote Sensing, Wageningen University & Research)
 **Penyelenggara:** Program Studi S1 Teknik Informatika, Universitas Bengkulu
+**Laporan studi kasus lengkap (latar belakang, rumusan masalah, tujuan, metodologi, hasil, kesimpulan):** [STUDI_KASUS.md](STUDI_KASUS.md)  
 **Waktu:** Senin, 19 Oktober 2026, 14.00 WIB
 **Rekaman:** [YouTube, Informatika UNIB Official](https://www.youtube.com/live/OFLzys5FYqg)
 

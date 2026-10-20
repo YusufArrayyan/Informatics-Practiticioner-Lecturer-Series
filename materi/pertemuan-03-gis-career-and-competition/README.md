@@ -4,6 +4,7 @@
 
 **Narasumber:** praktisi GIS (nama pada catatan tulisan tangan kurang terbaca, mohon dilengkapi)
 **Penyelenggara:** Program Studi S1 Teknik Informatika, Universitas Bengkulu
+**Laporan studi kasus lengkap (latar belakang, rumusan masalah, tujuan, metodologi, hasil, kesimpulan):** [STUDI_KASUS.md](STUDI_KASUS.md)  
 
 ## Ringkasan materi
 - Perkembangan GIS (Sistem Informasi Geografis) dan perannya sebagai fondasi **Smart City**, logistik/rantai pasok, dan layanan publik; GIS dipakai untuk analisis geografis dan optimasi lokasi.

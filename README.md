@@ -8,6 +8,7 @@ Kumpulan studi kasus, implementasi kode (Python/Google Colab), dan panduan workf
 
 ## Notebook utama (Google Colab)
 Buka langsung di Colab, lalu *Runtime → Run all*. Data dibangkitkan otomatis oleh notebook.
+Setiap notebook memuat laporan studi kasus lengkap: latar belakang, rumusan masalah, tujuan, dasar teori, dataset, metodologi, interpretasi tiap hasil, kesimpulan, keterbatasan, saran, dan referensi. Versi tanpa kode ada di `STUDI_KASUS.md` pada tiap folder `materi/pertemuan-0X-…`.
 
 | # | Topik | Notebook | Materi lengkap |
 |---|---|---|---|
@@ -26,16 +27,18 @@ Pertemuan_1 … Pertemuan_6 (.ipynb)   <- notebook utama
 materi/
   pertemuan-0X-…/                     <- per pertemuan
     README.md        ringkasan materi, studi kasus, hasil
+    STUDI_KASUS.md   laporan studi kasus lengkap (tanpa kode)
     KNIME_GUIDE.md   panduan workflow KNIME
     kode.py          sumber kode (dasar pembuatan notebook)
     data/  output/   dataset sintetis & hasil
-  tools/build_notebooks.py
+  tools/build_notebooks.py       kode.py -> notebook utama
+  tools/build_studi_kasus.py     kode.py -> STUDI_KASUS.md
 ```
 
 ## Menjalankan
 - **Colab:** klik badge di tabel di atas.
 - **Lokal:** `pip install -r requirements.txt`, lalu `cd materi/pertemuan-01-make-sense-of-data && python kode.py`.
-- Setelah mengubah `kode.py`, bangun ulang notebook dengan `python materi/tools/build_notebooks.py`.
+- Setelah mengubah `kode.py`, bangun ulang dengan `python materi/tools/build_notebooks.py` lalu `python materi/tools/build_studi_kasus.py`.
 
 ## Catatan
 - **Semua data sintetis** (dibangkitkan program, seed tetap). Nama rumah sakit pada pertemuan 5 fiktif. Hasil numerik tidak mencerminkan performa pada data nyata.

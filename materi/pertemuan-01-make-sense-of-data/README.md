@@ -4,6 +4,7 @@
 
 **Narasumber:** peneliti senior BRIN dan pengelola tim High Performance Computing (nama pada catatan tulisan tangan kurang terbaca, mohon dilengkapi)
 **Penyelenggara:** Program Studi S1 Teknik Informatika, Universitas Bengkulu
+**Laporan studi kasus lengkap (latar belakang, rumusan masalah, tujuan, metodologi, hasil, kesimpulan):** [STUDI_KASUS.md](STUDI_KASUS.md)  
 
 ## Ringkasan materi
 - Proses pengolahan data mengubah data mentah menjadi informasi, lalu *insight* yang menopang keputusan bisnis.

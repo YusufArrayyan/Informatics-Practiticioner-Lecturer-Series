@@ -4,6 +4,7 @@
 
 **Narasumber:** Asst. Prof. Dr. Worawan Diaz Carballo, Thammasat University, Thailand*
 **Penyelenggara:** Program Studi S1 Teknik Informatika, Universitas Bengkulu
+**Laporan studi kasus lengkap (latar belakang, rumusan masalah, tujuan, metodologi, hasil, kesimpulan):** [STUDI_KASUS.md](STUDI_KASUS.md)  
 \* Ejaan nama dibaca dari catatan tulisan tangan; mohon dicek.
 
 ## Ringkasan materi

@@ -4,6 +4,7 @@
 
 **Narasumber:** Dr. Arafat Febriandirza, S.T., M.T.I. (Ketua Kelompok Riset Interaksi Manusia Komputer dan Visualisasi, Pusat Riset Sains Data dan Informasi, BRIN)
 **Penyelenggara:** Program Studi S1 Teknik Informatika, Universitas Bengkulu
+**Laporan studi kasus lengkap (latar belakang, rumusan masalah, tujuan, metodologi, hasil, kesimpulan):** [STUDI_KASUS.md](STUDI_KASUS.md)  
 **Rekaman:** [YouTube, Informatika UNIB Official](https://www.youtube.com/live/5KhQm8OaYRM)
 
 ## Ringkasan materi
