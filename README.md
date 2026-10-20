@@ -1,10 +1,26 @@
 # Informatics Practitioner Lecturer Series: Studi Kasus & Implementasi
 
-Kumpulan studi kasus, implementasi kode (Python/Google Colab), dan panduan workflow **KNIME** dari 6 pertemuan *Practitioner Lecture Series* Program Studi S1 Teknik Informatika, Universitas Bengkulu (UNIB).
+**Nama:** Muhammad Yusuf Arrayyan  
+**NPM:** G1A024009  
+**Program Studi:** S1 Teknik Informatika, Universitas Bengkulu (UNIB)
+
+Kumpulan studi kasus, implementasi kode (Python/Google Colab), dan panduan workflow **KNIME** dari 6 pertemuan *Practitioner Lecture Series*.
+
+## Notebook utama (Google Colab)
+Buka langsung di Colab, lalu *Runtime → Run all*. Data dibangkitkan otomatis oleh notebook.
+
+| # | Notebook | Buka |
+|---|---|---|
+| 1 | [`studi_kasus_dan_implementasi_lecture_series_pertemuan_1.ipynb`](studi_kasus_dan_implementasi_lecture_series_pertemuan_1.ipynb) (Make Sense of Data with Analytics and AI) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/studi_kasus_dan_implementasi_lecture_series_pertemuan_1.ipynb) |
+| 2 | [`studi_kasus_dan_implementasi_lecture_series_pertemuan_2.ipynb`](studi_kasus_dan_implementasi_lecture_series_pertemuan_2.ipynb) (Bridging Global Infrastructure to Address Local Challenge with HPC) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/studi_kasus_dan_implementasi_lecture_series_pertemuan_2.ipynb) |
+| 3 | [`studi_kasus_dan_implementasi_lecture_series_pertemuan_3.ipynb`](studi_kasus_dan_implementasi_lecture_series_pertemuan_3.ipynb) (Career and Competition in Indonesia with GIS) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/studi_kasus_dan_implementasi_lecture_series_pertemuan_3.ipynb) |
+| 4 | [`studi_kasus_dan_implementasi_lecture_series_pertemuan_4.ipynb`](studi_kasus_dan_implementasi_lecture_series_pertemuan_4.ipynb) (Introduction to Machine Learning) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/studi_kasus_dan_implementasi_lecture_series_pertemuan_4.ipynb) |
+| 5 | [`studi_kasus_dan_implementasi_lecture_series_pertemuan_5.ipynb`](studi_kasus_dan_implementasi_lecture_series_pertemuan_5.ipynb) (HCI & Data Visualization) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/studi_kasus_dan_implementasi_lecture_series_pertemuan_5.ipynb) |
+| 6 | [`studi_kasus_dan_implementasi_lecture_series_pertemuan_6.ipynb`](studi_kasus_dan_implementasi_lecture_series_pertemuan_6.ipynb) (Attributing Direct Drivers to Deforestation Alerts) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/studi_kasus_dan_implementasi_lecture_series_pertemuan_6.ipynb) |
 
 Setiap folder pertemuan berisi:
 - `README.md`: ringkasan materi, studi kasus, pemetaan materi → implementasi, dan hasil utama
-- `notebook.ipynb`: notebook Google Colab (dibuat otomatis dari `kode.py`)
+- `notebook.ipynb`: salinan notebook yang sama (notebook utama ada di akar repo; semuanya dibuat otomatis dari `kode.py`)
 - `KNIME_GUIDE.md`: panduan membangun workflow KNIME langkah demi langkah
 - `data/`: dataset sintetis (siap dipakai di KNIME) dan `output/`: grafik/hasil
 
