@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HealthViz-HCI: Dasbor Kesiapsiagaan Fasilitas Kesehatan</title>
+<style>
+  * { box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  body { background:#F8F9FA; margin:0; padding:24px; color:#1D2939; }
+  h1 { margin:0 0 6px; font-size:24px; color:#101828; }
+  .sub { margin:0 0 20px; color:#667085; font-size:14px; }
+  .kpi-container { display:flex; flex-wrap:wrap; gap:16px; margin-bottom:20px; }
+  .kpi-card { flex:1 1 220px; background:#fff; padding:18px; border-radius:12px; border:1px solid #EAECF0; }
+  .kpi-title { font-size:12px; font-weight:700; color:#667085; text-transform:uppercase; margin-bottom:6px; }
+  .kpi-value { font-size:26px; font-weight:800; color:#101828; }
+  .c-kritis { color:#B42318; } .c-waspada { color:#B54708; } .c-aman { color:#027A48; }
+  .filter { background:#fff; padding:14px 18px; border-radius:10px; border:1px solid #EAECF0; margin-bottom:20px; display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
+  .filter label { font-size:14px; font-weight:600; color:#344054; }
+  .filter select { padding:10px 12px; border-radius:6px; border:1px solid #98A2B3; font-size:15px; background:#fff; min-height:44px; }
+  .card { background:#fff; padding:20px; border-radius:12px; border:1px solid #EAECF0; margin-bottom:20px; }
+  .card h2 { margin:0 0 8px; font-size:16px; }
+  table { width:100%; border-collapse:collapse; }
+  th, td { padding:12px 14px; text-align:left; font-size:14px; border-bottom:1px solid #F2F4F7; }
+  th { background:#F9FAFB; color:#475467; font-weight:600; }
+  .bar-wrap { display:flex; align-items:center; gap:8px; }
+  .bar-bg { background:#F2F4F7; border-radius:4px; height:12px; width:100%; min-width:80px; overflow:hidden; }
+  .bar-fill { height:100%; border-radius:4px; }
+  .bar-val { font-weight:700; font-size:12px; white-space:nowrap; }
+  .badge { padding:4px 8px; border-radius:6px; font-size:12px; font-weight:700; display:inline-block; }
+  .badge-kritis { background:#FEF3F2; color:#B42318; } .badge-waspada { background:#FFFAEB; color:#B54708; } .badge-aman { background:#ECFDF3; color:#027A48; }
+  .note { font-size:12px; color:#667085; margin-top:8px; }
+  circle:focus { outline: 2px solid #101828; }
+</style>
+</head>
+<body>
+<h1>HealthViz-HCI: Dasbor Monitoring Rumah Sakit Kota</h1>
+<p class="sub">Contoh dengan data fiktif. Dirancang dengan Shneiderman's Mantra, Tufte (data-ink), Gestalt, dan WCAG.</p>
+
+<!-- 1. OVERVIEW FIRST -->
+<div class="kpi-container" aria-live="polite">
+  <div class="kpi-card"><div class="kpi-title">Bed terisi / kapasitas</div><div class="kpi-value" id="kpiKapasitas">692 / 895</div></div>
+  <div class="kpi-card"><div class="kpi-title">Rata-rata BOR</div><div class="kpi-value c-waspada" id="kpiBor">77.3%</div></div>
+  <div class="kpi-card"><div class="kpi-title">RS status kritis (≥80%)</div><div class="kpi-value c-kritis" id="kpiKritis">2 RS</div></div>
+</div>
+
+<!-- 2. ZOOM & FILTER -->
+<div class="filter">
+  <label for="filterWilayah">Saring berdasarkan kecamatan:</label>
+  <select id="filterWilayah">
+    <option value="SEMUA">Seluruh kota</option>
+    <option value="Gading Cempaka">Gading Cempaka</option>
+<option value="Ratu Agung">Ratu Agung</option>
+<option value="Ratu Samban">Ratu Samban</option>
+<option value="Selebar">Selebar</option>
+<option value="Teluk Segara">Teluk Segara</option>
+  </select>
+</div>
+
+<!-- 3. DETAILS-ON-DEMAND -->
+<div class="card">
+  <h2>Kapasitas ruang rawat inap per rumah sakit</h2>
+  <table id="tabelRS">
+    <thead><tr><th>Rumah sakit</th><th>Kecamatan</th><th>Bed terisi / total</th><th style="width:28%">Keterisian (BOR)</th><th>Status</th></tr></thead>
+    <tbody>
+        <tr data-wilayah="Gading Cempaka" data-terisi="285" data-total="320" data-status="Kritis">
+          <td><strong>RS Contoh A</strong></td>
+          <td>Gading Cempaka</td>
+          <td>285 / 320</td>
+          <td><div class="bar-wrap"><div class="bar-bg"><div class="bar-fill" style="width:89.1%;background:#D9383A"></div></div>
+              <span class="bar-val">89.1%</span></div></td>
+          <td><span class="badge badge-kritis">Kritis</span></td>
+        </tr>
+        <tr data-wilayah="Ratu Agung" data-terisi="102" data-total="150" data-status="Aman">
+          <td><strong>RS Contoh B</strong></td>
+          <td>Ratu Agung</td>
+          <td>102 / 150</td>
+          <td><div class="bar-wrap"><div class="bar-bg"><div class="bar-fill" style="width:68.0%;background:#27AE60"></div></div>
+              <span class="bar-val">68.0%</span></div></td>
+          <td><span class="badge badge-aman">Aman</span></td>
+        </tr>
+        <tr data-wilayah="Teluk Segara" data-terisi="82" data-total="110" data-status="Waspada">
+          <td><strong>RS Contoh C</strong></td>
+          <td>Teluk Segara</td>
+          <td>82 / 110</td>
+          <td><div class="bar-wrap"><div class="bar-bg"><div class="bar-fill" style="width:74.5%;background:#F39C12"></div></div>
+              <span class="bar-val">74.5%</span></div></td>
+          <td><span class="badge badge-waspada">Waspada</span></td>
+        </tr>
+        <tr data-wilayah="Ratu Samban" data-terisi="86" data-total="95" data-status="Kritis">
+          <td><strong>RS Contoh D</strong></td>
+          <td>Ratu Samban</td>
+          <td>86 / 95</td>
+          <td><div class="bar-wrap"><div class="bar-bg"><div class="bar-fill" style="width:90.5%;background:#D9383A"></div></div>
+              <span class="bar-val">90.5%</span></div></td>
+          <td><span class="badge badge-kritis">Kritis</span></td>
+        </tr>
+        <tr data-wilayah="Selebar" data-terisi="92" data-total="140" data-status="Aman">
+          <td><strong>RS Contoh E</strong></td>
+          <td>Selebar</td>
+          <td>92 / 140</td>
+          <td><div class="bar-wrap"><div class="bar-bg"><div class="bar-fill" style="width:65.7%;background:#27AE60"></div></div>
+              <span class="bar-val">65.7%</span></div></td>
+          <td><span class="badge badge-aman">Aman</span></td>
+        </tr>
+        <tr data-wilayah="Gading Cempaka" data-terisi="45" data-total="80" data-status="Aman">
+          <td><strong>RS Contoh F</strong></td>
+          <td>Gading Cempaka</td>
+          <td>45 / 80</td>
+          <td><div class="bar-wrap"><div class="bar-bg"><div class="bar-fill" style="width:56.2%;background:#27AE60"></div></div>
+              <span class="bar-val">56.2%</span></div></td>
+          <td><span class="badge badge-aman">Aman</span></td>
+        </tr></tbody>
+  </table>
+</div>
+
+<div class="card">
+  <h2>Tren kasus DBD harian, 30 hari terakhir</h2>
+  <svg viewBox="0 0 900 240" role="img" aria-label="Tren kasus DBD harian 30 hari" style="width:100%;height:auto">
+<line x1="44" x2="884" y1="210.0" y2="210.0" stroke="#EAECF0" stroke-width="1"/><text x="38" y="214.0" text-anchor="end" font-size="11" fill="#667085">0</text>
+<line x1="44" x2="884" y1="170.8" y2="170.8" stroke="#EAECF0" stroke-width="1"/><text x="38" y="174.8" text-anchor="end" font-size="11" fill="#667085">10</text>
+<line x1="44" x2="884" y1="131.6" y2="131.6" stroke="#EAECF0" stroke-width="1"/><text x="38" y="135.6" text-anchor="end" font-size="11" fill="#667085">20</text>
+<line x1="44" x2="884" y1="92.4" y2="92.4" stroke="#EAECF0" stroke-width="1"/><text x="38" y="96.4" text-anchor="end" font-size="11" fill="#667085">30</text>
+<line x1="44" x2="884" y1="53.2" y2="53.2" stroke="#EAECF0" stroke-width="1"/><text x="38" y="57.2" text-anchor="end" font-size="11" fill="#667085">40</text>
+<line x1="44" x2="884" y1="14.0" y2="14.0" stroke="#EAECF0" stroke-width="1"/><text x="38" y="18.0" text-anchor="end" font-size="11" fill="#667085">50</text>
+<text x="44.0" y="232" text-anchor="middle" font-size="11" fill="#667085">20 Sep</text>
+<text x="478.5" y="232" text-anchor="middle" font-size="11" fill="#667085">05 Oct</text>
+<text x="884.0" y="232" text-anchor="middle" font-size="11" fill="#667085">19 Oct</text>
+<polyline points="44.0,127.7 73.0,159.0 101.9,135.5 130.9,119.8 159.9,159.0 188.8,151.2 217.8,143.4 246.8,135.5 275.7,151.2 304.7,143.4 333.7,155.1 362.6,135.5 391.6,135.5 420.6,151.2 449.5,131.6 478.5,163.0 507.4,151.2 536.4,151.2 565.4,135.5 594.3,108.1 623.3,166.9 652.3,178.6 681.2,88.5 710.2,33.6 739.2,41.4 768.1,80.6 797.1,123.8 826.1,127.7 855.0,123.8 884.0,147.3" fill="none" stroke="#1570EF" stroke-width="2.2"/>
+<circle cx="44.0" cy="127.7" r="9" fill="transparent" tabindex="0"><title>20 Sep 2026: 21 kasus</title></circle>
+<circle cx="73.0" cy="159.0" r="9" fill="transparent" tabindex="0"><title>21 Sep 2026: 13 kasus</title></circle>
+<circle cx="101.9" cy="135.5" r="9" fill="transparent" tabindex="0"><title>22 Sep 2026: 19 kasus</title></circle>
+<circle cx="130.9" cy="119.8" r="9" fill="transparent" tabindex="0"><title>23 Sep 2026: 23 kasus</title></circle>
+<circle cx="159.9" cy="159.0" r="9" fill="transparent" tabindex="0"><title>24 Sep 2026: 13 kasus</title></circle>
+<circle cx="188.8" cy="151.2" r="9" fill="transparent" tabindex="0"><title>25 Sep 2026: 15 kasus</title></circle>
+<circle cx="217.8" cy="143.4" r="9" fill="transparent" tabindex="0"><title>26 Sep 2026: 17 kasus</title></circle>
+<circle cx="246.8" cy="135.5" r="9" fill="transparent" tabindex="0"><title>27 Sep 2026: 19 kasus</title></circle>
+<circle cx="275.7" cy="151.2" r="9" fill="transparent" tabindex="0"><title>28 Sep 2026: 15 kasus</title></circle>
+<circle cx="304.7" cy="143.4" r="9" fill="transparent" tabindex="0"><title>29 Sep 2026: 17 kasus</title></circle>
+<circle cx="333.7" cy="155.1" r="9" fill="transparent" tabindex="0"><title>30 Sep 2026: 14 kasus</title></circle>
+<circle cx="362.6" cy="135.5" r="9" fill="transparent" tabindex="0"><title>01 Oct 2026: 19 kasus</title></circle>
+<circle cx="391.6" cy="135.5" r="9" fill="transparent" tabindex="0"><title>02 Oct 2026: 19 kasus</title></circle>
+<circle cx="420.6" cy="151.2" r="9" fill="transparent" tabindex="0"><title>03 Oct 2026: 15 kasus</title></circle>
+<circle cx="449.5" cy="131.6" r="9" fill="transparent" tabindex="0"><title>04 Oct 2026: 20 kasus</title></circle>
+<circle cx="478.5" cy="163.0" r="9" fill="transparent" tabindex="0"><title>05 Oct 2026: 12 kasus</title></circle>
+<circle cx="507.4" cy="151.2" r="9" fill="transparent" tabindex="0"><title>06 Oct 2026: 15 kasus</title></circle>
+<circle cx="536.4" cy="151.2" r="9" fill="transparent" tabindex="0"><title>07 Oct 2026: 15 kasus</title></circle>
+<circle cx="565.4" cy="135.5" r="9" fill="transparent" tabindex="0"><title>08 Oct 2026: 19 kasus</title></circle>
+<circle cx="594.3" cy="108.1" r="9" fill="transparent" tabindex="0"><title>09 Oct 2026: 26 kasus</title></circle>
+<circle cx="623.3" cy="166.9" r="9" fill="transparent" tabindex="0"><title>10 Oct 2026: 11 kasus</title></circle>
+<circle cx="652.3" cy="178.6" r="9" fill="transparent" tabindex="0"><title>11 Oct 2026: 8 kasus</title></circle>
+<circle cx="681.2" cy="88.5" r="5" fill="#D9383A"/>
+<circle cx="681.2" cy="88.5" r="9" fill="transparent" tabindex="0"><title>12 Oct 2026: 31 kasus (lonjakan)</title></circle>
+<circle cx="710.2" cy="33.6" r="5" fill="#D9383A"/>
+<circle cx="710.2" cy="33.6" r="9" fill="transparent" tabindex="0"><title>13 Oct 2026: 45 kasus (lonjakan)</title></circle>
+<circle cx="739.2" cy="41.4" r="5" fill="#D9383A"/>
+<circle cx="739.2" cy="41.4" r="9" fill="transparent" tabindex="0"><title>14 Oct 2026: 43 kasus (lonjakan)</title></circle>
+<circle cx="768.1" cy="80.6" r="5" fill="#D9383A"/>
+<circle cx="768.1" cy="80.6" r="9" fill="transparent" tabindex="0"><title>15 Oct 2026: 33 kasus (lonjakan)</title></circle>
+<circle cx="797.1" cy="123.8" r="9" fill="transparent" tabindex="0"><title>16 Oct 2026: 22 kasus</title></circle>
+<circle cx="826.1" cy="127.7" r="9" fill="transparent" tabindex="0"><title>17 Oct 2026: 21 kasus</title></circle>
+<circle cx="855.0" cy="123.8" r="9" fill="transparent" tabindex="0"><title>18 Oct 2026: 22 kasus</title></circle>
+<circle cx="884.0" cy="147.3" r="9" fill="transparent" tabindex="0"><title>19 Oct 2026: 16 kasus</title></circle>
+</svg>
+  <p class="note">Titik merah = lonjakan (≥30 kasus). Arahkan kursor atau fokuskan dengan papan ketik pada titik untuk melihat rincian.</p>
+</div>
+
+<script>
+  function kelasStatus(bor) { return bor >= 80 ? "c-kritis" : (bor >= 70 ? "c-waspada" : "c-aman"); }
+  function perbarui() {
+    var pilihan = document.getElementById("filterWilayah").value;
+    var terisi = 0, total = 0, kritis = 0;
+    document.querySelectorAll("#tabelRS tbody tr").forEach(function (tr) {
+      var tampil = (pilihan === "SEMUA" || tr.getAttribute("data-wilayah") === pilihan);
+      tr.style.display = tampil ? "" : "none";
+      if (tampil) {
+        terisi += parseInt(tr.getAttribute("data-terisi"));
+        total += parseInt(tr.getAttribute("data-total"));
+        if (tr.getAttribute("data-status") === "Kritis") kritis += 1;
+      }
+    });
+    var bor = total > 0 ? terisi / total * 100 : 0;
+    document.getElementById("kpiKapasitas").textContent = terisi + " / " + total;
+    var elBor = document.getElementById("kpiBor");
+    elBor.textContent = bor.toFixed(1) + "%";
+    elBor.className = "kpi-value " + kelasStatus(bor);
+    var elK = document.getElementById("kpiKritis");
+    elK.textContent = kritis + " RS";
+    elK.className = "kpi-value " + (kritis > 0 ? "c-kritis" : "c-aman");
+  }
+  document.getElementById("filterWilayah").addEventListener("change", perbarui);
+  perbarui();
+</script>
+</body>
+</html>

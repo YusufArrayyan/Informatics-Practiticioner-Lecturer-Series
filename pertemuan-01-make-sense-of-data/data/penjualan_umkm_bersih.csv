@@ -1,0 +1,3277 @@
+tanggal,outlet,produk,qty,harga,promo,hujan,weekend
+2026-01-01,Padang Harapan,Es Teh,56.0,5000,1,0,0
+2026-01-01,Padang Harapan,Martabak,13.0,20000,1,0,0
+2026-01-01,Padang Harapan,Mie Ayam,28.0,13000,1,0,0
+2026-01-01,Padang Harapan,Nasi Goreng,30.0,15000,1,0,0
+2026-01-01,Panorama,Es Teh,60.0,5000,0,0,0
+2026-01-01,Panorama,Martabak,12.0,20000,0,0,0
+2026-01-01,Panorama,Mie Ayam,30.0,13000,0,0,0
+2026-01-01,Panorama,Nasi Goreng,29.0,15000,0,0,0
+2026-01-01,Pasar Minggu,Es Teh,36.0,5000,0,0,0
+2026-01-01,Pasar Minggu,Martabak,14.0,20000,0,0,0
+2026-01-01,Pasar Minggu,Mie Ayam,29.0,13000,0,0,0
+2026-01-01,Pasar Minggu,Nasi Goreng,37.0,15000,0,0,0
+2026-01-02,Padang Harapan,Es Teh,37.0,5000,0,1,0
+2026-01-02,Padang Harapan,Martabak,9.0,20000,0,1,0
+2026-01-02,Padang Harapan,Mie Ayam,25.0,13000,0,1,0
+2026-01-02,Padang Harapan,Nasi Goreng,29.0,15000,0,1,0
+2026-01-02,Panorama,Es Teh,51.0,5000,1,1,0
+2026-01-02,Panorama,Martabak,11.0,20000,1,1,0
+2026-01-02,Panorama,Mie Ayam,32.0,13000,1,1,0
+2026-01-02,Panorama,Nasi Goreng,29.0,15000,1,1,0
+2026-01-02,Pasar Minggu,Es Teh,34.0,5000,0,1,0
+2026-01-02,Pasar Minggu,Martabak,14.0,20000,0,1,0
+2026-01-02,Pasar Minggu,Mie Ayam,25.0,13000,0,1,0
+2026-01-02,Pasar Minggu,Nasi Goreng,23.0,15000,0,1,0
+2026-01-03,Padang Harapan,Es Teh,61.0,5000,0,0,1
+2026-01-03,Padang Harapan,Martabak,27.0,20000,0,0,1
+2026-01-03,Padang Harapan,Mie Ayam,30.0,13000,0,0,1
+2026-01-03,Padang Harapan,Nasi Goreng,39.0,15000,0,0,1
+2026-01-03,Panorama,Es Teh,66.0,5000,0,0,1
+2026-01-03,Panorama,Martabak,21.0,20000,0,0,1
+2026-01-03,Panorama,Mie Ayam,27.0,13000,0,0,1
+2026-01-03,Panorama,Nasi Goreng,37.0,15000,0,0,1
+2026-01-03,Pasar Minggu,Es Teh,77.0,5000,1,0,1
+2026-01-03,Pasar Minggu,Martabak,28.0,20000,1,0,1
+2026-01-03,Pasar Minggu,Mie Ayam,38.0,13000,1,0,1
+2026-01-03,Pasar Minggu,Nasi Goreng,36.0,15000,1,0,1
+2026-01-04,Padang Harapan,Es Teh,38.0,5000,0,1,1
+2026-01-04,Padang Harapan,Martabak,17.0,20000,0,1,1
+2026-01-04,Padang Harapan,Mie Ayam,34.0,13000,0,1,1
+2026-01-04,Padang Harapan,Nasi Goreng,23.0,15000,0,1,1
+2026-01-04,Panorama,Es Teh,58.0,5000,0,1,1
+2026-01-04,Panorama,Martabak,19.0,20000,0,1,1
+2026-01-04,Panorama,Mie Ayam,36.0,13000,0,1,1
+2026-01-04,Panorama,Nasi Goreng,37.0,15000,0,1,1
+2026-01-04,Pasar Minggu,Es Teh,38.0,5000,0,1,1
+2026-01-04,Pasar Minggu,Martabak,16.0,20000,0,1,1
+2026-01-04,Pasar Minggu,Mie Ayam,26.0,13000,0,1,1
+2026-01-04,Pasar Minggu,Nasi Goreng,37.0,15000,0,1,1
+2026-01-05,Padang Harapan,Es Teh,39.0,5000,0,0,0
+2026-01-05,Padang Harapan,Martabak,16.0,20000,0,0,0
+2026-01-05,Padang Harapan,Mie Ayam,28.0,13000,0,0,0
+2026-01-05,Padang Harapan,Nasi Goreng,26.0,15000,0,0,0
+2026-01-05,Panorama,Es Teh,60.0,5000,0,0,0
+2026-01-05,Panorama,Martabak,17.0,20000,0,0,0
+2026-01-05,Panorama,Mie Ayam,28.0,13000,0,0,0
+2026-01-05,Panorama,Nasi Goreng,29.0,15000,0,0,0
+2026-01-05,Pasar Minggu,Es Teh,45.0,5000,1,0,0
+2026-01-05,Pasar Minggu,Martabak,27.0,20000,1,0,0
+2026-01-05,Pasar Minggu,Mie Ayam,36.0,13000,1,0,0
+2026-01-05,Pasar Minggu,Nasi Goreng,53.0,15000,1,0,0
+2026-01-06,Padang Harapan,Es Teh,56.0,5000,1,0,0
+2026-01-06,Padang Harapan,Martabak,13.0,20000,1,0,0
+2026-01-06,Padang Harapan,Mie Ayam,26.0,13000,1,0,0
+2026-01-06,Padang Harapan,Nasi Goreng,39.0,15000,1,0,0
+2026-01-06,Panorama,Es Teh,44.0,5000,0,0,0
+2026-01-06,Panorama,Martabak,21.0,20000,0,0,0
+2026-01-06,Panorama,Mie Ayam,19.0,13000,0,0,0
+2026-01-06,Panorama,Nasi Goreng,36.0,15000,0,0,0
+2026-01-06,Pasar Minggu,Es Teh,37.0,5000,0,0,0
+2026-01-06,Pasar Minggu,Martabak,15.0,20000,0,0,0
+2026-01-06,Pasar Minggu,Mie Ayam,22.0,13000,0,0,0
+2026-01-06,Pasar Minggu,Nasi Goreng,27.0,15000,0,0,0
+2026-01-07,Padang Harapan,Es Teh,47.0,5000,0,1,0
+2026-01-07,Padang Harapan,Martabak,12.0,20000,0,1,0
+2026-01-07,Padang Harapan,Mie Ayam,14.0,13000,0,1,0
+2026-01-07,Padang Harapan,Nasi Goreng,26.0,15000,0,1,0
+2026-01-07,Panorama,Es Teh,55.0,5000,0,1,0
+2026-01-07,Panorama,Martabak,20.0,20000,0,1,0
+2026-01-07,Panorama,Mie Ayam,25.0,13000,0,1,0
+2026-01-07,Panorama,Nasi Goreng,25.0,15000,0,1,0
+2026-01-07,Pasar Minggu,Es Teh,40.0,5000,0,1,0
+2026-01-07,Pasar Minggu,Martabak,7.0,20000,0,1,0
+2026-01-07,Pasar Minggu,Mie Ayam,16.0,13000,0,1,0
+2026-01-07,Pasar Minggu,Nasi Goreng,27.0,15000,0,1,0
+2026-01-08,Padang Harapan,Es Teh,46.0,5000,0,1,0
+2026-01-08,Padang Harapan,Martabak,10.0,20000,0,1,0
+2026-01-08,Padang Harapan,Mie Ayam,25.0,13000,0,1,0
+2026-01-08,Padang Harapan,Nasi Goreng,29.0,15000,0,1,0
+2026-01-08,Panorama,Es Teh,44.0,5000,0,1,0
+2026-01-08,Panorama,Martabak,8.0,20000,0,1,0
+2026-01-08,Panorama,Mie Ayam,18.0,13000,0,1,0
+2026-01-08,Panorama,Nasi Goreng,33.0,15000,0,1,0
+2026-01-08,Pasar Minggu,Es Teh,47.0,5000,1,1,0
+2026-01-08,Pasar Minggu,Martabak,13.0,20000,1,1,0
+2026-01-08,Pasar Minggu,Mie Ayam,27.0,13000,1,1,0
+2026-01-08,Pasar Minggu,Nasi Goreng,29.0,15000,1,1,0
+2026-01-09,Padang Harapan,Es Teh,43.0,5000,0,1,0
+2026-01-09,Padang Harapan,Martabak,11.0,20000,0,1,0
+2026-01-09,Padang Harapan,Mie Ayam,20.0,13000,0,1,0
+2026-01-09,Padang Harapan,Nasi Goreng,28.0,15000,0,1,0
+2026-01-09,Panorama,Es Teh,47.0,5000,1,1,0
+2026-01-09,Panorama,Martabak,20.0,20000,1,1,0
+2026-01-09,Panorama,Mie Ayam,26.0,13000,1,1,0
+2026-01-09,Panorama,Nasi Goreng,28.0,15000,1,1,0
+2026-01-09,Pasar Minggu,Es Teh,41.0,5000,1,1,0
+2026-01-09,Pasar Minggu,Martabak,6.0,20000,1,1,0
+2026-01-09,Pasar Minggu,Mie Ayam,28.0,13000,1,1,0
+2026-01-09,Pasar Minggu,Nasi Goreng,18.0,15000,1,1,0
+2026-01-10,Padang Harapan,Es Teh,39.0,5000,0,1,1
+2026-01-10,Padang Harapan,Martabak,10.0,20000,0,1,1
+2026-01-10,Padang Harapan,Mie Ayam,30.0,13000,0,1,1
+2026-01-10,Padang Harapan,Nasi Goreng,37.0,15000,0,1,1
+2026-01-10,Panorama,Es Teh,57.0,5000,0,1,1
+2026-01-10,Panorama,Martabak,18.0,20000,0,1,1
+2026-01-10,Panorama,Mie Ayam,30.0,13000,0,1,1
+2026-01-10,Panorama,Nasi Goreng,35.0,15000,0,1,1
+2026-01-10,Pasar Minggu,Es Teh,58.0,5000,1,1,1
+2026-01-10,Pasar Minggu,Martabak,19.0,20000,1,1,1
+2026-01-10,Pasar Minggu,Mie Ayam,29.0,13000,1,1,1
+2026-01-10,Pasar Minggu,Nasi Goreng,40.0,15000,1,1,1
+2026-01-11,Padang Harapan,Es Teh,57.0,5000,1,1,1
+2026-01-11,Padang Harapan,Martabak,24.0,20000,1,1,1
+2026-01-11,Padang Harapan,Mie Ayam,39.0,13000,1,1,1
+2026-01-11,Padang Harapan,Nasi Goreng,43.0,15000,1,1,1
+2026-01-11,Panorama,Es Teh,60.0,5000,0,1,1
+2026-01-11,Panorama,Martabak,12.0,20000,0,1,1
+2026-01-11,Panorama,Mie Ayam,30.0,13000,0,1,1
+2026-01-11,Panorama,Nasi Goreng,37.0,15000,0,1,1
+2026-01-11,Pasar Minggu,Es Teh,50.0,5000,0,1,1
+2026-01-11,Pasar Minggu,Martabak,18.0,20000,0,1,1
+2026-01-11,Pasar Minggu,Mie Ayam,38.0,13000,0,1,1
+2026-01-11,Pasar Minggu,Nasi Goreng,38.0,15000,0,1,1
+2026-01-12,Padang Harapan,Es Teh,41.0,5000,0,0,0
+2026-01-12,Padang Harapan,Martabak,18.0,20000,0,0,0
+2026-01-12,Padang Harapan,Mie Ayam,24.0,13000,0,0,0
+2026-01-12,Padang Harapan,Nasi Goreng,36.0,15000,0,0,0
+2026-01-12,Panorama,Es Teh,40.0,5000,0,0,0
+2026-01-12,Panorama,Martabak,19.0,20000,0,0,0
+2026-01-12,Panorama,Mie Ayam,34.0,13000,0,0,0
+2026-01-12,Panorama,Nasi Goreng,46.0,15000,0,0,0
+2026-01-12,Pasar Minggu,Es Teh,43.0,5000,0,0,0
+2026-01-12,Pasar Minggu,Martabak,18.0,20000,0,0,0
+2026-01-12,Pasar Minggu,Mie Ayam,35.0,13000,0,0,0
+2026-01-12,Pasar Minggu,Nasi Goreng,24.0,15000,0,0,0
+2026-01-13,Padang Harapan,Es Teh,65.0,5000,1,0,0
+2026-01-13,Padang Harapan,Martabak,22.0,20000,1,0,0
+2026-01-13,Padang Harapan,Mie Ayam,25.0,13000,1,0,0
+2026-01-13,Padang Harapan,Nasi Goreng,29.0,15000,1,0,0
+2026-01-13,Panorama,Es Teh,69.0,5000,1,0,0
+2026-01-13,Panorama,Martabak,26.0,20000,1,0,0
+2026-01-13,Panorama,Mie Ayam,41.0,13000,1,0,0
+2026-01-13,Panorama,Nasi Goreng,47.0,15000,1,0,0
+2026-01-13,Pasar Minggu,Es Teh,37.0,5000,0,0,0
+2026-01-13,Pasar Minggu,Martabak,17.0,20000,0,0,0
+2026-01-13,Pasar Minggu,Mie Ayam,27.0,13000,0,0,0
+2026-01-13,Pasar Minggu,Nasi Goreng,26.0,15000,0,0,0
+2026-01-14,Padang Harapan,Es Teh,45.0,5000,0,1,0
+2026-01-14,Padang Harapan,Martabak,13.0,20000,0,1,0
+2026-01-14,Padang Harapan,Mie Ayam,17.0,13000,0,1,0
+2026-01-14,Padang Harapan,Nasi Goreng,17.0,15000,0,1,0
+2026-01-14,Panorama,Es Teh,52.0,5000,0,1,0
+2026-01-14,Panorama,Martabak,13.0,20000,0,1,0
+2026-01-14,Panorama,Mie Ayam,25.0,13000,0,1,0
+2026-01-14,Panorama,Nasi Goreng,23.0,15000,0,1,0
+2026-01-14,Pasar Minggu,Es Teh,26.0,5000,0,1,0
+2026-01-14,Pasar Minggu,Martabak,15.0,20000,0,1,0
+2026-01-14,Pasar Minggu,Mie Ayam,23.0,13000,0,1,0
+2026-01-14,Pasar Minggu,Nasi Goreng,29.0,15000,0,1,0
+2026-01-15,Padang Harapan,Es Teh,41.0,5000,0,0,0
+2026-01-15,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-01-15,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-01-15,Padang Harapan,Nasi Goreng,39.0,15000,0,0,0
+2026-01-15,Panorama,Es Teh,52.0,5000,0,0,0
+2026-01-15,Panorama,Martabak,15.0,20000,0,0,0
+2026-01-15,Panorama,Mie Ayam,28.0,13000,0,0,0
+2026-01-15,Panorama,Nasi Goreng,30.0,15000,0,0,0
+2026-01-15,Pasar Minggu,Es Teh,58.0,5000,1,0,0
+2026-01-15,Pasar Minggu,Martabak,21.0,20000,1,0,0
+2026-01-15,Pasar Minggu,Mie Ayam,31.0,13000,1,0,0
+2026-01-15,Pasar Minggu,Nasi Goreng,39.0,15000,1,0,0
+2026-01-16,Padang Harapan,Es Teh,43.0,5000,1,1,0
+2026-01-16,Padang Harapan,Martabak,18.0,20000,1,1,0
+2026-01-16,Padang Harapan,Mie Ayam,19.0,13000,1,1,0
+2026-01-16,Padang Harapan,Nasi Goreng,30.0,15000,1,1,0
+2026-01-16,Panorama,Es Teh,54.0,5000,1,1,0
+2026-01-16,Panorama,Martabak,18.0,20000,1,1,0
+2026-01-16,Panorama,Mie Ayam,24.0,13000,1,1,0
+2026-01-16,Panorama,Nasi Goreng,35.0,15000,1,1,0
+2026-01-16,Pasar Minggu,Es Teh,33.0,5000,0,1,0
+2026-01-16,Pasar Minggu,Martabak,16.0,20000,0,1,0
+2026-01-16,Pasar Minggu,Mie Ayam,18.0,13000,0,1,0
+2026-01-16,Pasar Minggu,Nasi Goreng,14.0,15000,0,1,0
+2026-01-17,Padang Harapan,Es Teh,73.0,5000,0,0,1
+2026-01-17,Padang Harapan,Martabak,26.0,20000,0,0,1
+2026-01-17,Padang Harapan,Mie Ayam,41.0,13000,0,0,1
+2026-01-17,Padang Harapan,Nasi Goreng,40.0,15000,0,0,1
+2026-01-17,Panorama,Es Teh,50.0,5000,0,0,1
+2026-01-17,Panorama,Martabak,23.0,20000,0,0,1
+2026-01-17,Panorama,Mie Ayam,40.0,13000,0,0,1
+2026-01-17,Panorama,Nasi Goreng,47.0,15000,0,0,1
+2026-01-17,Pasar Minggu,Es Teh,78.0,5000,1,0,1
+2026-01-17,Pasar Minggu,Martabak,17.0,20000,1,0,1
+2026-01-17,Pasar Minggu,Mie Ayam,38.0,13000,1,0,1
+2026-01-17,Pasar Minggu,Nasi Goreng,34.0,15000,1,0,1
+2026-01-18,Padang Harapan,Es Teh,66.0,5000,0,0,1
+2026-01-18,Padang Harapan,Martabak,21.0,20000,0,0,1
+2026-01-18,Padang Harapan,Mie Ayam,41.0,13000,0,0,1
+2026-01-18,Padang Harapan,Nasi Goreng,50.0,15000,0,0,1
+2026-01-18,Panorama,Es Teh,61.0,5000,0,0,1
+2026-01-18,Panorama,Martabak,21.0,20000,0,0,1
+2026-01-18,Panorama,Mie Ayam,39.0,13000,0,0,1
+2026-01-18,Panorama,Nasi Goreng,43.0,15000,0,0,1
+2026-01-18,Pasar Minggu,Es Teh,52.0,5000,0,0,1
+2026-01-18,Pasar Minggu,Martabak,16.0,20000,0,0,1
+2026-01-18,Pasar Minggu,Mie Ayam,44.0,13000,0,0,1
+2026-01-18,Pasar Minggu,Nasi Goreng,31.0,15000,0,0,1
+2026-01-19,Padang Harapan,Es Teh,39.0,5000,1,0,0
+2026-01-19,Padang Harapan,Martabak,20.0,20000,1,0,0
+2026-01-19,Padang Harapan,Mie Ayam,35.0,13000,1,0,0
+2026-01-19,Padang Harapan,Nasi Goreng,41.0,15000,1,0,0
+2026-01-19,Panorama,Es Teh,57.0,5000,0,0,0
+2026-01-19,Panorama,Martabak,15.0,20000,0,0,0
+2026-01-19,Panorama,Mie Ayam,19.0,13000,0,0,0
+2026-01-19,Panorama,Nasi Goreng,31.0,15000,0,0,0
+2026-01-19,Pasar Minggu,Es Teh,36.0,5000,0,0,0
+2026-01-19,Pasar Minggu,Martabak,18.0,20000,0,0,0
+2026-01-19,Pasar Minggu,Mie Ayam,29.0,13000,0,0,0
+2026-01-19,Pasar Minggu,Nasi Goreng,26.0,15000,0,0,0
+2026-01-20,Padang Harapan,Es Teh,45.0,5000,0,1,0
+2026-01-20,Padang Harapan,Martabak,18.0,20000,0,1,0
+2026-01-20,Padang Harapan,Mie Ayam,14.0,13000,0,1,0
+2026-01-20,Padang Harapan,Nasi Goreng,21.0,15000,0,1,0
+2026-01-20,Panorama,Es Teh,48.0,5000,0,1,0
+2026-01-20,Panorama,Martabak,7.0,20000,0,1,0
+2026-01-20,Panorama,Mie Ayam,20.0,13000,0,1,0
+2026-01-20,Panorama,Nasi Goreng,23.0,15000,0,1,0
+2026-01-20,Pasar Minggu,Es Teh,39.0,5000,0,1,0
+2026-01-20,Pasar Minggu,Martabak,16.0,20000,0,1,0
+2026-01-20,Pasar Minggu,Mie Ayam,19.0,13000,0,1,0
+2026-01-20,Pasar Minggu,Nasi Goreng,27.0,15000,0,1,0
+2026-01-21,Padang Harapan,Es Teh,35.0,5000,0,1,0
+2026-01-21,Padang Harapan,Martabak,15.0,20000,0,1,0
+2026-01-21,Padang Harapan,Mie Ayam,24.0,13000,0,1,0
+2026-01-21,Padang Harapan,Nasi Goreng,21.0,15000,0,1,0
+2026-01-21,Panorama,Es Teh,41.0,5000,0,1,0
+2026-01-21,Panorama,Martabak,11.0,20000,0,1,0
+2026-01-21,Panorama,Mie Ayam,22.0,13000,0,1,0
+2026-01-21,Panorama,Nasi Goreng,34.0,15000,0,1,0
+2026-01-21,Pasar Minggu,Es Teh,35.0,5000,0,1,0
+2026-01-21,Pasar Minggu,Martabak,15.0,20000,0,1,0
+2026-01-21,Pasar Minggu,Mie Ayam,22.0,13000,0,1,0
+2026-01-21,Pasar Minggu,Nasi Goreng,15.0,15000,0,1,0
+2026-01-22,Padang Harapan,Es Teh,42.0,5000,0,0,0
+2026-01-22,Padang Harapan,Martabak,12.0,20000,0,0,0
+2026-01-22,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-01-22,Padang Harapan,Nasi Goreng,37.0,15000,0,0,0
+2026-01-22,Panorama,Es Teh,54.0,5000,0,0,0
+2026-01-22,Panorama,Martabak,14.0,20000,0,0,0
+2026-01-22,Panorama,Mie Ayam,26.0,13000,0,0,0
+2026-01-22,Panorama,Nasi Goreng,20.0,15000,0,0,0
+2026-01-22,Pasar Minggu,Es Teh,50.0,5000,1,0,0
+2026-01-22,Pasar Minggu,Martabak,18.0,20000,1,0,0
+2026-01-22,Pasar Minggu,Mie Ayam,23.0,13000,1,0,0
+2026-01-22,Pasar Minggu,Nasi Goreng,38.0,15000,1,0,0
+2026-01-23,Padang Harapan,Es Teh,42.0,5000,0,1,0
+2026-01-23,Padang Harapan,Martabak,15.0,20000,0,1,0
+2026-01-23,Padang Harapan,Mie Ayam,19.0,13000,0,1,0
+2026-01-23,Padang Harapan,Nasi Goreng,26.0,15000,0,1,0
+2026-01-23,Panorama,Es Teh,52.0,5000,1,1,0
+2026-01-23,Panorama,Martabak,17.0,20000,1,1,0
+2026-01-23,Panorama,Mie Ayam,12.0,13000,1,1,0
+2026-01-23,Panorama,Nasi Goreng,26.0,15000,1,1,0
+2026-01-23,Pasar Minggu,Es Teh,22.0,5000,0,1,0
+2026-01-23,Pasar Minggu,Martabak,14.0,20000,0,1,0
+2026-01-23,Pasar Minggu,Mie Ayam,18.0,13000,0,1,0
+2026-01-23,Pasar Minggu,Nasi Goreng,27.0,15000,0,1,0
+2026-01-24,Padang Harapan,Es Teh,56.0,5000,0,1,1
+2026-01-24,Padang Harapan,Martabak,17.0,20000,0,1,1
+2026-01-24,Padang Harapan,Mie Ayam,24.0,13000,0,1,1
+2026-01-24,Padang Harapan,Nasi Goreng,34.0,15000,0,1,1
+2026-01-24,Panorama,Es Teh,69.0,5000,1,1,1
+2026-01-24,Panorama,Martabak,29.0,20000,1,1,1
+2026-01-24,Panorama,Mie Ayam,30.0,13000,1,1,1
+2026-01-24,Panorama,Nasi Goreng,36.0,15000,1,1,1
+2026-01-24,Pasar Minggu,Es Teh,54.0,5000,0,1,1
+2026-01-24,Pasar Minggu,Martabak,22.0,20000,0,1,1
+2026-01-24,Pasar Minggu,Mie Ayam,31.0,13000,0,1,1
+2026-01-24,Pasar Minggu,Nasi Goreng,29.0,15000,0,1,1
+2026-01-25,Padang Harapan,Es Teh,66.0,5000,0,0,1
+2026-01-25,Padang Harapan,Martabak,19.0,20000,0,0,1
+2026-01-25,Padang Harapan,Mie Ayam,28.0,13000,0,0,1
+2026-01-25,Padang Harapan,Nasi Goreng,34.0,15000,0,0,1
+2026-01-25,Panorama,Es Teh,97.0,5000,1,0,1
+2026-01-25,Panorama,Martabak,31.0,20000,1,0,1
+2026-01-25,Panorama,Mie Ayam,44.0,13000,1,0,1
+2026-01-25,Panorama,Nasi Goreng,63.0,15000,1,0,1
+2026-01-25,Pasar Minggu,Es Teh,66.0,5000,0,0,1
+2026-01-25,Pasar Minggu,Martabak,19.0,20000,0,0,1
+2026-01-25,Pasar Minggu,Mie Ayam,32.0,13000,0,0,1
+2026-01-25,Pasar Minggu,Nasi Goreng,43.0,15000,0,0,1
+2026-01-26,Padang Harapan,Es Teh,43.0,5000,0,0,0
+2026-01-26,Padang Harapan,Martabak,10.0,20000,0,0,0
+2026-01-26,Padang Harapan,Mie Ayam,20.0,13000,0,0,0
+2026-01-26,Padang Harapan,Nasi Goreng,41.0,15000,0,0,0
+2026-01-26,Panorama,Es Teh,46.0,5000,0,0,0
+2026-01-26,Panorama,Martabak,17.0,20000,0,0,0
+2026-01-26,Panorama,Mie Ayam,35.0,13000,0,0,0
+2026-01-26,Panorama,Nasi Goreng,31.0,15000,0,0,0
+2026-01-26,Pasar Minggu,Es Teh,35.0,5000,0,0,0
+2026-01-26,Pasar Minggu,Martabak,18.0,20000,0,0,0
+2026-01-26,Pasar Minggu,Mie Ayam,31.0,13000,0,0,0
+2026-01-26,Pasar Minggu,Nasi Goreng,35.0,15000,0,0,0
+2026-01-27,Padang Harapan,Es Teh,27.0,5000,0,1,0
+2026-01-27,Padang Harapan,Martabak,13.0,20000,0,1,0
+2026-01-27,Padang Harapan,Mie Ayam,17.0,13000,0,1,0
+2026-01-27,Padang Harapan,Nasi Goreng,15.0,15000,0,1,0
+2026-01-27,Panorama,Es Teh,39.0,5000,1,1,0
+2026-01-27,Panorama,Martabak,14.0,20000,1,1,0
+2026-01-27,Panorama,Mie Ayam,30.0,13000,1,1,0
+2026-01-27,Panorama,Nasi Goreng,33.0,15000,1,1,0
+2026-01-27,Pasar Minggu,Es Teh,30.0,5000,0,1,0
+2026-01-27,Pasar Minggu,Martabak,12.0,20000,0,1,0
+2026-01-27,Pasar Minggu,Mie Ayam,17.0,13000,0,1,0
+2026-01-27,Pasar Minggu,Nasi Goreng,20.0,15000,0,1,0
+2026-01-28,Padang Harapan,Es Teh,31.0,5000,0,1,0
+2026-01-28,Padang Harapan,Martabak,15.0,20000,0,1,0
+2026-01-28,Padang Harapan,Mie Ayam,20.0,13000,0,1,0
+2026-01-28,Padang Harapan,Nasi Goreng,31.0,15000,0,1,0
+2026-01-28,Panorama,Es Teh,38.0,5000,0,1,0
+2026-01-28,Panorama,Martabak,10.0,20000,0,1,0
+2026-01-28,Panorama,Mie Ayam,28.0,13000,0,1,0
+2026-01-28,Panorama,Nasi Goreng,18.0,15000,0,1,0
+2026-01-28,Pasar Minggu,Es Teh,34.0,5000,0,1,0
+2026-01-28,Pasar Minggu,Martabak,15.0,20000,0,1,0
+2026-01-28,Pasar Minggu,Mie Ayam,17.0,13000,0,1,0
+2026-01-28,Pasar Minggu,Nasi Goreng,25.0,15000,0,1,0
+2026-01-29,Padang Harapan,Es Teh,45.0,5000,0,0,0
+2026-01-29,Padang Harapan,Martabak,13.0,20000,0,0,0
+2026-01-29,Padang Harapan,Mie Ayam,29.0,13000,0,0,0
+2026-01-29,Padang Harapan,Nasi Goreng,30.0,15000,0,0,0
+2026-01-29,Panorama,Es Teh,61.0,5000,0,0,0
+2026-01-29,Panorama,Martabak,18.0,20000,0,0,0
+2026-01-29,Panorama,Mie Ayam,12.0,13000,0,0,0
+2026-01-29,Panorama,Nasi Goreng,27.0,15000,0,0,0
+2026-01-29,Pasar Minggu,Es Teh,60.0,5000,0,0,0
+2026-01-29,Pasar Minggu,Martabak,24.0,20000,0,0,0
+2026-01-29,Pasar Minggu,Mie Ayam,18.0,13000,0,0,0
+2026-01-29,Pasar Minggu,Nasi Goreng,31.0,15000,0,0,0
+2026-01-30,Padang Harapan,Es Teh,49.0,5000,0,0,0
+2026-01-30,Padang Harapan,Martabak,17.0,20000,0,0,0
+2026-01-30,Padang Harapan,Mie Ayam,23.0,13000,0,0,0
+2026-01-30,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-01-30,Panorama,Es Teh,58.0,5000,1,0,0
+2026-01-30,Panorama,Martabak,15.0,20000,1,0,0
+2026-01-30,Panorama,Mie Ayam,32.0,13000,1,0,0
+2026-01-30,Panorama,Nasi Goreng,34.0,15000,1,0,0
+2026-01-30,Pasar Minggu,Es Teh,48.0,5000,0,0,0
+2026-01-30,Pasar Minggu,Martabak,7.0,20000,0,0,0
+2026-01-30,Pasar Minggu,Mie Ayam,34.0,13000,0,0,0
+2026-01-30,Pasar Minggu,Nasi Goreng,35.0,15000,0,0,0
+2026-01-31,Padang Harapan,Es Teh,61.0,5000,0,0,1
+2026-01-31,Padang Harapan,Martabak,17.0,20000,0,0,1
+2026-01-31,Padang Harapan,Mie Ayam,41.0,13000,0,0,1
+2026-01-31,Padang Harapan,Nasi Goreng,34.0,15000,0,0,1
+2026-01-31,Panorama,Es Teh,71.0,5000,0,0,1
+2026-01-31,Panorama,Martabak,25.0,20000,0,0,1
+2026-01-31,Panorama,Mie Ayam,29.0,13000,0,0,1
+2026-01-31,Panorama,Nasi Goreng,43.0,15000,0,0,1
+2026-01-31,Pasar Minggu,Es Teh,61.0,5000,0,0,1
+2026-01-31,Pasar Minggu,Martabak,19.0,20000,0,0,1
+2026-01-31,Pasar Minggu,Mie Ayam,35.0,13000,0,0,1
+2026-01-31,Pasar Minggu,Nasi Goreng,45.0,15000,0,0,1
+2026-02-01,Padang Harapan,Es Teh,61.0,5000,0,1,1
+2026-02-01,Padang Harapan,Martabak,16.0,20000,0,1,1
+2026-02-01,Padang Harapan,Mie Ayam,23.0,13000,0,1,1
+2026-02-01,Padang Harapan,Nasi Goreng,35.0,15000,0,1,1
+2026-02-01,Panorama,Es Teh,56.0,5000,0,1,1
+2026-02-01,Panorama,Martabak,15.0,20000,0,1,1
+2026-02-01,Panorama,Mie Ayam,28.0,13000,0,1,1
+2026-02-01,Panorama,Nasi Goreng,39.0,15000,0,1,1
+2026-02-01,Pasar Minggu,Es Teh,65.0,5000,0,1,1
+2026-02-01,Pasar Minggu,Martabak,13.0,20000,0,1,1
+2026-02-01,Pasar Minggu,Mie Ayam,34.0,13000,0,1,1
+2026-02-01,Pasar Minggu,Nasi Goreng,42.0,15000,0,1,1
+2026-02-02,Padang Harapan,Es Teh,39.0,5000,0,1,0
+2026-02-02,Padang Harapan,Martabak,16.0,20000,0,1,0
+2026-02-02,Padang Harapan,Mie Ayam,17.0,13000,0,1,0
+2026-02-02,Padang Harapan,Nasi Goreng,18.0,15000,0,1,0
+2026-02-02,Panorama,Es Teh,56.0,5000,1,1,0
+2026-02-02,Panorama,Martabak,12.0,20000,1,1,0
+2026-02-02,Panorama,Mie Ayam,33.0,13000,1,1,0
+2026-02-02,Panorama,Nasi Goreng,30.0,15000,1,1,0
+2026-02-02,Pasar Minggu,Es Teh,31.0,5000,0,1,0
+2026-02-02,Pasar Minggu,Martabak,16.0,20000,0,1,0
+2026-02-02,Pasar Minggu,Mie Ayam,21.0,13000,0,1,0
+2026-02-02,Pasar Minggu,Nasi Goreng,21.0,15000,0,1,0
+2026-02-03,Padang Harapan,Es Teh,30.0,5000,0,0,0
+2026-02-03,Padang Harapan,Martabak,14.0,20000,0,0,0
+2026-02-03,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-02-03,Padang Harapan,Nasi Goreng,21.0,15000,0,0,0
+2026-02-03,Panorama,Es Teh,56.0,5000,0,0,0
+2026-02-03,Panorama,Martabak,22.0,20000,0,0,0
+2026-02-03,Panorama,Mie Ayam,25.0,13000,0,0,0
+2026-02-03,Panorama,Nasi Goreng,39.0,15000,0,0,0
+2026-02-03,Pasar Minggu,Es Teh,44.0,5000,0,0,0
+2026-02-03,Pasar Minggu,Martabak,13.0,20000,0,0,0
+2026-02-03,Pasar Minggu,Mie Ayam,17.0,13000,0,0,0
+2026-02-03,Pasar Minggu,Nasi Goreng,30.0,15000,0,0,0
+2026-02-04,Padang Harapan,Es Teh,44.0,5000,1,1,0
+2026-02-04,Padang Harapan,Martabak,20.0,20000,1,1,0
+2026-02-04,Padang Harapan,Mie Ayam,19.0,13000,1,1,0
+2026-02-04,Padang Harapan,Nasi Goreng,21.0,15000,1,1,0
+2026-02-04,Panorama,Es Teh,37.0,5000,0,1,0
+2026-02-04,Panorama,Martabak,10.0,20000,0,1,0
+2026-02-04,Panorama,Mie Ayam,26.0,13000,0,1,0
+2026-02-04,Panorama,Nasi Goreng,30.0,15000,0,1,0
+2026-02-04,Pasar Minggu,Es Teh,42.0,5000,0,1,0
+2026-02-04,Pasar Minggu,Martabak,11.0,20000,0,1,0
+2026-02-04,Pasar Minggu,Mie Ayam,25.0,13000,0,1,0
+2026-02-04,Pasar Minggu,Nasi Goreng,29.0,15000,0,1,0
+2026-02-05,Padang Harapan,Es Teh,35.0,5000,0,1,0
+2026-02-05,Padang Harapan,Martabak,19.0,20000,0,1,0
+2026-02-05,Padang Harapan,Mie Ayam,27.0,13000,0,1,0
+2026-02-05,Padang Harapan,Nasi Goreng,29.0,15000,0,1,0
+2026-02-05,Panorama,Es Teh,37.0,5000,0,1,0
+2026-02-05,Panorama,Martabak,13.0,20000,0,1,0
+2026-02-05,Panorama,Mie Ayam,27.0,13000,0,1,0
+2026-02-05,Panorama,Nasi Goreng,25.0,15000,0,1,0
+2026-02-05,Pasar Minggu,Es Teh,43.0,5000,0,1,0
+2026-02-05,Pasar Minggu,Martabak,13.0,20000,0,1,0
+2026-02-05,Pasar Minggu,Mie Ayam,21.0,13000,0,1,0
+2026-02-05,Pasar Minggu,Nasi Goreng,21.0,15000,0,1,0
+2026-02-06,Padang Harapan,Es Teh,28.0,5000,0,1,0
+2026-02-06,Padang Harapan,Martabak,4.0,20000,0,1,0
+2026-02-06,Padang Harapan,Mie Ayam,14.0,13000,0,1,0
+2026-02-06,Padang Harapan,Nasi Goreng,16.0,15000,0,1,0
+2026-02-06,Panorama,Es Teh,35.0,5000,0,1,0
+2026-02-06,Panorama,Martabak,10.0,20000,0,1,0
+2026-02-06,Panorama,Mie Ayam,12.0,13000,0,1,0
+2026-02-06,Panorama,Nasi Goreng,29.0,15000,0,1,0
+2026-02-06,Pasar Minggu,Es Teh,30.0,5000,0,1,0
+2026-02-06,Pasar Minggu,Martabak,8.0,20000,0,1,0
+2026-02-06,Pasar Minggu,Mie Ayam,16.0,13000,0,1,0
+2026-02-06,Pasar Minggu,Nasi Goreng,19.0,15000,0,1,0
+2026-02-07,Padang Harapan,Es Teh,50.0,5000,0,1,1
+2026-02-07,Padang Harapan,Martabak,14.0,20000,0,1,1
+2026-02-07,Padang Harapan,Mie Ayam,26.0,13000,0,1,1
+2026-02-07,Padang Harapan,Nasi Goreng,32.0,15000,0,1,1
+2026-02-07,Panorama,Es Teh,70.0,5000,1,1,1
+2026-02-07,Panorama,Martabak,31.0,20000,1,1,1
+2026-02-07,Panorama,Mie Ayam,35.0,13000,1,1,1
+2026-02-07,Panorama,Nasi Goreng,46.0,15000,1,1,1
+2026-02-07,Pasar Minggu,Es Teh,46.0,5000,0,1,1
+2026-02-07,Pasar Minggu,Martabak,11.0,20000,0,1,1
+2026-02-07,Pasar Minggu,Mie Ayam,27.0,13000,0,1,1
+2026-02-07,Pasar Minggu,Nasi Goreng,34.0,15000,0,1,1
+2026-02-08,Padang Harapan,Es Teh,44.0,5000,0,1,1
+2026-02-08,Padang Harapan,Martabak,20.0,20000,0,1,1
+2026-02-08,Padang Harapan,Mie Ayam,25.0,13000,0,1,1
+2026-02-08,Padang Harapan,Nasi Goreng,29.0,15000,0,1,1
+2026-02-08,Panorama,Es Teh,71.0,5000,1,1,1
+2026-02-08,Panorama,Martabak,28.0,20000,1,1,1
+2026-02-08,Panorama,Mie Ayam,48.0,13000,1,1,1
+2026-02-08,Panorama,Nasi Goreng,59.0,15000,1,1,1
+2026-02-08,Pasar Minggu,Es Teh,67.0,5000,1,1,1
+2026-02-08,Pasar Minggu,Martabak,21.0,20000,1,1,1
+2026-02-08,Pasar Minggu,Mie Ayam,28.0,13000,1,1,1
+2026-02-08,Pasar Minggu,Nasi Goreng,45.0,15000,1,1,1
+2026-02-09,Padang Harapan,Es Teh,49.0,5000,0,0,0
+2026-02-09,Padang Harapan,Martabak,17.0,20000,0,0,0
+2026-02-09,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-02-09,Padang Harapan,Nasi Goreng,37.0,15000,0,0,0
+2026-02-09,Panorama,Es Teh,40.0,5000,0,0,0
+2026-02-09,Panorama,Martabak,21.0,20000,0,0,0
+2026-02-09,Panorama,Mie Ayam,25.0,13000,0,0,0
+2026-02-09,Panorama,Nasi Goreng,35.0,15000,0,0,0
+2026-02-09,Pasar Minggu,Es Teh,35.0,5000,0,0,0
+2026-02-09,Pasar Minggu,Martabak,15.0,20000,0,0,0
+2026-02-09,Pasar Minggu,Mie Ayam,32.0,13000,0,0,0
+2026-02-09,Pasar Minggu,Nasi Goreng,24.0,15000,0,0,0
+2026-02-10,Padang Harapan,Es Teh,65.0,5000,1,0,0
+2026-02-10,Padang Harapan,Martabak,19.0,20000,1,0,0
+2026-02-10,Padang Harapan,Mie Ayam,23.0,13000,1,0,0
+2026-02-10,Padang Harapan,Nasi Goreng,49.0,15000,1,0,0
+2026-02-10,Panorama,Es Teh,48.0,5000,0,0,0
+2026-02-10,Panorama,Martabak,14.0,20000,0,0,0
+2026-02-10,Panorama,Mie Ayam,34.0,13000,0,0,0
+2026-02-10,Panorama,Nasi Goreng,23.0,15000,0,0,0
+2026-02-10,Pasar Minggu,Es Teh,49.0,5000,1,0,0
+2026-02-10,Pasar Minggu,Martabak,17.0,20000,1,0,0
+2026-02-10,Pasar Minggu,Mie Ayam,26.0,13000,1,0,0
+2026-02-10,Pasar Minggu,Nasi Goreng,37.0,15000,1,0,0
+2026-02-11,Padang Harapan,Es Teh,51.0,5000,0,0,0
+2026-02-11,Padang Harapan,Martabak,22.0,20000,0,0,0
+2026-02-11,Padang Harapan,Mie Ayam,17.0,13000,0,0,0
+2026-02-11,Padang Harapan,Nasi Goreng,28.0,15000,0,0,0
+2026-02-11,Panorama,Es Teh,50.0,5000,0,0,0
+2026-02-11,Panorama,Martabak,16.0,20000,0,0,0
+2026-02-11,Panorama,Mie Ayam,32.0,13000,0,0,0
+2026-02-11,Panorama,Nasi Goreng,45.0,15000,0,0,0
+2026-02-11,Pasar Minggu,Es Teh,38.0,5000,0,0,0
+2026-02-11,Pasar Minggu,Martabak,25.0,20000,0,0,0
+2026-02-11,Pasar Minggu,Mie Ayam,40.0,13000,0,0,0
+2026-02-11,Pasar Minggu,Nasi Goreng,29.0,15000,0,0,0
+2026-02-12,Padang Harapan,Es Teh,30.0,5000,0,1,0
+2026-02-12,Padang Harapan,Martabak,14.0,20000,0,1,0
+2026-02-12,Padang Harapan,Mie Ayam,24.0,13000,0,1,0
+2026-02-12,Padang Harapan,Nasi Goreng,29.0,15000,0,1,0
+2026-02-12,Panorama,Es Teh,53.0,5000,0,1,0
+2026-02-12,Panorama,Martabak,7.0,20000,0,1,0
+2026-02-12,Panorama,Mie Ayam,24.0,13000,0,1,0
+2026-02-12,Panorama,Nasi Goreng,27.0,15000,0,1,0
+2026-02-12,Pasar Minggu,Es Teh,37.0,5000,1,1,0
+2026-02-12,Pasar Minggu,Martabak,11.0,20000,1,1,0
+2026-02-12,Pasar Minggu,Mie Ayam,21.0,13000,1,1,0
+2026-02-12,Pasar Minggu,Nasi Goreng,25.0,15000,1,1,0
+2026-02-13,Padang Harapan,Es Teh,53.0,5000,0,0,0
+2026-02-13,Padang Harapan,Martabak,13.0,20000,0,0,0
+2026-02-13,Padang Harapan,Mie Ayam,24.0,13000,0,0,0
+2026-02-13,Padang Harapan,Nasi Goreng,32.0,15000,0,0,0
+2026-02-13,Panorama,Es Teh,43.0,5000,0,0,0
+2026-02-13,Panorama,Martabak,16.0,20000,0,0,0
+2026-02-13,Panorama,Mie Ayam,17.0,13000,0,0,0
+2026-02-13,Panorama,Nasi Goreng,33.0,15000,0,0,0
+2026-02-13,Pasar Minggu,Es Teh,45.0,5000,1,0,0
+2026-02-13,Pasar Minggu,Martabak,19.0,20000,1,0,0
+2026-02-13,Pasar Minggu,Mie Ayam,25.0,13000,1,0,0
+2026-02-13,Pasar Minggu,Nasi Goreng,42.0,15000,1,0,0
+2026-02-14,Padang Harapan,Es Teh,57.0,5000,0,0,1
+2026-02-14,Padang Harapan,Martabak,15.0,20000,0,0,1
+2026-02-14,Padang Harapan,Mie Ayam,37.0,13000,0,0,1
+2026-02-14,Padang Harapan,Nasi Goreng,49.0,15000,0,0,1
+2026-02-14,Panorama,Es Teh,106.0,5000,1,0,1
+2026-02-14,Panorama,Martabak,23.0,20000,1,0,1
+2026-02-14,Panorama,Mie Ayam,42.0,13000,1,0,1
+2026-02-14,Panorama,Nasi Goreng,48.0,15000,1,0,1
+2026-02-14,Pasar Minggu,Es Teh,66.0,5000,0,0,1
+2026-02-14,Pasar Minggu,Martabak,16.0,20000,0,0,1
+2026-02-14,Pasar Minggu,Mie Ayam,40.0,13000,0,0,1
+2026-02-14,Pasar Minggu,Nasi Goreng,41.0,15000,0,0,1
+2026-02-15,Padang Harapan,Es Teh,43.0,5000,0,1,1
+2026-02-15,Padang Harapan,Martabak,24.0,20000,0,1,1
+2026-02-15,Padang Harapan,Mie Ayam,24.0,13000,0,1,1
+2026-02-15,Padang Harapan,Nasi Goreng,25.0,15000,0,1,1
+2026-02-15,Panorama,Es Teh,51.0,5000,0,1,1
+2026-02-15,Panorama,Martabak,21.0,20000,0,1,1
+2026-02-15,Panorama,Mie Ayam,24.0,13000,0,1,1
+2026-02-15,Panorama,Nasi Goreng,31.0,15000,0,1,1
+2026-02-15,Pasar Minggu,Es Teh,68.0,5000,1,1,1
+2026-02-15,Pasar Minggu,Martabak,25.0,20000,1,1,1
+2026-02-15,Pasar Minggu,Mie Ayam,23.0,13000,1,1,1
+2026-02-15,Pasar Minggu,Nasi Goreng,41.0,15000,1,1,1
+2026-02-16,Padang Harapan,Es Teh,38.0,5000,0,0,0
+2026-02-16,Padang Harapan,Martabak,23.0,20000,0,0,0
+2026-02-16,Padang Harapan,Mie Ayam,22.0,13000,0,0,0
+2026-02-16,Padang Harapan,Nasi Goreng,27.0,15000,0,0,0
+2026-02-16,Panorama,Es Teh,45.0,5000,0,0,0
+2026-02-16,Panorama,Martabak,13.0,20000,0,0,0
+2026-02-16,Panorama,Mie Ayam,23.0,13000,0,0,0
+2026-02-16,Panorama,Nasi Goreng,39.0,15000,0,0,0
+2026-02-16,Pasar Minggu,Es Teh,44.0,5000,0,0,0
+2026-02-16,Pasar Minggu,Martabak,14.0,20000,0,0,0
+2026-02-16,Pasar Minggu,Mie Ayam,25.0,13000,0,0,0
+2026-02-16,Pasar Minggu,Nasi Goreng,35.0,15000,0,0,0
+2026-02-17,Padang Harapan,Es Teh,54.0,5000,1,0,0
+2026-02-17,Padang Harapan,Martabak,17.0,20000,1,0,0
+2026-02-17,Padang Harapan,Mie Ayam,37.0,13000,1,0,0
+2026-02-17,Padang Harapan,Nasi Goreng,32.0,15000,1,0,0
+2026-02-17,Panorama,Es Teh,69.0,5000,1,0,0
+2026-02-17,Panorama,Martabak,19.0,20000,1,0,0
+2026-02-17,Panorama,Mie Ayam,33.0,13000,1,0,0
+2026-02-17,Panorama,Nasi Goreng,36.0,15000,1,0,0
+2026-02-17,Pasar Minggu,Es Teh,56.0,5000,0,0,0
+2026-02-17,Pasar Minggu,Martabak,17.0,20000,0,0,0
+2026-02-17,Pasar Minggu,Mie Ayam,30.0,13000,0,0,0
+2026-02-17,Pasar Minggu,Nasi Goreng,24.0,15000,0,0,0
+2026-02-18,Padang Harapan,Es Teh,31.0,5000,0,1,0
+2026-02-18,Padang Harapan,Martabak,11.0,20000,0,1,0
+2026-02-18,Padang Harapan,Mie Ayam,29.0,13000,0,1,0
+2026-02-18,Padang Harapan,Nasi Goreng,20.0,15000,0,1,0
+2026-02-18,Panorama,Es Teh,39.0,5000,0,1,0
+2026-02-18,Panorama,Martabak,17.0,20000,0,1,0
+2026-02-18,Panorama,Mie Ayam,17.0,13000,0,1,0
+2026-02-18,Panorama,Nasi Goreng,18.0,15000,0,1,0
+2026-02-18,Pasar Minggu,Es Teh,34.0,5000,0,1,0
+2026-02-18,Pasar Minggu,Martabak,9.0,20000,0,1,0
+2026-02-18,Pasar Minggu,Mie Ayam,22.0,13000,0,1,0
+2026-02-18,Pasar Minggu,Nasi Goreng,24.0,15000,0,1,0
+2026-02-19,Padang Harapan,Es Teh,40.0,5000,1,1,0
+2026-02-19,Padang Harapan,Martabak,17.0,20000,1,1,0
+2026-02-19,Padang Harapan,Mie Ayam,26.0,13000,1,1,0
+2026-02-19,Padang Harapan,Nasi Goreng,30.0,15000,1,1,0
+2026-02-19,Panorama,Es Teh,46.0,5000,0,1,0
+2026-02-19,Panorama,Martabak,11.0,20000,0,1,0
+2026-02-19,Panorama,Mie Ayam,22.0,13000,0,1,0
+2026-02-19,Panorama,Nasi Goreng,25.0,15000,0,1,0
+2026-02-19,Pasar Minggu,Es Teh,45.0,5000,0,1,0
+2026-02-19,Pasar Minggu,Martabak,15.0,20000,0,1,0
+2026-02-19,Pasar Minggu,Mie Ayam,25.0,13000,0,1,0
+2026-02-19,Pasar Minggu,Nasi Goreng,28.0,15000,0,1,0
+2026-02-20,Padang Harapan,Es Teh,33.0,5000,0,1,0
+2026-02-20,Padang Harapan,Martabak,15.0,20000,0,1,0
+2026-02-20,Padang Harapan,Mie Ayam,20.0,13000,0,1,0
+2026-02-20,Padang Harapan,Nasi Goreng,27.0,15000,0,1,0
+2026-02-20,Panorama,Es Teh,45.0,5000,0,1,0
+2026-02-20,Panorama,Martabak,14.0,20000,0,1,0
+2026-02-20,Panorama,Mie Ayam,29.0,13000,0,1,0
+2026-02-20,Panorama,Nasi Goreng,25.0,15000,0,1,0
+2026-02-20,Pasar Minggu,Es Teh,26.0,5000,0,1,0
+2026-02-20,Pasar Minggu,Martabak,17.0,20000,0,1,0
+2026-02-20,Pasar Minggu,Mie Ayam,18.0,13000,0,1,0
+2026-02-20,Pasar Minggu,Nasi Goreng,36.0,15000,0,1,0
+2026-02-21,Padang Harapan,Es Teh,53.0,5000,0,0,1
+2026-02-21,Padang Harapan,Martabak,14.0,20000,0,0,1
+2026-02-21,Padang Harapan,Mie Ayam,31.0,13000,0,0,1
+2026-02-21,Padang Harapan,Nasi Goreng,38.0,15000,0,0,1
+2026-02-21,Panorama,Es Teh,82.0,5000,1,0,1
+2026-02-21,Panorama,Martabak,23.0,20000,1,0,1
+2026-02-21,Panorama,Mie Ayam,47.0,13000,1,0,1
+2026-02-21,Panorama,Nasi Goreng,59.0,15000,1,0,1
+2026-02-21,Pasar Minggu,Es Teh,61.0,5000,0,0,1
+2026-02-21,Pasar Minggu,Martabak,17.0,20000,0,0,1
+2026-02-21,Pasar Minggu,Mie Ayam,42.0,13000,0,0,1
+2026-02-21,Pasar Minggu,Nasi Goreng,49.0,15000,0,0,1
+2026-02-22,Padang Harapan,Es Teh,61.0,5000,0,0,1
+2026-02-22,Padang Harapan,Martabak,27.0,20000,0,0,1
+2026-02-22,Padang Harapan,Mie Ayam,39.0,13000,0,0,1
+2026-02-22,Padang Harapan,Nasi Goreng,48.0,15000,0,0,1
+2026-02-22,Panorama,Es Teh,57.0,5000,0,0,1
+2026-02-22,Panorama,Martabak,28.0,20000,0,0,1
+2026-02-22,Panorama,Mie Ayam,43.0,13000,0,0,1
+2026-02-22,Panorama,Nasi Goreng,44.0,15000,0,0,1
+2026-02-22,Pasar Minggu,Es Teh,79.0,5000,1,0,1
+2026-02-22,Pasar Minggu,Martabak,29.0,20000,1,0,1
+2026-02-22,Pasar Minggu,Mie Ayam,45.0,13000,1,0,1
+2026-02-22,Pasar Minggu,Nasi Goreng,52.0,15000,1,0,1
+2026-02-23,Padang Harapan,Es Teh,57.0,5000,0,0,0
+2026-02-23,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-02-23,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-02-23,Padang Harapan,Nasi Goreng,34.0,15000,0,0,0
+2026-02-23,Panorama,Es Teh,60.0,5000,1,0,0
+2026-02-23,Panorama,Martabak,17.0,20000,1,0,0
+2026-02-23,Panorama,Mie Ayam,25.0,13000,1,0,0
+2026-02-23,Panorama,Nasi Goreng,40.0,15000,1,0,0
+2026-02-23,Pasar Minggu,Es Teh,36.0,5000,0,0,0
+2026-02-23,Pasar Minggu,Martabak,17.0,20000,0,0,0
+2026-02-23,Pasar Minggu,Mie Ayam,27.0,13000,0,0,0
+2026-02-23,Pasar Minggu,Nasi Goreng,31.0,15000,0,0,0
+2026-02-24,Padang Harapan,Es Teh,43.0,5000,0,0,0
+2026-02-24,Padang Harapan,Martabak,12.0,20000,0,0,0
+2026-02-24,Padang Harapan,Mie Ayam,22.0,13000,0,0,0
+2026-02-24,Padang Harapan,Nasi Goreng,24.0,15000,0,0,0
+2026-02-24,Panorama,Es Teh,67.0,5000,1,0,0
+2026-02-24,Panorama,Martabak,15.0,20000,1,0,0
+2026-02-24,Panorama,Mie Ayam,33.0,13000,1,0,0
+2026-02-24,Panorama,Nasi Goreng,31.0,15000,1,0,0
+2026-02-24,Pasar Minggu,Es Teh,55.0,5000,1,0,0
+2026-02-24,Pasar Minggu,Martabak,18.0,20000,1,0,0
+2026-02-24,Pasar Minggu,Mie Ayam,41.0,13000,1,0,0
+2026-02-24,Pasar Minggu,Nasi Goreng,38.0,15000,1,0,0
+2026-02-25,Padang Harapan,Es Teh,36.0,5000,0,0,0
+2026-02-25,Padang Harapan,Martabak,20.0,20000,0,0,0
+2026-02-25,Padang Harapan,Mie Ayam,22.0,13000,0,0,0
+2026-02-25,Padang Harapan,Nasi Goreng,28.0,15000,0,0,0
+2026-02-25,Panorama,Es Teh,46.0,5000,0,0,0
+2026-02-25,Panorama,Martabak,17.0,20000,0,0,0
+2026-02-25,Panorama,Mie Ayam,33.0,13000,0,0,0
+2026-02-25,Panorama,Nasi Goreng,39.0,15000,0,0,0
+2026-02-25,Pasar Minggu,Es Teh,48.0,5000,0,0,0
+2026-02-25,Pasar Minggu,Martabak,15.0,20000,0,0,0
+2026-02-25,Pasar Minggu,Mie Ayam,21.0,13000,0,0,0
+2026-02-25,Pasar Minggu,Nasi Goreng,25.0,15000,0,0,0
+2026-02-26,Padang Harapan,Es Teh,45.0,5000,1,1,0
+2026-02-26,Padang Harapan,Martabak,15.0,20000,1,1,0
+2026-02-26,Padang Harapan,Mie Ayam,19.0,13000,1,1,0
+2026-02-26,Padang Harapan,Nasi Goreng,38.0,15000,1,1,0
+2026-02-26,Panorama,Es Teh,28.0,5000,0,1,0
+2026-02-26,Panorama,Martabak,19.0,20000,0,1,0
+2026-02-26,Panorama,Mie Ayam,21.0,13000,0,1,0
+2026-02-26,Panorama,Nasi Goreng,20.0,15000,0,1,0
+2026-02-26,Pasar Minggu,Es Teh,39.0,5000,0,1,0
+2026-02-26,Pasar Minggu,Martabak,5.0,20000,0,1,0
+2026-02-26,Pasar Minggu,Mie Ayam,17.0,13000,0,1,0
+2026-02-26,Pasar Minggu,Nasi Goreng,25.0,15000,0,1,0
+2026-02-27,Padang Harapan,Es Teh,65.0,5000,1,0,0
+2026-02-27,Padang Harapan,Martabak,20.0,20000,1,0,0
+2026-02-27,Padang Harapan,Mie Ayam,32.0,13000,1,0,0
+2026-02-27,Padang Harapan,Nasi Goreng,51.0,15000,1,0,0
+2026-02-27,Panorama,Es Teh,32.0,5000,0,0,0
+2026-02-27,Panorama,Martabak,16.0,20000,0,0,0
+2026-02-27,Panorama,Mie Ayam,29.0,13000,0,0,0
+2026-02-27,Panorama,Nasi Goreng,24.0,15000,0,0,0
+2026-02-27,Pasar Minggu,Es Teh,48.0,5000,0,0,0
+2026-02-27,Pasar Minggu,Martabak,18.0,20000,0,0,0
+2026-02-27,Pasar Minggu,Mie Ayam,23.0,13000,0,0,0
+2026-02-27,Pasar Minggu,Nasi Goreng,25.0,15000,0,0,0
+2026-02-28,Padang Harapan,Es Teh,60.0,5000,0,0,1
+2026-02-28,Padang Harapan,Martabak,17.0,20000,0,0,1
+2026-02-28,Padang Harapan,Mie Ayam,31.0,13000,0,0,1
+2026-02-28,Padang Harapan,Nasi Goreng,30.0,15000,0,0,1
+2026-02-28,Panorama,Es Teh,60.0,5000,0,0,1
+2026-02-28,Panorama,Martabak,31.0,20000,0,0,1
+2026-02-28,Panorama,Mie Ayam,35.0,13000,0,0,1
+2026-02-28,Panorama,Nasi Goreng,58.0,15000,0,0,1
+2026-02-28,Pasar Minggu,Es Teh,82.0,5000,1,0,1
+2026-02-28,Pasar Minggu,Martabak,20.0,20000,1,0,1
+2026-02-28,Pasar Minggu,Mie Ayam,42.0,13000,1,0,1
+2026-02-28,Pasar Minggu,Nasi Goreng,56.0,15000,1,0,1
+2026-03-01,Padang Harapan,Es Teh,75.0,5000,1,0,1
+2026-03-01,Padang Harapan,Martabak,30.0,20000,1,0,1
+2026-03-01,Padang Harapan,Mie Ayam,34.0,13000,1,0,1
+2026-03-01,Padang Harapan,Nasi Goreng,53.0,15000,1,0,1
+2026-03-01,Panorama,Es Teh,82.0,5000,1,0,1
+2026-03-01,Panorama,Martabak,28.0,20000,1,0,1
+2026-03-01,Panorama,Mie Ayam,42.0,13000,1,0,1
+2026-03-01,Panorama,Nasi Goreng,60.0,15000,1,0,1
+2026-03-01,Pasar Minggu,Es Teh,50.0,5000,0,0,1
+2026-03-01,Pasar Minggu,Martabak,20.0,20000,0,0,1
+2026-03-01,Pasar Minggu,Mie Ayam,47.0,13000,0,0,1
+2026-03-01,Pasar Minggu,Nasi Goreng,41.0,15000,0,0,1
+2026-03-02,Padang Harapan,Es Teh,66.0,5000,1,0,0
+2026-03-02,Padang Harapan,Martabak,16.0,20000,1,0,0
+2026-03-02,Padang Harapan,Mie Ayam,27.0,13000,1,0,0
+2026-03-02,Padang Harapan,Nasi Goreng,36.0,15000,1,0,0
+2026-03-02,Panorama,Es Teh,49.0,5000,0,0,0
+2026-03-02,Panorama,Martabak,13.0,20000,0,0,0
+2026-03-02,Panorama,Mie Ayam,34.0,13000,0,0,0
+2026-03-02,Panorama,Nasi Goreng,34.0,15000,0,0,0
+2026-03-02,Pasar Minggu,Es Teh,47.0,5000,0,0,0
+2026-03-02,Pasar Minggu,Martabak,12.0,20000,0,0,0
+2026-03-02,Pasar Minggu,Mie Ayam,35.0,13000,0,0,0
+2026-03-02,Pasar Minggu,Nasi Goreng,27.0,15000,0,0,0
+2026-03-03,Padang Harapan,Es Teh,47.0,5000,0,0,0
+2026-03-03,Padang Harapan,Martabak,13.0,20000,0,0,0
+2026-03-03,Padang Harapan,Mie Ayam,29.0,13000,0,0,0
+2026-03-03,Padang Harapan,Nasi Goreng,22.0,15000,0,0,0
+2026-03-03,Panorama,Es Teh,58.0,5000,0,0,0
+2026-03-03,Panorama,Martabak,13.0,20000,0,0,0
+2026-03-03,Panorama,Mie Ayam,27.0,13000,0,0,0
+2026-03-03,Panorama,Nasi Goreng,30.0,15000,0,0,0
+2026-03-03,Pasar Minggu,Es Teh,49.0,5000,0,0,0
+2026-03-03,Pasar Minggu,Martabak,17.0,20000,0,0,0
+2026-03-03,Pasar Minggu,Mie Ayam,23.0,13000,0,0,0
+2026-03-03,Pasar Minggu,Nasi Goreng,27.0,15000,0,0,0
+2026-03-04,Padang Harapan,Es Teh,41.0,5000,0,0,0
+2026-03-04,Padang Harapan,Martabak,18.0,20000,0,0,0
+2026-03-04,Padang Harapan,Mie Ayam,32.0,13000,0,0,0
+2026-03-04,Padang Harapan,Nasi Goreng,27.0,15000,0,0,0
+2026-03-04,Panorama,Es Teh,46.0,5000,0,0,0
+2026-03-04,Panorama,Martabak,24.0,20000,0,0,0
+2026-03-04,Panorama,Mie Ayam,25.0,13000,0,0,0
+2026-03-04,Panorama,Nasi Goreng,27.0,15000,0,0,0
+2026-03-04,Pasar Minggu,Es Teh,35.0,5000,0,0,0
+2026-03-04,Pasar Minggu,Martabak,15.0,20000,0,0,0
+2026-03-04,Pasar Minggu,Mie Ayam,21.0,13000,0,0,0
+2026-03-04,Pasar Minggu,Nasi Goreng,24.0,15000,0,0,0
+2026-03-05,Padang Harapan,Es Teh,43.0,5000,0,0,0
+2026-03-05,Padang Harapan,Martabak,19.0,20000,0,0,0
+2026-03-05,Padang Harapan,Mie Ayam,23.0,13000,0,0,0
+2026-03-05,Padang Harapan,Nasi Goreng,30.0,15000,0,0,0
+2026-03-05,Panorama,Es Teh,48.0,5000,0,0,0
+2026-03-05,Panorama,Martabak,16.0,20000,0,0,0
+2026-03-05,Panorama,Mie Ayam,24.0,13000,0,0,0
+2026-03-05,Panorama,Nasi Goreng,32.0,15000,0,0,0
+2026-03-05,Pasar Minggu,Es Teh,54.0,5000,1,0,0
+2026-03-05,Pasar Minggu,Martabak,18.0,20000,1,0,0
+2026-03-05,Pasar Minggu,Mie Ayam,23.0,13000,1,0,0
+2026-03-05,Pasar Minggu,Nasi Goreng,39.0,15000,1,0,0
+2026-03-06,Padang Harapan,Es Teh,54.0,5000,0,0,0
+2026-03-06,Padang Harapan,Martabak,22.0,20000,0,0,0
+2026-03-06,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-03-06,Padang Harapan,Nasi Goreng,34.0,15000,0,0,0
+2026-03-06,Panorama,Es Teh,77.0,5000,1,0,0
+2026-03-06,Panorama,Martabak,16.0,20000,1,0,0
+2026-03-06,Panorama,Mie Ayam,37.0,13000,1,0,0
+2026-03-06,Panorama,Nasi Goreng,41.0,15000,1,0,0
+2026-03-06,Pasar Minggu,Es Teh,61.0,5000,1,0,0
+2026-03-06,Pasar Minggu,Martabak,20.0,20000,1,0,0
+2026-03-06,Pasar Minggu,Mie Ayam,23.0,13000,1,0,0
+2026-03-06,Pasar Minggu,Nasi Goreng,44.0,15000,1,0,0
+2026-03-07,Padang Harapan,Es Teh,44.0,5000,0,1,1
+2026-03-07,Padang Harapan,Martabak,15.0,20000,0,1,1
+2026-03-07,Padang Harapan,Mie Ayam,25.0,13000,0,1,1
+2026-03-07,Padang Harapan,Nasi Goreng,25.0,15000,0,1,1
+2026-03-07,Panorama,Es Teh,57.0,5000,0,1,1
+2026-03-07,Panorama,Martabak,21.0,20000,0,1,1
+2026-03-07,Panorama,Mie Ayam,34.0,13000,0,1,1
+2026-03-07,Panorama,Nasi Goreng,24.0,15000,0,1,1
+2026-03-07,Pasar Minggu,Es Teh,47.0,5000,0,1,1
+2026-03-07,Pasar Minggu,Martabak,22.0,20000,0,1,1
+2026-03-07,Pasar Minggu,Mie Ayam,25.0,13000,0,1,1
+2026-03-07,Pasar Minggu,Nasi Goreng,45.0,15000,0,1,1
+2026-03-08,Padang Harapan,Es Teh,83.0,5000,1,0,1
+2026-03-08,Padang Harapan,Martabak,32.0,20000,1,0,1
+2026-03-08,Padang Harapan,Mie Ayam,45.0,13000,1,0,1
+2026-03-08,Padang Harapan,Nasi Goreng,56.0,15000,1,0,1
+2026-03-08,Panorama,Es Teh,65.0,5000,0,0,1
+2026-03-08,Panorama,Martabak,15.0,20000,0,0,1
+2026-03-08,Panorama,Mie Ayam,43.0,13000,0,0,1
+2026-03-08,Panorama,Nasi Goreng,45.0,15000,0,0,1
+2026-03-08,Pasar Minggu,Es Teh,77.0,5000,1,0,1
+2026-03-08,Pasar Minggu,Martabak,23.0,20000,1,0,1
+2026-03-08,Pasar Minggu,Mie Ayam,40.0,13000,1,0,1
+2026-03-08,Pasar Minggu,Nasi Goreng,45.0,15000,1,0,1
+2026-03-09,Padang Harapan,Es Teh,44.0,5000,0,0,0
+2026-03-09,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-03-09,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-03-09,Padang Harapan,Nasi Goreng,42.0,15000,0,0,0
+2026-03-09,Panorama,Es Teh,45.0,5000,0,0,0
+2026-03-09,Panorama,Martabak,7.0,20000,0,0,0
+2026-03-09,Panorama,Mie Ayam,31.0,13000,0,0,0
+2026-03-09,Panorama,Nasi Goreng,38.0,15000,0,0,0
+2026-03-09,Pasar Minggu,Es Teh,53.0,5000,1,0,0
+2026-03-09,Pasar Minggu,Martabak,14.0,20000,1,0,0
+2026-03-09,Pasar Minggu,Mie Ayam,30.0,13000,1,0,0
+2026-03-09,Pasar Minggu,Nasi Goreng,29.0,15000,1,0,0
+2026-03-10,Padang Harapan,Es Teh,54.0,5000,0,0,0
+2026-03-10,Padang Harapan,Martabak,16.0,20000,0,0,0
+2026-03-10,Padang Harapan,Mie Ayam,24.0,13000,0,0,0
+2026-03-10,Padang Harapan,Nasi Goreng,36.0,15000,0,0,0
+2026-03-10,Panorama,Es Teh,54.0,5000,1,0,0
+2026-03-10,Panorama,Martabak,21.0,20000,1,0,0
+2026-03-10,Panorama,Mie Ayam,24.0,13000,1,0,0
+2026-03-10,Panorama,Nasi Goreng,29.0,15000,1,0,0
+2026-03-10,Pasar Minggu,Es Teh,45.0,5000,0,0,0
+2026-03-10,Pasar Minggu,Martabak,15.0,20000,0,0,0
+2026-03-10,Pasar Minggu,Mie Ayam,23.0,13000,0,0,0
+2026-03-10,Pasar Minggu,Nasi Goreng,28.0,15000,0,0,0
+2026-03-11,Padang Harapan,Es Teh,34.0,5000,0,1,0
+2026-03-11,Padang Harapan,Martabak,12.0,20000,0,1,0
+2026-03-11,Padang Harapan,Mie Ayam,17.0,13000,0,1,0
+2026-03-11,Padang Harapan,Nasi Goreng,26.0,15000,0,1,0
+2026-03-11,Panorama,Es Teh,56.0,5000,1,1,0
+2026-03-11,Panorama,Martabak,8.0,20000,1,1,0
+2026-03-11,Panorama,Mie Ayam,28.0,13000,1,1,0
+2026-03-11,Panorama,Nasi Goreng,40.0,15000,1,1,0
+2026-03-11,Pasar Minggu,Es Teh,53.0,5000,1,1,0
+2026-03-11,Pasar Minggu,Martabak,9.0,20000,1,1,0
+2026-03-11,Pasar Minggu,Mie Ayam,28.0,13000,1,1,0
+2026-03-11,Pasar Minggu,Nasi Goreng,34.0,15000,1,1,0
+2026-03-12,Padang Harapan,Es Teh,45.0,5000,0,1,0
+2026-03-12,Padang Harapan,Martabak,11.0,20000,0,1,0
+2026-03-12,Padang Harapan,Mie Ayam,21.0,13000,0,1,0
+2026-03-12,Padang Harapan,Nasi Goreng,29.0,15000,0,1,0
+2026-03-12,Panorama,Es Teh,42.0,5000,1,1,0
+2026-03-12,Panorama,Martabak,17.0,20000,1,1,0
+2026-03-12,Panorama,Mie Ayam,32.0,13000,1,1,0
+2026-03-12,Panorama,Nasi Goreng,22.0,15000,1,1,0
+2026-03-12,Pasar Minggu,Es Teh,28.0,5000,0,1,0
+2026-03-12,Pasar Minggu,Martabak,16.0,20000,0,1,0
+2026-03-12,Pasar Minggu,Mie Ayam,26.0,13000,0,1,0
+2026-03-12,Pasar Minggu,Nasi Goreng,22.0,15000,0,1,0
+2026-03-13,Padang Harapan,Es Teh,38.0,5000,0,0,0
+2026-03-13,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-03-13,Padang Harapan,Mie Ayam,24.0,13000,0,0,0
+2026-03-13,Padang Harapan,Nasi Goreng,31.0,15000,0,0,0
+2026-03-13,Panorama,Es Teh,67.0,5000,1,0,0
+2026-03-13,Panorama,Martabak,18.0,20000,1,0,0
+2026-03-13,Panorama,Mie Ayam,39.0,13000,1,0,0
+2026-03-13,Panorama,Nasi Goreng,45.0,15000,1,0,0
+2026-03-13,Pasar Minggu,Es Teh,62.0,5000,1,0,0
+2026-03-13,Pasar Minggu,Martabak,25.0,20000,1,0,0
+2026-03-13,Pasar Minggu,Mie Ayam,24.0,13000,1,0,0
+2026-03-13,Pasar Minggu,Nasi Goreng,32.0,15000,1,0,0
+2026-03-14,Padang Harapan,Es Teh,47.0,5000,0,1,1
+2026-03-14,Padang Harapan,Martabak,19.0,20000,0,1,1
+2026-03-14,Padang Harapan,Mie Ayam,28.0,13000,0,1,1
+2026-03-14,Padang Harapan,Nasi Goreng,39.0,15000,0,1,1
+2026-03-14,Panorama,Es Teh,57.0,5000,0,1,1
+2026-03-14,Panorama,Martabak,19.0,20000,0,1,1
+2026-03-14,Panorama,Mie Ayam,30.0,13000,0,1,1
+2026-03-14,Panorama,Nasi Goreng,27.0,15000,0,1,1
+2026-03-14,Pasar Minggu,Es Teh,51.0,5000,0,1,1
+2026-03-14,Pasar Minggu,Martabak,18.0,20000,0,1,1
+2026-03-14,Pasar Minggu,Mie Ayam,29.0,13000,0,1,1
+2026-03-14,Pasar Minggu,Nasi Goreng,34.0,15000,0,1,1
+2026-03-15,Padang Harapan,Es Teh,69.0,5000,0,0,1
+2026-03-15,Padang Harapan,Martabak,30.0,20000,0,0,1
+2026-03-15,Padang Harapan,Mie Ayam,35.0,13000,0,0,1
+2026-03-15,Padang Harapan,Nasi Goreng,49.0,15000,0,0,1
+2026-03-15,Panorama,Es Teh,61.0,5000,0,0,1
+2026-03-15,Panorama,Martabak,21.0,20000,0,0,1
+2026-03-15,Panorama,Mie Ayam,43.0,13000,0,0,1
+2026-03-15,Panorama,Nasi Goreng,42.0,15000,0,0,1
+2026-03-15,Pasar Minggu,Es Teh,76.0,5000,1,0,1
+2026-03-15,Pasar Minggu,Martabak,18.0,20000,1,0,1
+2026-03-15,Pasar Minggu,Mie Ayam,40.0,13000,1,0,1
+2026-03-15,Pasar Minggu,Nasi Goreng,42.0,15000,1,0,1
+2026-03-16,Padang Harapan,Es Teh,39.0,5000,0,1,0
+2026-03-16,Padang Harapan,Martabak,20.0,20000,0,1,0
+2026-03-16,Padang Harapan,Mie Ayam,22.0,13000,0,1,0
+2026-03-16,Padang Harapan,Nasi Goreng,29.0,15000,0,1,0
+2026-03-16,Panorama,Es Teh,51.0,5000,1,1,0
+2026-03-16,Panorama,Martabak,12.0,20000,1,1,0
+2026-03-16,Panorama,Mie Ayam,23.0,13000,1,1,0
+2026-03-16,Panorama,Nasi Goreng,28.0,15000,1,1,0
+2026-03-16,Pasar Minggu,Es Teh,36.0,5000,1,1,0
+2026-03-16,Pasar Minggu,Martabak,12.0,20000,1,1,0
+2026-03-16,Pasar Minggu,Mie Ayam,24.0,13000,1,1,0
+2026-03-16,Pasar Minggu,Nasi Goreng,30.0,15000,1,1,0
+2026-03-17,Padang Harapan,Es Teh,50.0,5000,0,0,0
+2026-03-17,Padang Harapan,Martabak,16.0,20000,0,0,0
+2026-03-17,Padang Harapan,Mie Ayam,27.0,13000,0,0,0
+2026-03-17,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-03-17,Panorama,Es Teh,65.0,5000,0,0,0
+2026-03-17,Panorama,Martabak,19.0,20000,0,0,0
+2026-03-17,Panorama,Mie Ayam,27.0,13000,0,0,0
+2026-03-17,Panorama,Nasi Goreng,29.0,15000,0,0,0
+2026-03-17,Pasar Minggu,Es Teh,45.0,5000,0,0,0
+2026-03-17,Pasar Minggu,Martabak,26.0,20000,0,0,0
+2026-03-17,Pasar Minggu,Mie Ayam,22.0,13000,0,0,0
+2026-03-17,Pasar Minggu,Nasi Goreng,30.0,15000,0,0,0
+2026-03-18,Padang Harapan,Es Teh,34.0,5000,0,1,0
+2026-03-18,Padang Harapan,Martabak,15.0,20000,0,1,0
+2026-03-18,Padang Harapan,Mie Ayam,13.0,13000,0,1,0
+2026-03-18,Padang Harapan,Nasi Goreng,26.0,15000,0,1,0
+2026-03-18,Panorama,Es Teh,48.0,5000,1,1,0
+2026-03-18,Panorama,Martabak,12.0,20000,1,1,0
+2026-03-18,Panorama,Mie Ayam,22.0,13000,1,1,0
+2026-03-18,Panorama,Nasi Goreng,39.0,15000,1,1,0
+2026-03-18,Pasar Minggu,Es Teh,49.0,5000,1,1,0
+2026-03-18,Pasar Minggu,Martabak,10.0,20000,1,1,0
+2026-03-18,Pasar Minggu,Mie Ayam,26.0,13000,1,1,0
+2026-03-18,Pasar Minggu,Nasi Goreng,34.0,15000,1,1,0
+2026-03-19,Padang Harapan,Es Teh,45.0,5000,0,1,0
+2026-03-19,Padang Harapan,Martabak,12.0,20000,0,1,0
+2026-03-19,Padang Harapan,Mie Ayam,12.0,13000,0,1,0
+2026-03-19,Padang Harapan,Nasi Goreng,21.0,15000,0,1,0
+2026-03-19,Panorama,Es Teh,51.0,5000,0,1,0
+2026-03-19,Panorama,Martabak,12.0,20000,0,1,0
+2026-03-19,Panorama,Mie Ayam,34.0,13000,0,1,0
+2026-03-19,Panorama,Nasi Goreng,26.0,15000,0,1,0
+2026-03-19,Pasar Minggu,Es Teh,54.0,5000,1,1,0
+2026-03-19,Pasar Minggu,Martabak,15.0,20000,1,1,0
+2026-03-19,Pasar Minggu,Mie Ayam,27.0,13000,1,1,0
+2026-03-19,Pasar Minggu,Nasi Goreng,32.0,15000,1,1,0
+2026-03-20,Padang Harapan,Es Teh,43.0,5000,0,0,0
+2026-03-20,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-03-20,Padang Harapan,Mie Ayam,31.0,13000,0,0,0
+2026-03-20,Padang Harapan,Nasi Goreng,22.0,15000,0,0,0
+2026-03-20,Panorama,Es Teh,55.0,5000,0,0,0
+2026-03-20,Panorama,Martabak,24.0,20000,0,0,0
+2026-03-20,Panorama,Mie Ayam,26.0,13000,0,0,0
+2026-03-20,Panorama,Nasi Goreng,39.0,15000,0,0,0
+2026-03-20,Pasar Minggu,Es Teh,58.0,5000,1,0,0
+2026-03-20,Pasar Minggu,Martabak,16.0,20000,1,0,0
+2026-03-20,Pasar Minggu,Mie Ayam,35.0,13000,1,0,0
+2026-03-20,Pasar Minggu,Nasi Goreng,44.0,15000,1,0,0
+2026-03-21,Padang Harapan,Es Teh,78.0,5000,0,0,1
+2026-03-21,Padang Harapan,Martabak,26.0,20000,0,0,1
+2026-03-21,Padang Harapan,Mie Ayam,29.0,13000,0,0,1
+2026-03-21,Padang Harapan,Nasi Goreng,35.0,15000,0,0,1
+2026-03-21,Panorama,Es Teh,61.0,5000,0,0,1
+2026-03-21,Panorama,Martabak,23.0,20000,0,0,1
+2026-03-21,Panorama,Mie Ayam,34.0,13000,0,0,1
+2026-03-21,Panorama,Nasi Goreng,51.0,15000,0,0,1
+2026-03-21,Pasar Minggu,Es Teh,73.0,5000,1,0,1
+2026-03-21,Pasar Minggu,Martabak,26.0,20000,1,0,1
+2026-03-21,Pasar Minggu,Mie Ayam,44.0,13000,1,0,1
+2026-03-21,Pasar Minggu,Nasi Goreng,52.0,15000,1,0,1
+2026-03-22,Padang Harapan,Es Teh,68.0,5000,0,0,1
+2026-03-22,Padang Harapan,Martabak,19.0,20000,0,0,1
+2026-03-22,Padang Harapan,Mie Ayam,27.0,13000,0,0,1
+2026-03-22,Padang Harapan,Nasi Goreng,41.0,15000,0,0,1
+2026-03-22,Panorama,Es Teh,60.0,5000,0,0,1
+2026-03-22,Panorama,Martabak,23.0,20000,0,0,1
+2026-03-22,Panorama,Mie Ayam,32.0,13000,0,0,1
+2026-03-22,Panorama,Nasi Goreng,39.0,15000,0,0,1
+2026-03-22,Pasar Minggu,Es Teh,73.0,5000,1,0,1
+2026-03-22,Pasar Minggu,Martabak,29.0,20000,1,0,1
+2026-03-22,Pasar Minggu,Mie Ayam,46.0,13000,1,0,1
+2026-03-22,Pasar Minggu,Nasi Goreng,48.0,15000,1,0,1
+2026-03-23,Padang Harapan,Es Teh,45.0,5000,1,1,0
+2026-03-23,Padang Harapan,Martabak,20.0,20000,1,1,0
+2026-03-23,Padang Harapan,Mie Ayam,31.0,13000,1,1,0
+2026-03-23,Padang Harapan,Nasi Goreng,25.0,15000,1,1,0
+2026-03-23,Panorama,Es Teh,56.0,5000,1,1,0
+2026-03-23,Panorama,Martabak,12.0,20000,1,1,0
+2026-03-23,Panorama,Mie Ayam,32.0,13000,1,1,0
+2026-03-23,Panorama,Nasi Goreng,40.0,15000,1,1,0
+2026-03-23,Pasar Minggu,Es Teh,30.0,5000,0,1,0
+2026-03-23,Pasar Minggu,Martabak,14.0,20000,0,1,0
+2026-03-23,Pasar Minggu,Mie Ayam,17.0,13000,0,1,0
+2026-03-23,Pasar Minggu,Nasi Goreng,25.0,15000,0,1,0
+2026-03-24,Padang Harapan,Es Teh,58.0,5000,0,0,0
+2026-03-24,Padang Harapan,Martabak,19.0,20000,0,0,0
+2026-03-24,Padang Harapan,Mie Ayam,28.0,13000,0,0,0
+2026-03-24,Padang Harapan,Nasi Goreng,25.0,15000,0,0,0
+2026-03-24,Panorama,Es Teh,40.0,5000,0,0,0
+2026-03-24,Panorama,Martabak,10.0,20000,0,0,0
+2026-03-24,Panorama,Mie Ayam,28.0,13000,0,0,0
+2026-03-24,Panorama,Nasi Goreng,30.0,15000,0,0,0
+2026-03-24,Pasar Minggu,Es Teh,44.0,5000,0,0,0
+2026-03-24,Pasar Minggu,Martabak,21.0,20000,0,0,0
+2026-03-24,Pasar Minggu,Mie Ayam,17.0,13000,0,0,0
+2026-03-24,Pasar Minggu,Nasi Goreng,32.0,15000,0,0,0
+2026-03-25,Padang Harapan,Es Teh,41.0,5000,0,0,0
+2026-03-25,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-03-25,Padang Harapan,Mie Ayam,24.0,13000,0,0,0
+2026-03-25,Padang Harapan,Nasi Goreng,26.0,15000,0,0,0
+2026-03-25,Panorama,Es Teh,59.0,5000,0,0,0
+2026-03-25,Panorama,Martabak,6.0,20000,0,0,0
+2026-03-25,Panorama,Mie Ayam,22.0,13000,0,0,0
+2026-03-25,Panorama,Nasi Goreng,37.0,15000,0,0,0
+2026-03-25,Pasar Minggu,Es Teh,49.0,5000,0,0,0
+2026-03-25,Pasar Minggu,Martabak,10.0,20000,0,0,0
+2026-03-25,Pasar Minggu,Mie Ayam,27.0,13000,0,0,0
+2026-03-25,Pasar Minggu,Nasi Goreng,36.0,15000,0,0,0
+2026-03-26,Padang Harapan,Es Teh,48.0,5000,0,0,0
+2026-03-26,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-03-26,Padang Harapan,Mie Ayam,30.0,13000,0,0,0
+2026-03-26,Padang Harapan,Nasi Goreng,28.0,15000,0,0,0
+2026-03-26,Panorama,Es Teh,51.0,5000,0,0,0
+2026-03-26,Panorama,Martabak,9.0,20000,0,0,0
+2026-03-26,Panorama,Mie Ayam,23.0,13000,0,0,0
+2026-03-26,Panorama,Nasi Goreng,32.0,15000,0,0,0
+2026-03-26,Pasar Minggu,Es Teh,49.0,5000,0,0,0
+2026-03-26,Pasar Minggu,Martabak,17.0,20000,0,0,0
+2026-03-26,Pasar Minggu,Mie Ayam,24.0,13000,0,0,0
+2026-03-26,Pasar Minggu,Nasi Goreng,25.0,15000,0,0,0
+2026-03-27,Padang Harapan,Es Teh,57.0,5000,1,0,0
+2026-03-27,Padang Harapan,Martabak,12.0,20000,1,0,0
+2026-03-27,Padang Harapan,Mie Ayam,32.0,13000,1,0,0
+2026-03-27,Padang Harapan,Nasi Goreng,30.0,15000,1,0,0
+2026-03-27,Panorama,Es Teh,43.0,5000,0,0,0
+2026-03-27,Panorama,Martabak,15.0,20000,0,0,0
+2026-03-27,Panorama,Mie Ayam,23.0,13000,0,0,0
+2026-03-27,Panorama,Nasi Goreng,32.0,15000,0,0,0
+2026-03-27,Pasar Minggu,Es Teh,43.0,5000,0,0,0
+2026-03-27,Pasar Minggu,Martabak,22.0,20000,0,0,0
+2026-03-27,Pasar Minggu,Mie Ayam,24.0,13000,0,0,0
+2026-03-27,Pasar Minggu,Nasi Goreng,27.0,15000,0,0,0
+2026-03-28,Padang Harapan,Es Teh,46.0,5000,0,1,1
+2026-03-28,Padang Harapan,Martabak,17.0,20000,0,1,1
+2026-03-28,Padang Harapan,Mie Ayam,30.0,13000,0,1,1
+2026-03-28,Padang Harapan,Nasi Goreng,26.0,15000,0,1,1
+2026-03-28,Panorama,Es Teh,71.0,5000,1,1,1
+2026-03-28,Panorama,Martabak,17.0,20000,1,1,1
+2026-03-28,Panorama,Mie Ayam,30.0,13000,1,1,1
+2026-03-28,Panorama,Nasi Goreng,46.0,15000,1,1,1
+2026-03-28,Pasar Minggu,Es Teh,51.0,5000,0,1,1
+2026-03-28,Pasar Minggu,Martabak,15.0,20000,0,1,1
+2026-03-28,Pasar Minggu,Mie Ayam,44.0,13000,0,1,1
+2026-03-28,Pasar Minggu,Nasi Goreng,34.0,15000,0,1,1
+2026-03-29,Padang Harapan,Es Teh,55.0,5000,0,0,1
+2026-03-29,Padang Harapan,Martabak,18.0,20000,0,0,1
+2026-03-29,Padang Harapan,Mie Ayam,25.0,13000,0,0,1
+2026-03-29,Padang Harapan,Nasi Goreng,33.0,15000,0,0,1
+2026-03-29,Panorama,Es Teh,74.0,5000,0,0,1
+2026-03-29,Panorama,Martabak,30.0,20000,0,0,1
+2026-03-29,Panorama,Mie Ayam,45.0,13000,0,0,1
+2026-03-29,Panorama,Nasi Goreng,43.0,15000,0,0,1
+2026-03-29,Pasar Minggu,Es Teh,61.0,5000,0,0,1
+2026-03-29,Pasar Minggu,Martabak,25.0,20000,0,0,1
+2026-03-29,Pasar Minggu,Mie Ayam,34.0,13000,0,0,1
+2026-03-29,Pasar Minggu,Nasi Goreng,44.0,15000,0,0,1
+2026-03-30,Padang Harapan,Es Teh,48.0,5000,0,0,0
+2026-03-30,Padang Harapan,Martabak,19.0,20000,0,0,0
+2026-03-30,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-03-30,Padang Harapan,Nasi Goreng,27.0,15000,0,0,0
+2026-03-30,Panorama,Es Teh,63.0,5000,1,0,0
+2026-03-30,Panorama,Martabak,22.0,20000,1,0,0
+2026-03-30,Panorama,Mie Ayam,30.0,13000,1,0,0
+2026-03-30,Panorama,Nasi Goreng,43.0,15000,1,0,0
+2026-03-30,Pasar Minggu,Es Teh,60.0,5000,1,0,0
+2026-03-30,Pasar Minggu,Martabak,20.0,20000,1,0,0
+2026-03-30,Pasar Minggu,Mie Ayam,31.0,13000,1,0,0
+2026-03-30,Pasar Minggu,Nasi Goreng,37.0,15000,1,0,0
+2026-03-31,Padang Harapan,Es Teh,38.0,5000,0,1,0
+2026-03-31,Padang Harapan,Martabak,15.0,20000,0,1,0
+2026-03-31,Padang Harapan,Mie Ayam,17.0,13000,0,1,0
+2026-03-31,Padang Harapan,Nasi Goreng,21.0,15000,0,1,0
+2026-03-31,Panorama,Es Teh,34.0,5000,0,1,0
+2026-03-31,Panorama,Martabak,16.0,20000,0,1,0
+2026-03-31,Panorama,Mie Ayam,14.0,13000,0,1,0
+2026-03-31,Panorama,Nasi Goreng,29.0,15000,0,1,0
+2026-03-31,Pasar Minggu,Es Teh,26.0,5000,0,1,0
+2026-03-31,Pasar Minggu,Martabak,10.0,20000,0,1,0
+2026-03-31,Pasar Minggu,Mie Ayam,21.0,13000,0,1,0
+2026-03-31,Pasar Minggu,Nasi Goreng,16.0,15000,0,1,0
+2026-04-01,Padang Harapan,Es Teh,34.0,5000,0,1,0
+2026-04-01,Padang Harapan,Martabak,14.0,20000,0,1,0
+2026-04-01,Padang Harapan,Mie Ayam,18.0,13000,0,1,0
+2026-04-01,Padang Harapan,Nasi Goreng,25.0,15000,0,1,0
+2026-04-01,Panorama,Es Teh,39.0,5000,0,1,0
+2026-04-01,Panorama,Martabak,9.0,20000,0,1,0
+2026-04-01,Panorama,Mie Ayam,26.0,13000,0,1,0
+2026-04-01,Panorama,Nasi Goreng,18.0,15000,0,1,0
+2026-04-01,Pasar Minggu,Es Teh,43.0,5000,1,1,0
+2026-04-01,Pasar Minggu,Martabak,18.0,20000,1,1,0
+2026-04-01,Pasar Minggu,Mie Ayam,20.0,13000,1,1,0
+2026-04-01,Pasar Minggu,Nasi Goreng,32.0,15000,1,1,0
+2026-04-02,Padang Harapan,Es Teh,31.0,5000,0,1,0
+2026-04-02,Padang Harapan,Martabak,20.0,20000,0,1,0
+2026-04-02,Padang Harapan,Mie Ayam,12.0,13000,0,1,0
+2026-04-02,Padang Harapan,Nasi Goreng,23.0,15000,0,1,0
+2026-04-02,Panorama,Es Teh,39.0,5000,0,1,0
+2026-04-02,Panorama,Martabak,19.0,20000,0,1,0
+2026-04-02,Panorama,Mie Ayam,19.0,13000,0,1,0
+2026-04-02,Panorama,Nasi Goreng,31.0,15000,0,1,0
+2026-04-02,Pasar Minggu,Es Teh,38.0,5000,0,1,0
+2026-04-02,Pasar Minggu,Martabak,9.0,20000,0,1,0
+2026-04-02,Pasar Minggu,Mie Ayam,18.0,13000,0,1,0
+2026-04-02,Pasar Minggu,Nasi Goreng,29.0,15000,0,1,0
+2026-04-03,Padang Harapan,Es Teh,43.0,5000,0,0,0
+2026-04-03,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-04-03,Padang Harapan,Mie Ayam,26.0,13000,0,0,0
+2026-04-03,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-04-03,Panorama,Es Teh,44.0,5000,0,0,0
+2026-04-03,Panorama,Martabak,14.0,20000,0,0,0
+2026-04-03,Panorama,Mie Ayam,30.0,13000,0,0,0
+2026-04-03,Panorama,Nasi Goreng,35.0,15000,0,0,0
+2026-04-03,Pasar Minggu,Es Teh,41.0,5000,0,0,0
+2026-04-03,Pasar Minggu,Martabak,17.0,20000,0,0,0
+2026-04-03,Pasar Minggu,Mie Ayam,25.0,13000,0,0,0
+2026-04-03,Pasar Minggu,Nasi Goreng,32.0,15000,0,0,0
+2026-04-04,Padang Harapan,Es Teh,78.0,5000,1,0,1
+2026-04-04,Padang Harapan,Martabak,17.0,20000,1,0,1
+2026-04-04,Padang Harapan,Mie Ayam,34.0,13000,1,0,1
+2026-04-04,Padang Harapan,Nasi Goreng,63.0,15000,1,0,1
+2026-04-04,Panorama,Es Teh,56.0,5000,0,0,1
+2026-04-04,Panorama,Martabak,20.0,20000,0,0,1
+2026-04-04,Panorama,Mie Ayam,39.0,13000,0,0,1
+2026-04-04,Panorama,Nasi Goreng,38.0,15000,0,0,1
+2026-04-04,Pasar Minggu,Es Teh,56.0,5000,0,0,1
+2026-04-04,Pasar Minggu,Martabak,25.0,20000,0,0,1
+2026-04-04,Pasar Minggu,Mie Ayam,39.0,13000,0,0,1
+2026-04-04,Pasar Minggu,Nasi Goreng,48.0,15000,0,0,1
+2026-04-05,Padang Harapan,Es Teh,61.0,5000,0,1,1
+2026-04-05,Padang Harapan,Martabak,10.0,20000,0,1,1
+2026-04-05,Padang Harapan,Mie Ayam,36.0,13000,0,1,1
+2026-04-05,Padang Harapan,Nasi Goreng,33.0,15000,0,1,1
+2026-04-05,Panorama,Es Teh,61.0,5000,1,1,1
+2026-04-05,Panorama,Martabak,25.0,20000,1,1,1
+2026-04-05,Panorama,Mie Ayam,45.0,13000,1,1,1
+2026-04-05,Panorama,Nasi Goreng,33.0,15000,1,1,1
+2026-04-05,Pasar Minggu,Es Teh,62.0,5000,0,1,1
+2026-04-05,Pasar Minggu,Martabak,16.0,20000,0,1,1
+2026-04-05,Pasar Minggu,Mie Ayam,34.0,13000,0,1,1
+2026-04-05,Pasar Minggu,Nasi Goreng,35.0,15000,0,1,1
+2026-04-06,Padang Harapan,Es Teh,37.0,5000,0,0,0
+2026-04-06,Padang Harapan,Martabak,24.0,20000,0,0,0
+2026-04-06,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-04-06,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-04-06,Panorama,Es Teh,56.0,5000,0,0,0
+2026-04-06,Panorama,Martabak,12.0,20000,0,0,0
+2026-04-06,Panorama,Mie Ayam,31.0,13000,0,0,0
+2026-04-06,Panorama,Nasi Goreng,39.0,15000,0,0,0
+2026-04-06,Pasar Minggu,Es Teh,42.0,5000,0,0,0
+2026-04-06,Pasar Minggu,Martabak,12.0,20000,0,0,0
+2026-04-06,Pasar Minggu,Mie Ayam,19.0,13000,0,0,0
+2026-04-06,Pasar Minggu,Nasi Goreng,35.0,15000,0,0,0
+2026-04-07,Padang Harapan,Es Teh,45.0,5000,1,0,0
+2026-04-07,Padang Harapan,Martabak,14.0,20000,1,0,0
+2026-04-07,Padang Harapan,Mie Ayam,21.0,13000,1,0,0
+2026-04-07,Padang Harapan,Nasi Goreng,27.0,15000,1,0,0
+2026-04-07,Panorama,Es Teh,56.0,5000,0,0,0
+2026-04-07,Panorama,Martabak,14.0,20000,0,0,0
+2026-04-07,Panorama,Mie Ayam,27.0,13000,0,0,0
+2026-04-07,Panorama,Nasi Goreng,34.0,15000,0,0,0
+2026-04-07,Pasar Minggu,Es Teh,35.0,5000,0,0,0
+2026-04-07,Pasar Minggu,Martabak,13.0,20000,0,0,0
+2026-04-07,Pasar Minggu,Mie Ayam,34.0,13000,0,0,0
+2026-04-07,Pasar Minggu,Nasi Goreng,29.0,15000,0,0,0
+2026-04-08,Padang Harapan,Es Teh,50.0,5000,0,0,0
+2026-04-08,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-04-08,Padang Harapan,Mie Ayam,26.0,13000,0,0,0
+2026-04-08,Padang Harapan,Nasi Goreng,27.0,15000,0,0,0
+2026-04-08,Panorama,Es Teh,52.0,5000,0,0,0
+2026-04-08,Panorama,Martabak,15.0,20000,0,0,0
+2026-04-08,Panorama,Mie Ayam,19.0,13000,0,0,0
+2026-04-08,Panorama,Nasi Goreng,29.0,15000,0,0,0
+2026-04-08,Pasar Minggu,Es Teh,61.0,5000,1,0,0
+2026-04-08,Pasar Minggu,Martabak,18.0,20000,1,0,0
+2026-04-08,Pasar Minggu,Mie Ayam,34.0,13000,1,0,0
+2026-04-08,Pasar Minggu,Nasi Goreng,53.0,15000,1,0,0
+2026-04-09,Padang Harapan,Es Teh,45.0,5000,0,0,0
+2026-04-09,Padang Harapan,Martabak,23.0,20000,0,0,0
+2026-04-09,Padang Harapan,Mie Ayam,24.0,13000,0,0,0
+2026-04-09,Padang Harapan,Nasi Goreng,32.0,15000,0,0,0
+2026-04-09,Panorama,Es Teh,45.0,5000,0,0,0
+2026-04-09,Panorama,Martabak,16.0,20000,0,0,0
+2026-04-09,Panorama,Mie Ayam,19.0,13000,0,0,0
+2026-04-09,Panorama,Nasi Goreng,22.0,15000,0,0,0
+2026-04-09,Pasar Minggu,Es Teh,47.0,5000,0,0,0
+2026-04-09,Pasar Minggu,Martabak,15.0,20000,0,0,0
+2026-04-09,Pasar Minggu,Mie Ayam,15.0,13000,0,0,0
+2026-04-09,Pasar Minggu,Nasi Goreng,34.0,15000,0,0,0
+2026-04-10,Padang Harapan,Es Teh,46.0,5000,1,1,0
+2026-04-10,Padang Harapan,Martabak,17.0,20000,1,1,0
+2026-04-10,Padang Harapan,Mie Ayam,25.0,13000,1,1,0
+2026-04-10,Padang Harapan,Nasi Goreng,16.0,15000,1,1,0
+2026-04-10,Panorama,Es Teh,51.0,5000,1,1,0
+2026-04-10,Panorama,Martabak,15.0,20000,1,1,0
+2026-04-10,Panorama,Mie Ayam,30.0,13000,1,1,0
+2026-04-10,Panorama,Nasi Goreng,24.0,15000,1,1,0
+2026-04-10,Pasar Minggu,Es Teh,41.0,5000,1,1,0
+2026-04-10,Pasar Minggu,Martabak,13.0,20000,1,1,0
+2026-04-10,Pasar Minggu,Mie Ayam,25.0,13000,1,1,0
+2026-04-10,Pasar Minggu,Nasi Goreng,28.0,15000,1,1,0
+2026-04-11,Padang Harapan,Es Teh,50.0,5000,0,1,1
+2026-04-11,Padang Harapan,Martabak,21.0,20000,0,1,1
+2026-04-11,Padang Harapan,Mie Ayam,22.0,13000,0,1,1
+2026-04-11,Padang Harapan,Nasi Goreng,41.0,15000,0,1,1
+2026-04-11,Panorama,Es Teh,66.0,5000,0,1,1
+2026-04-11,Panorama,Martabak,28.0,20000,0,1,1
+2026-04-11,Panorama,Mie Ayam,28.0,13000,0,1,1
+2026-04-11,Panorama,Nasi Goreng,29.0,15000,0,1,1
+2026-04-11,Pasar Minggu,Es Teh,53.0,5000,0,1,1
+2026-04-11,Pasar Minggu,Martabak,11.0,20000,0,1,1
+2026-04-11,Pasar Minggu,Mie Ayam,24.0,13000,0,1,1
+2026-04-11,Pasar Minggu,Nasi Goreng,34.0,15000,0,1,1
+2026-04-12,Padang Harapan,Es Teh,70.0,5000,1,1,1
+2026-04-12,Padang Harapan,Martabak,22.0,20000,1,1,1
+2026-04-12,Padang Harapan,Mie Ayam,34.0,13000,1,1,1
+2026-04-12,Padang Harapan,Nasi Goreng,37.0,15000,1,1,1
+2026-04-12,Panorama,Es Teh,42.0,5000,0,1,1
+2026-04-12,Panorama,Martabak,12.0,20000,0,1,1
+2026-04-12,Panorama,Mie Ayam,25.0,13000,0,1,1
+2026-04-12,Panorama,Nasi Goreng,42.0,15000,0,1,1
+2026-04-12,Pasar Minggu,Es Teh,53.0,5000,0,1,1
+2026-04-12,Pasar Minggu,Martabak,21.0,20000,0,1,1
+2026-04-12,Pasar Minggu,Mie Ayam,18.0,13000,0,1,1
+2026-04-12,Pasar Minggu,Nasi Goreng,51.0,15000,0,1,1
+2026-04-13,Padang Harapan,Es Teh,35.0,5000,0,1,0
+2026-04-13,Padang Harapan,Martabak,13.0,20000,0,1,0
+2026-04-13,Padang Harapan,Mie Ayam,23.0,13000,0,1,0
+2026-04-13,Padang Harapan,Nasi Goreng,21.0,15000,0,1,0
+2026-04-13,Panorama,Es Teh,47.0,5000,1,1,0
+2026-04-13,Panorama,Martabak,15.0,20000,1,1,0
+2026-04-13,Panorama,Mie Ayam,22.0,13000,1,1,0
+2026-04-13,Panorama,Nasi Goreng,35.0,15000,1,1,0
+2026-04-13,Pasar Minggu,Es Teh,25.0,5000,0,1,0
+2026-04-13,Pasar Minggu,Martabak,10.0,20000,0,1,0
+2026-04-13,Pasar Minggu,Mie Ayam,21.0,13000,0,1,0
+2026-04-13,Pasar Minggu,Nasi Goreng,16.0,15000,0,1,0
+2026-04-14,Padang Harapan,Es Teh,43.0,5000,1,1,0
+2026-04-14,Padang Harapan,Martabak,14.0,20000,1,1,0
+2026-04-14,Padang Harapan,Mie Ayam,28.0,13000,1,1,0
+2026-04-14,Padang Harapan,Nasi Goreng,37.0,15000,1,1,0
+2026-04-14,Panorama,Es Teh,44.0,5000,0,1,0
+2026-04-14,Panorama,Martabak,13.0,20000,0,1,0
+2026-04-14,Panorama,Mie Ayam,26.0,13000,0,1,0
+2026-04-14,Panorama,Nasi Goreng,27.0,15000,0,1,0
+2026-04-14,Pasar Minggu,Es Teh,37.0,5000,0,1,0
+2026-04-14,Pasar Minggu,Martabak,18.0,20000,0,1,0
+2026-04-14,Pasar Minggu,Mie Ayam,21.0,13000,0,1,0
+2026-04-14,Pasar Minggu,Nasi Goreng,23.0,15000,0,1,0
+2026-04-15,Padang Harapan,Es Teh,43.0,5000,0,1,0
+2026-04-15,Padang Harapan,Martabak,4.0,20000,0,1,0
+2026-04-15,Padang Harapan,Mie Ayam,13.0,13000,0,1,0
+2026-04-15,Padang Harapan,Nasi Goreng,24.0,15000,0,1,0
+2026-04-15,Panorama,Es Teh,45.0,5000,0,1,0
+2026-04-15,Panorama,Martabak,18.0,20000,0,1,0
+2026-04-15,Panorama,Mie Ayam,17.0,13000,0,1,0
+2026-04-15,Panorama,Nasi Goreng,29.0,15000,0,1,0
+2026-04-15,Pasar Minggu,Es Teh,39.0,5000,0,1,0
+2026-04-15,Pasar Minggu,Martabak,20.0,20000,0,1,0
+2026-04-15,Pasar Minggu,Mie Ayam,20.0,13000,0,1,0
+2026-04-15,Pasar Minggu,Nasi Goreng,27.0,15000,0,1,0
+2026-04-16,Padang Harapan,Es Teh,49.0,5000,0,0,0
+2026-04-16,Padang Harapan,Martabak,21.0,20000,0,0,0
+2026-04-16,Padang Harapan,Mie Ayam,27.0,13000,0,0,0
+2026-04-16,Padang Harapan,Nasi Goreng,30.0,15000,0,0,0
+2026-04-16,Panorama,Es Teh,51.0,5000,0,0,0
+2026-04-16,Panorama,Martabak,17.0,20000,0,0,0
+2026-04-16,Panorama,Mie Ayam,27.0,13000,0,0,0
+2026-04-16,Panorama,Nasi Goreng,28.0,15000,0,0,0
+2026-04-16,Pasar Minggu,Es Teh,47.0,5000,1,0,0
+2026-04-16,Pasar Minggu,Martabak,25.0,20000,1,0,0
+2026-04-16,Pasar Minggu,Mie Ayam,26.0,13000,1,0,0
+2026-04-16,Pasar Minggu,Nasi Goreng,41.0,15000,1,0,0
+2026-04-17,Padang Harapan,Es Teh,51.0,5000,0,0,0
+2026-04-17,Padang Harapan,Martabak,19.0,20000,0,0,0
+2026-04-17,Padang Harapan,Mie Ayam,23.0,13000,0,0,0
+2026-04-17,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-04-17,Panorama,Es Teh,37.0,5000,0,0,0
+2026-04-17,Panorama,Martabak,20.0,20000,0,0,0
+2026-04-17,Panorama,Mie Ayam,23.0,13000,0,0,0
+2026-04-17,Panorama,Nasi Goreng,31.0,15000,0,0,0
+2026-04-17,Pasar Minggu,Es Teh,50.0,5000,0,0,0
+2026-04-17,Pasar Minggu,Martabak,13.0,20000,0,0,0
+2026-04-17,Pasar Minggu,Mie Ayam,31.0,13000,0,0,0
+2026-04-17,Pasar Minggu,Nasi Goreng,37.0,15000,0,0,0
+2026-04-18,Padang Harapan,Es Teh,63.0,5000,0,0,1
+2026-04-18,Padang Harapan,Martabak,20.0,20000,0,0,1
+2026-04-18,Padang Harapan,Mie Ayam,31.0,13000,0,0,1
+2026-04-18,Padang Harapan,Nasi Goreng,38.0,15000,0,0,1
+2026-04-18,Panorama,Es Teh,61.0,5000,1,0,1
+2026-04-18,Panorama,Martabak,35.0,20000,1,0,1
+2026-04-18,Panorama,Mie Ayam,40.0,13000,1,0,1
+2026-04-18,Panorama,Nasi Goreng,50.0,15000,1,0,1
+2026-04-18,Pasar Minggu,Es Teh,76.0,5000,1,0,1
+2026-04-18,Pasar Minggu,Martabak,35.0,20000,1,0,1
+2026-04-18,Pasar Minggu,Mie Ayam,38.0,13000,1,0,1
+2026-04-18,Pasar Minggu,Nasi Goreng,67.0,15000,1,0,1
+2026-04-19,Padang Harapan,Es Teh,56.0,5000,0,0,1
+2026-04-19,Padang Harapan,Martabak,18.0,20000,0,0,1
+2026-04-19,Padang Harapan,Mie Ayam,30.0,13000,0,0,1
+2026-04-19,Padang Harapan,Nasi Goreng,35.0,15000,0,0,1
+2026-04-19,Panorama,Es Teh,58.0,5000,0,0,1
+2026-04-19,Panorama,Martabak,26.0,20000,0,0,1
+2026-04-19,Panorama,Mie Ayam,38.0,13000,0,0,1
+2026-04-19,Panorama,Nasi Goreng,38.0,15000,0,0,1
+2026-04-19,Pasar Minggu,Es Teh,63.0,5000,0,0,1
+2026-04-19,Pasar Minggu,Martabak,21.0,20000,0,0,1
+2026-04-19,Pasar Minggu,Mie Ayam,36.0,13000,0,0,1
+2026-04-19,Pasar Minggu,Nasi Goreng,49.0,15000,0,0,1
+2026-04-20,Padang Harapan,Es Teh,40.0,5000,0,1,0
+2026-04-20,Padang Harapan,Martabak,11.0,20000,0,1,0
+2026-04-20,Padang Harapan,Mie Ayam,25.0,13000,0,1,0
+2026-04-20,Padang Harapan,Nasi Goreng,21.0,15000,0,1,0
+2026-04-20,Panorama,Es Teh,52.0,5000,1,1,0
+2026-04-20,Panorama,Martabak,15.0,20000,1,1,0
+2026-04-20,Panorama,Mie Ayam,29.0,13000,1,1,0
+2026-04-20,Panorama,Nasi Goreng,25.0,15000,1,1,0
+2026-04-20,Pasar Minggu,Es Teh,45.0,5000,0,1,0
+2026-04-20,Pasar Minggu,Martabak,9.0,20000,0,1,0
+2026-04-20,Pasar Minggu,Mie Ayam,16.0,13000,0,1,0
+2026-04-20,Pasar Minggu,Nasi Goreng,31.0,15000,0,1,0
+2026-04-21,Padang Harapan,Es Teh,40.0,5000,0,1,0
+2026-04-21,Padang Harapan,Martabak,19.0,20000,0,1,0
+2026-04-21,Padang Harapan,Mie Ayam,25.0,13000,0,1,0
+2026-04-21,Padang Harapan,Nasi Goreng,23.0,15000,0,1,0
+2026-04-21,Panorama,Es Teh,53.0,5000,1,1,0
+2026-04-21,Panorama,Martabak,12.0,20000,1,1,0
+2026-04-21,Panorama,Mie Ayam,23.0,13000,1,1,0
+2026-04-21,Panorama,Nasi Goreng,32.0,15000,1,1,0
+2026-04-21,Pasar Minggu,Es Teh,50.0,5000,1,1,0
+2026-04-21,Pasar Minggu,Martabak,12.0,20000,1,1,0
+2026-04-21,Pasar Minggu,Mie Ayam,17.0,13000,1,1,0
+2026-04-21,Pasar Minggu,Nasi Goreng,29.0,15000,1,1,0
+2026-04-22,Padang Harapan,Es Teh,50.0,5000,1,0,0
+2026-04-22,Padang Harapan,Martabak,16.0,20000,1,0,0
+2026-04-22,Padang Harapan,Mie Ayam,22.0,13000,1,0,0
+2026-04-22,Padang Harapan,Nasi Goreng,45.0,15000,1,0,0
+2026-04-22,Panorama,Es Teh,54.0,5000,0,0,0
+2026-04-22,Panorama,Martabak,16.0,20000,0,0,0
+2026-04-22,Panorama,Mie Ayam,29.0,13000,0,0,0
+2026-04-22,Panorama,Nasi Goreng,42.0,15000,0,0,0
+2026-04-22,Pasar Minggu,Es Teh,63.0,5000,0,0,0
+2026-04-22,Pasar Minggu,Martabak,17.0,20000,0,0,0
+2026-04-22,Pasar Minggu,Mie Ayam,30.0,13000,0,0,0
+2026-04-22,Pasar Minggu,Nasi Goreng,37.0,15000,0,0,0
+2026-04-23,Padang Harapan,Es Teh,40.0,5000,0,1,0
+2026-04-23,Padang Harapan,Martabak,18.0,20000,0,1,0
+2026-04-23,Padang Harapan,Mie Ayam,24.0,13000,0,1,0
+2026-04-23,Padang Harapan,Nasi Goreng,27.0,15000,0,1,0
+2026-04-23,Panorama,Es Teh,45.0,5000,0,1,0
+2026-04-23,Panorama,Martabak,11.0,20000,0,1,0
+2026-04-23,Panorama,Mie Ayam,18.0,13000,0,1,0
+2026-04-23,Panorama,Nasi Goreng,24.0,15000,0,1,0
+2026-04-23,Pasar Minggu,Es Teh,31.0,5000,0,1,0
+2026-04-23,Pasar Minggu,Martabak,18.0,20000,0,1,0
+2026-04-23,Pasar Minggu,Mie Ayam,19.0,13000,0,1,0
+2026-04-23,Pasar Minggu,Nasi Goreng,23.0,15000,0,1,0
+2026-04-24,Padang Harapan,Es Teh,58.0,5000,1,0,0
+2026-04-24,Padang Harapan,Martabak,20.0,20000,1,0,0
+2026-04-24,Padang Harapan,Mie Ayam,42.0,13000,1,0,0
+2026-04-24,Padang Harapan,Nasi Goreng,41.0,15000,1,0,0
+2026-04-24,Panorama,Es Teh,43.0,5000,0,0,0
+2026-04-24,Panorama,Martabak,12.0,20000,0,0,0
+2026-04-24,Panorama,Mie Ayam,24.0,13000,0,0,0
+2026-04-24,Panorama,Nasi Goreng,38.0,15000,0,0,0
+2026-04-24,Pasar Minggu,Es Teh,39.0,5000,0,0,0
+2026-04-24,Pasar Minggu,Martabak,16.0,20000,0,0,0
+2026-04-24,Pasar Minggu,Mie Ayam,23.0,13000,0,0,0
+2026-04-24,Pasar Minggu,Nasi Goreng,44.0,15000,0,0,0
+2026-04-25,Padang Harapan,Es Teh,68.0,5000,0,0,1
+2026-04-25,Padang Harapan,Martabak,23.0,20000,0,0,1
+2026-04-25,Padang Harapan,Mie Ayam,37.0,13000,0,0,1
+2026-04-25,Padang Harapan,Nasi Goreng,36.0,15000,0,0,1
+2026-04-25,Panorama,Es Teh,70.0,5000,0,0,1
+2026-04-25,Panorama,Martabak,24.0,20000,0,0,1
+2026-04-25,Panorama,Mie Ayam,34.0,13000,0,0,1
+2026-04-25,Panorama,Nasi Goreng,41.0,15000,0,0,1
+2026-04-25,Pasar Minggu,Es Teh,61.0,5000,0,0,1
+2026-04-25,Pasar Minggu,Martabak,21.0,20000,0,0,1
+2026-04-25,Pasar Minggu,Mie Ayam,34.0,13000,0,0,1
+2026-04-25,Pasar Minggu,Nasi Goreng,39.0,15000,0,0,1
+2026-04-26,Padang Harapan,Es Teh,77.0,5000,1,0,1
+2026-04-26,Padang Harapan,Martabak,27.0,20000,1,0,1
+2026-04-26,Padang Harapan,Mie Ayam,57.0,13000,1,0,1
+2026-04-26,Padang Harapan,Nasi Goreng,54.0,15000,1,0,1
+2026-04-26,Panorama,Es Teh,65.0,5000,0,0,1
+2026-04-26,Panorama,Martabak,14.0,20000,0,0,1
+2026-04-26,Panorama,Mie Ayam,32.0,13000,0,0,1
+2026-04-26,Panorama,Nasi Goreng,42.0,15000,0,0,1
+2026-04-26,Pasar Minggu,Es Teh,54.0,5000,0,0,1
+2026-04-26,Pasar Minggu,Martabak,19.0,20000,0,0,1
+2026-04-26,Pasar Minggu,Mie Ayam,38.0,13000,0,0,1
+2026-04-26,Pasar Minggu,Nasi Goreng,56.0,15000,0,0,1
+2026-04-27,Padang Harapan,Es Teh,53.0,5000,1,0,0
+2026-04-27,Padang Harapan,Martabak,19.0,20000,1,0,0
+2026-04-27,Padang Harapan,Mie Ayam,35.0,13000,1,0,0
+2026-04-27,Padang Harapan,Nasi Goreng,30.0,15000,1,0,0
+2026-04-27,Panorama,Es Teh,65.0,5000,1,0,0
+2026-04-27,Panorama,Martabak,19.0,20000,1,0,0
+2026-04-27,Panorama,Mie Ayam,35.0,13000,1,0,0
+2026-04-27,Panorama,Nasi Goreng,44.0,15000,1,0,0
+2026-04-27,Pasar Minggu,Es Teh,82.0,5000,1,0,0
+2026-04-27,Pasar Minggu,Martabak,27.0,20000,1,0,0
+2026-04-27,Pasar Minggu,Mie Ayam,35.0,13000,1,0,0
+2026-04-27,Pasar Minggu,Nasi Goreng,29.0,15000,1,0,0
+2026-04-28,Padang Harapan,Es Teh,45.0,5000,0,0,0
+2026-04-28,Padang Harapan,Martabak,13.0,20000,0,0,0
+2026-04-28,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-04-28,Padang Harapan,Nasi Goreng,30.0,15000,0,0,0
+2026-04-28,Panorama,Es Teh,45.0,5000,1,0,0
+2026-04-28,Panorama,Martabak,26.0,20000,1,0,0
+2026-04-28,Panorama,Mie Ayam,45.0,13000,1,0,0
+2026-04-28,Panorama,Nasi Goreng,50.0,15000,1,0,0
+2026-04-28,Pasar Minggu,Es Teh,45.0,5000,0,0,0
+2026-04-28,Pasar Minggu,Martabak,17.0,20000,0,0,0
+2026-04-28,Pasar Minggu,Mie Ayam,25.0,13000,0,0,0
+2026-04-28,Pasar Minggu,Nasi Goreng,37.0,15000,0,0,0
+2026-04-29,Padang Harapan,Es Teh,45.0,5000,0,0,0
+2026-04-29,Padang Harapan,Martabak,24.0,20000,0,0,0
+2026-04-29,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-04-29,Padang Harapan,Nasi Goreng,27.0,15000,0,0,0
+2026-04-29,Panorama,Es Teh,47.0,5000,0,0,0
+2026-04-29,Panorama,Martabak,11.0,20000,0,0,0
+2026-04-29,Panorama,Mie Ayam,39.0,13000,0,0,0
+2026-04-29,Panorama,Nasi Goreng,37.0,15000,0,0,0
+2026-04-29,Pasar Minggu,Es Teh,49.0,5000,1,0,0
+2026-04-29,Pasar Minggu,Martabak,25.0,20000,1,0,0
+2026-04-29,Pasar Minggu,Mie Ayam,25.0,13000,1,0,0
+2026-04-29,Pasar Minggu,Nasi Goreng,29.0,15000,1,0,0
+2026-04-30,Padang Harapan,Es Teh,61.0,5000,1,0,0
+2026-04-30,Padang Harapan,Martabak,24.0,20000,1,0,0
+2026-04-30,Padang Harapan,Mie Ayam,28.0,13000,1,0,0
+2026-04-30,Padang Harapan,Nasi Goreng,28.0,15000,1,0,0
+2026-04-30,Panorama,Es Teh,48.0,5000,0,0,0
+2026-04-30,Panorama,Martabak,14.0,20000,0,0,0
+2026-04-30,Panorama,Mie Ayam,18.0,13000,0,0,0
+2026-04-30,Panorama,Nasi Goreng,28.0,15000,0,0,0
+2026-04-30,Pasar Minggu,Es Teh,56.0,5000,1,0,0
+2026-04-30,Pasar Minggu,Martabak,12.0,20000,1,0,0
+2026-04-30,Pasar Minggu,Mie Ayam,19.0,13000,1,0,0
+2026-04-30,Pasar Minggu,Nasi Goreng,27.0,15000,1,0,0
+2026-05-01,Padang Harapan,Es Teh,45.0,5000,0,0,0
+2026-05-01,Padang Harapan,Martabak,17.0,20000,0,0,0
+2026-05-01,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-05-01,Padang Harapan,Nasi Goreng,32.0,15000,0,0,0
+2026-05-01,Panorama,Es Teh,54.0,5000,0,0,0
+2026-05-01,Panorama,Martabak,12.0,20000,0,0,0
+2026-05-01,Panorama,Mie Ayam,27.0,13000,0,0,0
+2026-05-01,Panorama,Nasi Goreng,34.0,15000,0,0,0
+2026-05-01,Pasar Minggu,Es Teh,51.0,5000,1,0,0
+2026-05-01,Pasar Minggu,Martabak,27.0,20000,1,0,0
+2026-05-01,Pasar Minggu,Mie Ayam,25.0,13000,1,0,0
+2026-05-01,Pasar Minggu,Nasi Goreng,37.0,15000,1,0,0
+2026-05-02,Padang Harapan,Es Teh,39.0,5000,0,1,1
+2026-05-02,Padang Harapan,Martabak,13.0,20000,0,1,1
+2026-05-02,Padang Harapan,Mie Ayam,21.0,13000,0,1,1
+2026-05-02,Padang Harapan,Nasi Goreng,31.0,15000,0,1,1
+2026-05-02,Panorama,Es Teh,66.0,5000,1,1,1
+2026-05-02,Panorama,Martabak,28.0,20000,1,1,1
+2026-05-02,Panorama,Mie Ayam,40.0,13000,1,1,1
+2026-05-02,Panorama,Nasi Goreng,40.0,15000,1,1,1
+2026-05-02,Pasar Minggu,Es Teh,47.0,5000,0,1,1
+2026-05-02,Pasar Minggu,Martabak,16.0,20000,0,1,1
+2026-05-02,Pasar Minggu,Mie Ayam,25.0,13000,0,1,1
+2026-05-02,Pasar Minggu,Nasi Goreng,29.0,15000,0,1,1
+2026-05-03,Padang Harapan,Es Teh,68.0,5000,1,0,1
+2026-05-03,Padang Harapan,Martabak,27.0,20000,1,0,1
+2026-05-03,Padang Harapan,Mie Ayam,49.0,13000,1,0,1
+2026-05-03,Padang Harapan,Nasi Goreng,40.0,15000,1,0,1
+2026-05-03,Panorama,Es Teh,81.0,5000,0,0,1
+2026-05-03,Panorama,Martabak,24.0,20000,0,0,1
+2026-05-03,Panorama,Mie Ayam,34.0,13000,0,0,1
+2026-05-03,Panorama,Nasi Goreng,40.0,15000,0,0,1
+2026-05-03,Pasar Minggu,Es Teh,80.0,5000,1,0,1
+2026-05-03,Pasar Minggu,Martabak,19.0,20000,1,0,1
+2026-05-03,Pasar Minggu,Mie Ayam,41.0,13000,1,0,1
+2026-05-03,Pasar Minggu,Nasi Goreng,48.0,15000,1,0,1
+2026-05-04,Padang Harapan,Es Teh,55.0,5000,0,0,0
+2026-05-04,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-05-04,Padang Harapan,Mie Ayam,36.0,13000,0,0,0
+2026-05-04,Padang Harapan,Nasi Goreng,27.0,15000,0,0,0
+2026-05-04,Panorama,Es Teh,49.0,5000,0,0,0
+2026-05-04,Panorama,Martabak,13.0,20000,0,0,0
+2026-05-04,Panorama,Mie Ayam,33.0,13000,0,0,0
+2026-05-04,Panorama,Nasi Goreng,33.0,15000,0,0,0
+2026-05-04,Pasar Minggu,Es Teh,56.0,5000,0,0,0
+2026-05-04,Pasar Minggu,Martabak,18.0,20000,0,0,0
+2026-05-04,Pasar Minggu,Mie Ayam,25.0,13000,0,0,0
+2026-05-04,Pasar Minggu,Nasi Goreng,26.0,15000,0,0,0
+2026-05-05,Padang Harapan,Es Teh,44.0,5000,0,0,0
+2026-05-05,Padang Harapan,Martabak,16.0,20000,0,0,0
+2026-05-05,Padang Harapan,Mie Ayam,21.0,13000,0,0,0
+2026-05-05,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-05-05,Panorama,Es Teh,47.0,5000,0,0,0
+2026-05-05,Panorama,Martabak,13.0,20000,0,0,0
+2026-05-05,Panorama,Mie Ayam,28.0,13000,0,0,0
+2026-05-05,Panorama,Nasi Goreng,38.0,15000,0,0,0
+2026-05-05,Pasar Minggu,Es Teh,45.0,5000,0,0,0
+2026-05-05,Pasar Minggu,Martabak,15.0,20000,0,0,0
+2026-05-05,Pasar Minggu,Mie Ayam,24.0,13000,0,0,0
+2026-05-05,Pasar Minggu,Nasi Goreng,34.0,15000,0,0,0
+2026-05-06,Padang Harapan,Es Teh,49.0,5000,0,0,0
+2026-05-06,Padang Harapan,Martabak,9.0,20000,0,0,0
+2026-05-06,Padang Harapan,Mie Ayam,28.0,13000,0,0,0
+2026-05-06,Padang Harapan,Nasi Goreng,32.0,15000,0,0,0
+2026-05-06,Panorama,Es Teh,57.0,5000,1,0,0
+2026-05-06,Panorama,Martabak,21.0,20000,1,0,0
+2026-05-06,Panorama,Mie Ayam,34.0,13000,1,0,0
+2026-05-06,Panorama,Nasi Goreng,39.0,15000,1,0,0
+2026-05-06,Pasar Minggu,Es Teh,66.0,5000,1,0,0
+2026-05-06,Pasar Minggu,Martabak,21.0,20000,1,0,0
+2026-05-06,Pasar Minggu,Mie Ayam,32.0,13000,1,0,0
+2026-05-06,Pasar Minggu,Nasi Goreng,37.0,15000,1,0,0
+2026-05-07,Padang Harapan,Es Teh,46.0,5000,1,1,0
+2026-05-07,Padang Harapan,Martabak,17.0,20000,1,1,0
+2026-05-07,Padang Harapan,Mie Ayam,24.0,13000,1,1,0
+2026-05-07,Padang Harapan,Nasi Goreng,33.0,15000,1,1,0
+2026-05-07,Panorama,Es Teh,55.0,5000,1,1,0
+2026-05-07,Panorama,Martabak,8.0,20000,1,1,0
+2026-05-07,Panorama,Mie Ayam,29.0,13000,1,1,0
+2026-05-07,Panorama,Nasi Goreng,39.0,15000,1,1,0
+2026-05-07,Pasar Minggu,Es Teh,32.0,5000,0,1,0
+2026-05-07,Pasar Minggu,Martabak,8.0,20000,0,1,0
+2026-05-07,Pasar Minggu,Mie Ayam,21.0,13000,0,1,0
+2026-05-07,Pasar Minggu,Nasi Goreng,16.0,15000,0,1,0
+2026-05-08,Padang Harapan,Es Teh,53.0,5000,0,0,0
+2026-05-08,Padang Harapan,Martabak,11.0,20000,0,0,0
+2026-05-08,Padang Harapan,Mie Ayam,28.0,13000,0,0,0
+2026-05-08,Padang Harapan,Nasi Goreng,30.0,15000,0,0,0
+2026-05-08,Panorama,Es Teh,59.0,5000,0,0,0
+2026-05-08,Panorama,Martabak,18.0,20000,0,0,0
+2026-05-08,Panorama,Mie Ayam,22.0,13000,0,0,0
+2026-05-08,Panorama,Nasi Goreng,38.0,15000,0,0,0
+2026-05-08,Pasar Minggu,Es Teh,45.0,5000,0,0,0
+2026-05-08,Pasar Minggu,Martabak,16.0,20000,0,0,0
+2026-05-08,Pasar Minggu,Mie Ayam,22.0,13000,0,0,0
+2026-05-08,Pasar Minggu,Nasi Goreng,24.0,15000,0,0,0
+2026-05-09,Padang Harapan,Es Teh,63.0,5000,1,1,1
+2026-05-09,Padang Harapan,Martabak,21.0,20000,1,1,1
+2026-05-09,Padang Harapan,Mie Ayam,30.0,13000,1,1,1
+2026-05-09,Padang Harapan,Nasi Goreng,39.0,15000,1,1,1
+2026-05-09,Panorama,Es Teh,53.0,5000,0,1,1
+2026-05-09,Panorama,Martabak,23.0,20000,0,1,1
+2026-05-09,Panorama,Mie Ayam,35.0,13000,0,1,1
+2026-05-09,Panorama,Nasi Goreng,36.0,15000,0,1,1
+2026-05-09,Pasar Minggu,Es Teh,80.0,5000,1,1,1
+2026-05-09,Pasar Minggu,Martabak,17.0,20000,1,1,1
+2026-05-09,Pasar Minggu,Mie Ayam,41.0,13000,1,1,1
+2026-05-09,Pasar Minggu,Nasi Goreng,34.0,15000,1,1,1
+2026-05-10,Padang Harapan,Es Teh,76.0,5000,0,0,1
+2026-05-10,Padang Harapan,Martabak,26.0,20000,0,0,1
+2026-05-10,Padang Harapan,Mie Ayam,29.0,13000,0,0,1
+2026-05-10,Padang Harapan,Nasi Goreng,41.0,15000,0,0,1
+2026-05-10,Panorama,Es Teh,56.0,5000,0,0,1
+2026-05-10,Panorama,Martabak,20.0,20000,0,0,1
+2026-05-10,Panorama,Mie Ayam,34.0,13000,0,0,1
+2026-05-10,Panorama,Nasi Goreng,48.0,15000,0,0,1
+2026-05-10,Pasar Minggu,Es Teh,85.0,5000,1,0,1
+2026-05-10,Pasar Minggu,Martabak,24.0,20000,1,0,1
+2026-05-10,Pasar Minggu,Mie Ayam,31.0,13000,1,0,1
+2026-05-10,Pasar Minggu,Nasi Goreng,39.0,15000,1,0,1
+2026-05-11,Padang Harapan,Es Teh,55.0,5000,0,0,0
+2026-05-11,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-05-11,Padang Harapan,Mie Ayam,27.0,13000,0,0,0
+2026-05-11,Padang Harapan,Nasi Goreng,24.0,15000,0,0,0
+2026-05-11,Panorama,Es Teh,55.0,5000,1,0,0
+2026-05-11,Panorama,Martabak,27.0,20000,1,0,0
+2026-05-11,Panorama,Mie Ayam,26.0,13000,1,0,0
+2026-05-11,Panorama,Nasi Goreng,48.0,15000,1,0,0
+2026-05-11,Pasar Minggu,Es Teh,32.0,5000,0,0,0
+2026-05-11,Pasar Minggu,Martabak,19.0,20000,0,0,0
+2026-05-11,Pasar Minggu,Mie Ayam,20.0,13000,0,0,0
+2026-05-11,Pasar Minggu,Nasi Goreng,32.0,15000,0,0,0
+2026-05-12,Padang Harapan,Es Teh,38.0,5000,0,0,0
+2026-05-12,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-05-12,Padang Harapan,Mie Ayam,28.0,13000,0,0,0
+2026-05-12,Padang Harapan,Nasi Goreng,27.0,15000,0,0,0
+2026-05-12,Panorama,Es Teh,42.0,5000,0,0,0
+2026-05-12,Panorama,Martabak,14.0,20000,0,0,0
+2026-05-12,Panorama,Mie Ayam,21.0,13000,0,0,0
+2026-05-12,Panorama,Nasi Goreng,25.0,15000,0,0,0
+2026-05-12,Pasar Minggu,Es Teh,44.0,5000,0,0,0
+2026-05-12,Pasar Minggu,Martabak,10.0,20000,0,0,0
+2026-05-12,Pasar Minggu,Mie Ayam,29.0,13000,0,0,0
+2026-05-12,Pasar Minggu,Nasi Goreng,25.0,15000,0,0,0
+2026-05-13,Padang Harapan,Es Teh,58.0,5000,1,0,0
+2026-05-13,Padang Harapan,Martabak,15.0,20000,1,0,0
+2026-05-13,Padang Harapan,Mie Ayam,33.0,13000,1,0,0
+2026-05-13,Padang Harapan,Nasi Goreng,34.0,15000,1,0,0
+2026-05-13,Panorama,Es Teh,41.0,5000,0,0,0
+2026-05-13,Panorama,Martabak,20.0,20000,0,0,0
+2026-05-13,Panorama,Mie Ayam,21.0,13000,0,0,0
+2026-05-13,Panorama,Nasi Goreng,31.0,15000,0,0,0
+2026-05-13,Pasar Minggu,Es Teh,51.0,5000,0,0,0
+2026-05-13,Pasar Minggu,Martabak,15.0,20000,0,0,0
+2026-05-13,Pasar Minggu,Mie Ayam,19.0,13000,0,0,0
+2026-05-13,Pasar Minggu,Nasi Goreng,24.0,15000,0,0,0
+2026-05-14,Padang Harapan,Es Teh,36.0,5000,0,1,0
+2026-05-14,Padang Harapan,Martabak,8.0,20000,0,1,0
+2026-05-14,Padang Harapan,Mie Ayam,22.0,13000,0,1,0
+2026-05-14,Padang Harapan,Nasi Goreng,25.0,15000,0,1,0
+2026-05-14,Panorama,Es Teh,50.0,5000,0,1,0
+2026-05-14,Panorama,Martabak,13.0,20000,0,1,0
+2026-05-14,Panorama,Mie Ayam,19.0,13000,0,1,0
+2026-05-14,Panorama,Nasi Goreng,23.0,15000,0,1,0
+2026-05-14,Pasar Minggu,Es Teh,46.0,5000,1,1,0
+2026-05-14,Pasar Minggu,Martabak,19.0,20000,1,1,0
+2026-05-14,Pasar Minggu,Mie Ayam,31.0,13000,1,1,0
+2026-05-14,Pasar Minggu,Nasi Goreng,27.0,15000,1,1,0
+2026-05-15,Padang Harapan,Es Teh,41.0,5000,1,1,0
+2026-05-15,Padang Harapan,Martabak,15.0,20000,1,1,0
+2026-05-15,Padang Harapan,Mie Ayam,29.0,13000,1,1,0
+2026-05-15,Padang Harapan,Nasi Goreng,37.0,15000,1,1,0
+2026-05-15,Panorama,Es Teh,34.0,5000,0,1,0
+2026-05-15,Panorama,Martabak,15.0,20000,0,1,0
+2026-05-15,Panorama,Mie Ayam,24.0,13000,0,1,0
+2026-05-15,Panorama,Nasi Goreng,23.0,15000,0,1,0
+2026-05-15,Pasar Minggu,Es Teh,29.0,5000,0,1,0
+2026-05-15,Pasar Minggu,Martabak,8.0,20000,0,1,0
+2026-05-15,Pasar Minggu,Mie Ayam,18.0,13000,0,1,0
+2026-05-15,Pasar Minggu,Nasi Goreng,23.0,15000,0,1,0
+2026-05-16,Padang Harapan,Es Teh,83.0,5000,1,0,1
+2026-05-16,Padang Harapan,Martabak,17.0,20000,1,0,1
+2026-05-16,Padang Harapan,Mie Ayam,41.0,13000,1,0,1
+2026-05-16,Padang Harapan,Nasi Goreng,40.0,15000,1,0,1
+2026-05-16,Panorama,Es Teh,79.0,5000,1,0,1
+2026-05-16,Panorama,Martabak,28.0,20000,1,0,1
+2026-05-16,Panorama,Mie Ayam,39.0,13000,1,0,1
+2026-05-16,Panorama,Nasi Goreng,53.0,15000,1,0,1
+2026-05-16,Pasar Minggu,Es Teh,87.0,5000,1,0,1
+2026-05-16,Pasar Minggu,Martabak,27.0,20000,1,0,1
+2026-05-16,Pasar Minggu,Mie Ayam,42.0,13000,1,0,1
+2026-05-16,Pasar Minggu,Nasi Goreng,46.0,15000,1,0,1
+2026-05-17,Padang Harapan,Es Teh,60.0,5000,1,0,1
+2026-05-17,Padang Harapan,Martabak,21.0,20000,1,0,1
+2026-05-17,Padang Harapan,Mie Ayam,47.0,13000,1,0,1
+2026-05-17,Padang Harapan,Nasi Goreng,47.0,15000,1,0,1
+2026-05-17,Panorama,Es Teh,77.0,5000,0,0,1
+2026-05-17,Panorama,Martabak,20.0,20000,0,0,1
+2026-05-17,Panorama,Mie Ayam,27.0,13000,0,0,1
+2026-05-17,Panorama,Nasi Goreng,44.0,15000,0,0,1
+2026-05-17,Pasar Minggu,Es Teh,54.0,5000,0,0,1
+2026-05-17,Pasar Minggu,Martabak,24.0,20000,0,0,1
+2026-05-17,Pasar Minggu,Mie Ayam,38.0,13000,0,0,1
+2026-05-17,Pasar Minggu,Nasi Goreng,45.0,15000,0,0,1
+2026-05-18,Padang Harapan,Es Teh,56.0,5000,1,0,0
+2026-05-18,Padang Harapan,Martabak,15.0,20000,1,0,0
+2026-05-18,Padang Harapan,Mie Ayam,34.0,13000,1,0,0
+2026-05-18,Padang Harapan,Nasi Goreng,41.0,15000,1,0,0
+2026-05-18,Panorama,Es Teh,42.0,5000,0,0,0
+2026-05-18,Panorama,Martabak,9.0,20000,0,0,0
+2026-05-18,Panorama,Mie Ayam,25.0,13000,0,0,0
+2026-05-18,Panorama,Nasi Goreng,41.0,15000,0,0,0
+2026-05-18,Pasar Minggu,Es Teh,50.0,5000,0,0,0
+2026-05-18,Pasar Minggu,Martabak,16.0,20000,0,0,0
+2026-05-18,Pasar Minggu,Mie Ayam,19.0,13000,0,0,0
+2026-05-18,Pasar Minggu,Nasi Goreng,26.0,15000,0,0,0
+2026-05-19,Padang Harapan,Es Teh,35.0,5000,0,0,0
+2026-05-19,Padang Harapan,Martabak,20.0,20000,0,0,0
+2026-05-19,Padang Harapan,Mie Ayam,27.0,13000,0,0,0
+2026-05-19,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-05-19,Panorama,Es Teh,49.0,5000,0,0,0
+2026-05-19,Panorama,Martabak,14.0,20000,0,0,0
+2026-05-19,Panorama,Mie Ayam,24.0,13000,0,0,0
+2026-05-19,Panorama,Nasi Goreng,28.0,15000,0,0,0
+2026-05-19,Pasar Minggu,Es Teh,59.0,5000,1,0,0
+2026-05-19,Pasar Minggu,Martabak,21.0,20000,1,0,0
+2026-05-19,Pasar Minggu,Mie Ayam,28.0,13000,1,0,0
+2026-05-19,Pasar Minggu,Nasi Goreng,36.0,15000,1,0,0
+2026-05-20,Padang Harapan,Es Teh,44.0,5000,0,1,0
+2026-05-20,Padang Harapan,Martabak,13.0,20000,0,1,0
+2026-05-20,Padang Harapan,Mie Ayam,19.0,13000,0,1,0
+2026-05-20,Padang Harapan,Nasi Goreng,17.0,15000,0,1,0
+2026-05-20,Panorama,Es Teh,43.0,5000,1,1,0
+2026-05-20,Panorama,Martabak,16.0,20000,1,1,0
+2026-05-20,Panorama,Mie Ayam,14.0,13000,1,1,0
+2026-05-20,Panorama,Nasi Goreng,28.0,15000,1,1,0
+2026-05-20,Pasar Minggu,Es Teh,39.0,5000,0,1,0
+2026-05-20,Pasar Minggu,Martabak,10.0,20000,0,1,0
+2026-05-20,Pasar Minggu,Mie Ayam,18.0,13000,0,1,0
+2026-05-20,Pasar Minggu,Nasi Goreng,20.0,15000,0,1,0
+2026-05-21,Padang Harapan,Es Teh,41.0,5000,0,0,0
+2026-05-21,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-05-21,Padang Harapan,Mie Ayam,29.0,13000,0,0,0
+2026-05-21,Padang Harapan,Nasi Goreng,41.0,15000,0,0,0
+2026-05-21,Panorama,Es Teh,52.0,5000,1,0,0
+2026-05-21,Panorama,Martabak,15.0,20000,1,0,0
+2026-05-21,Panorama,Mie Ayam,30.0,13000,1,0,0
+2026-05-21,Panorama,Nasi Goreng,37.0,15000,1,0,0
+2026-05-21,Pasar Minggu,Es Teh,52.0,5000,0,0,0
+2026-05-21,Pasar Minggu,Martabak,20.0,20000,0,0,0
+2026-05-21,Pasar Minggu,Mie Ayam,26.0,13000,0,0,0
+2026-05-21,Pasar Minggu,Nasi Goreng,29.0,15000,0,0,0
+2026-05-22,Padang Harapan,Es Teh,45.0,5000,0,0,0
+2026-05-22,Padang Harapan,Martabak,14.0,20000,0,0,0
+2026-05-22,Padang Harapan,Mie Ayam,23.0,13000,0,0,0
+2026-05-22,Padang Harapan,Nasi Goreng,31.0,15000,0,0,0
+2026-05-22,Panorama,Es Teh,58.0,5000,1,0,0
+2026-05-22,Panorama,Martabak,17.0,20000,1,0,0
+2026-05-22,Panorama,Mie Ayam,33.0,13000,1,0,0
+2026-05-22,Panorama,Nasi Goreng,37.0,15000,1,0,0
+2026-05-22,Pasar Minggu,Es Teh,45.0,5000,0,0,0
+2026-05-22,Pasar Minggu,Martabak,13.0,20000,0,0,0
+2026-05-22,Pasar Minggu,Mie Ayam,23.0,13000,0,0,0
+2026-05-22,Pasar Minggu,Nasi Goreng,28.0,15000,0,0,0
+2026-05-23,Padang Harapan,Es Teh,59.0,5000,1,1,1
+2026-05-23,Padang Harapan,Martabak,26.0,20000,1,1,1
+2026-05-23,Padang Harapan,Mie Ayam,23.0,13000,1,1,1
+2026-05-23,Padang Harapan,Nasi Goreng,46.0,15000,1,1,1
+2026-05-23,Panorama,Es Teh,37.0,5000,0,1,1
+2026-05-23,Panorama,Martabak,20.0,20000,0,1,1
+2026-05-23,Panorama,Mie Ayam,34.0,13000,0,1,1
+2026-05-23,Panorama,Nasi Goreng,31.0,15000,0,1,1
+2026-05-23,Pasar Minggu,Es Teh,51.0,5000,0,1,1
+2026-05-23,Pasar Minggu,Martabak,14.0,20000,0,1,1
+2026-05-23,Pasar Minggu,Mie Ayam,32.0,13000,0,1,1
+2026-05-23,Pasar Minggu,Nasi Goreng,22.0,15000,0,1,1
+2026-05-24,Padang Harapan,Es Teh,60.0,5000,0,1,1
+2026-05-24,Padang Harapan,Martabak,14.0,20000,0,1,1
+2026-05-24,Padang Harapan,Mie Ayam,23.0,13000,0,1,1
+2026-05-24,Padang Harapan,Nasi Goreng,31.0,15000,0,1,1
+2026-05-24,Panorama,Es Teh,58.0,5000,0,1,1
+2026-05-24,Panorama,Martabak,16.0,20000,0,1,1
+2026-05-24,Panorama,Mie Ayam,31.0,13000,0,1,1
+2026-05-24,Panorama,Nasi Goreng,31.0,15000,0,1,1
+2026-05-24,Pasar Minggu,Es Teh,49.0,5000,0,1,1
+2026-05-24,Pasar Minggu,Martabak,23.0,20000,0,1,1
+2026-05-24,Pasar Minggu,Mie Ayam,36.0,13000,0,1,1
+2026-05-24,Pasar Minggu,Nasi Goreng,41.0,15000,0,1,1
+2026-05-25,Padang Harapan,Es Teh,31.0,5000,0,1,0
+2026-05-25,Padang Harapan,Martabak,12.0,20000,0,1,0
+2026-05-25,Padang Harapan,Mie Ayam,19.0,13000,0,1,0
+2026-05-25,Padang Harapan,Nasi Goreng,24.0,15000,0,1,0
+2026-05-25,Panorama,Es Teh,51.0,5000,1,1,0
+2026-05-25,Panorama,Martabak,17.0,20000,1,1,0
+2026-05-25,Panorama,Mie Ayam,31.0,13000,1,1,0
+2026-05-25,Panorama,Nasi Goreng,32.0,15000,1,1,0
+2026-05-25,Pasar Minggu,Es Teh,30.0,5000,0,1,0
+2026-05-25,Pasar Minggu,Martabak,11.0,20000,0,1,0
+2026-05-25,Pasar Minggu,Mie Ayam,17.0,13000,0,1,0
+2026-05-25,Pasar Minggu,Nasi Goreng,24.0,15000,0,1,0
+2026-05-26,Padang Harapan,Es Teh,38.0,5000,0,0,0
+2026-05-26,Padang Harapan,Martabak,19.0,20000,0,0,0
+2026-05-26,Padang Harapan,Mie Ayam,19.0,13000,0,0,0
+2026-05-26,Padang Harapan,Nasi Goreng,23.0,15000,0,0,0
+2026-05-26,Panorama,Es Teh,48.0,5000,0,0,0
+2026-05-26,Panorama,Martabak,16.0,20000,0,0,0
+2026-05-26,Panorama,Mie Ayam,33.0,13000,0,0,0
+2026-05-26,Panorama,Nasi Goreng,37.0,15000,0,0,0
+2026-05-26,Pasar Minggu,Es Teh,38.0,5000,0,0,0
+2026-05-26,Pasar Minggu,Martabak,16.0,20000,0,0,0
+2026-05-26,Pasar Minggu,Mie Ayam,24.0,13000,0,0,0
+2026-05-26,Pasar Minggu,Nasi Goreng,33.0,15000,0,0,0
+2026-05-27,Padang Harapan,Es Teh,29.0,5000,0,1,0
+2026-05-27,Padang Harapan,Martabak,13.0,20000,0,1,0
+2026-05-27,Padang Harapan,Mie Ayam,18.0,13000,0,1,0
+2026-05-27,Padang Harapan,Nasi Goreng,20.0,15000,0,1,0
+2026-05-27,Panorama,Es Teh,34.0,5000,0,1,0
+2026-05-27,Panorama,Martabak,15.0,20000,0,1,0
+2026-05-27,Panorama,Mie Ayam,24.0,13000,0,1,0
+2026-05-27,Panorama,Nasi Goreng,22.0,15000,0,1,0
+2026-05-27,Pasar Minggu,Es Teh,32.0,5000,0,1,0
+2026-05-27,Pasar Minggu,Martabak,14.0,20000,0,1,0
+2026-05-27,Pasar Minggu,Mie Ayam,20.0,13000,0,1,0
+2026-05-27,Pasar Minggu,Nasi Goreng,23.0,15000,0,1,0
+2026-05-28,Padang Harapan,Es Teh,36.0,5000,0,0,0
+2026-05-28,Padang Harapan,Martabak,14.0,20000,0,0,0
+2026-05-28,Padang Harapan,Mie Ayam,28.0,13000,0,0,0
+2026-05-28,Padang Harapan,Nasi Goreng,37.0,15000,0,0,0
+2026-05-28,Panorama,Es Teh,57.0,5000,1,0,0
+2026-05-28,Panorama,Martabak,27.0,20000,1,0,0
+2026-05-28,Panorama,Mie Ayam,40.0,13000,1,0,0
+2026-05-28,Panorama,Nasi Goreng,41.0,15000,1,0,0
+2026-05-28,Pasar Minggu,Es Teh,44.0,5000,0,0,0
+2026-05-28,Pasar Minggu,Martabak,17.0,20000,0,0,0
+2026-05-28,Pasar Minggu,Mie Ayam,21.0,13000,0,0,0
+2026-05-28,Pasar Minggu,Nasi Goreng,22.0,15000,0,0,0
+2026-05-29,Padang Harapan,Es Teh,53.0,5000,1,1,0
+2026-05-29,Padang Harapan,Martabak,15.0,20000,1,1,0
+2026-05-29,Padang Harapan,Mie Ayam,27.0,13000,1,1,0
+2026-05-29,Padang Harapan,Nasi Goreng,28.0,15000,1,1,0
+2026-05-29,Panorama,Es Teh,52.0,5000,1,1,0
+2026-05-29,Panorama,Martabak,13.0,20000,1,1,0
+2026-05-29,Panorama,Mie Ayam,24.0,13000,1,1,0
+2026-05-29,Panorama,Nasi Goreng,33.0,15000,1,1,0
+2026-05-29,Pasar Minggu,Es Teh,34.0,5000,0,1,0
+2026-05-29,Pasar Minggu,Martabak,12.0,20000,0,1,0
+2026-05-29,Pasar Minggu,Mie Ayam,28.0,13000,0,1,0
+2026-05-29,Pasar Minggu,Nasi Goreng,28.0,15000,0,1,0
+2026-05-30,Padang Harapan,Es Teh,63.0,5000,0,0,1
+2026-05-30,Padang Harapan,Martabak,20.0,20000,0,0,1
+2026-05-30,Padang Harapan,Mie Ayam,30.0,13000,0,0,1
+2026-05-30,Padang Harapan,Nasi Goreng,43.0,15000,0,0,1
+2026-05-30,Panorama,Es Teh,60.0,5000,0,0,1
+2026-05-30,Panorama,Martabak,20.0,20000,0,0,1
+2026-05-30,Panorama,Mie Ayam,30.0,13000,0,0,1
+2026-05-30,Panorama,Nasi Goreng,49.0,15000,0,0,1
+2026-05-30,Pasar Minggu,Es Teh,54.0,5000,0,0,1
+2026-05-30,Pasar Minggu,Martabak,26.0,20000,0,0,1
+2026-05-30,Pasar Minggu,Mie Ayam,29.0,13000,0,0,1
+2026-05-30,Pasar Minggu,Nasi Goreng,41.0,15000,0,0,1
+2026-05-31,Padang Harapan,Es Teh,67.0,5000,0,0,1
+2026-05-31,Padang Harapan,Martabak,24.0,20000,0,0,1
+2026-05-31,Padang Harapan,Mie Ayam,28.0,13000,0,0,1
+2026-05-31,Padang Harapan,Nasi Goreng,38.0,15000,0,0,1
+2026-05-31,Panorama,Es Teh,63.0,5000,0,0,1
+2026-05-31,Panorama,Martabak,18.0,20000,0,0,1
+2026-05-31,Panorama,Mie Ayam,45.0,13000,0,0,1
+2026-05-31,Panorama,Nasi Goreng,34.0,15000,0,0,1
+2026-05-31,Pasar Minggu,Es Teh,56.0,5000,0,0,1
+2026-05-31,Pasar Minggu,Martabak,22.0,20000,0,0,1
+2026-05-31,Pasar Minggu,Mie Ayam,30.0,13000,0,0,1
+2026-05-31,Pasar Minggu,Nasi Goreng,51.0,15000,0,0,1
+2026-06-01,Padang Harapan,Es Teh,67.0,5000,1,0,0
+2026-06-01,Padang Harapan,Martabak,15.0,20000,1,0,0
+2026-06-01,Padang Harapan,Mie Ayam,40.0,13000,1,0,0
+2026-06-01,Padang Harapan,Nasi Goreng,40.0,15000,1,0,0
+2026-06-01,Panorama,Es Teh,52.0,5000,0,0,0
+2026-06-01,Panorama,Martabak,14.0,20000,0,0,0
+2026-06-01,Panorama,Mie Ayam,29.0,13000,0,0,0
+2026-06-01,Panorama,Nasi Goreng,32.0,15000,0,0,0
+2026-06-01,Pasar Minggu,Es Teh,45.0,5000,0,0,0
+2026-06-01,Pasar Minggu,Martabak,15.0,20000,0,0,0
+2026-06-01,Pasar Minggu,Mie Ayam,20.0,13000,0,0,0
+2026-06-01,Pasar Minggu,Nasi Goreng,25.0,15000,0,0,0
+2026-06-02,Padang Harapan,Es Teh,32.0,5000,0,1,0
+2026-06-02,Padang Harapan,Martabak,11.0,20000,0,1,0
+2026-06-02,Padang Harapan,Mie Ayam,17.0,13000,0,1,0
+2026-06-02,Padang Harapan,Nasi Goreng,26.0,15000,0,1,0
+2026-06-02,Panorama,Es Teh,32.0,5000,0,1,0
+2026-06-02,Panorama,Martabak,9.0,20000,0,1,0
+2026-06-02,Panorama,Mie Ayam,12.0,13000,0,1,0
+2026-06-02,Panorama,Nasi Goreng,27.0,15000,0,1,0
+2026-06-02,Pasar Minggu,Es Teh,37.0,5000,0,1,0
+2026-06-02,Pasar Minggu,Martabak,16.0,20000,0,1,0
+2026-06-02,Pasar Minggu,Mie Ayam,16.0,13000,0,1,0
+2026-06-02,Pasar Minggu,Nasi Goreng,20.0,15000,0,1,0
+2026-06-03,Padang Harapan,Es Teh,52.0,5000,0,0,0
+2026-06-03,Padang Harapan,Martabak,10.0,20000,0,0,0
+2026-06-03,Padang Harapan,Mie Ayam,26.0,13000,0,0,0
+2026-06-03,Padang Harapan,Nasi Goreng,33.0,15000,0,0,0
+2026-06-03,Panorama,Es Teh,45.0,5000,0,0,0
+2026-06-03,Panorama,Martabak,20.0,20000,0,0,0
+2026-06-03,Panorama,Mie Ayam,26.0,13000,0,0,0
+2026-06-03,Panorama,Nasi Goreng,31.0,15000,0,0,0
+2026-06-03,Pasar Minggu,Es Teh,48.0,5000,1,0,0
+2026-06-03,Pasar Minggu,Martabak,18.0,20000,1,0,0
+2026-06-03,Pasar Minggu,Mie Ayam,29.0,13000,1,0,0
+2026-06-03,Pasar Minggu,Nasi Goreng,37.0,15000,1,0,0
+2026-06-04,Padang Harapan,Es Teh,47.0,5000,0,0,0
+2026-06-04,Padang Harapan,Martabak,13.0,20000,0,0,0
+2026-06-04,Padang Harapan,Mie Ayam,21.0,13000,0,0,0
+2026-06-04,Padang Harapan,Nasi Goreng,18.0,15000,0,0,0
+2026-06-04,Panorama,Es Teh,42.0,5000,0,0,0
+2026-06-04,Panorama,Martabak,16.0,20000,0,0,0
+2026-06-04,Panorama,Mie Ayam,23.0,13000,0,0,0
+2026-06-04,Panorama,Nasi Goreng,34.0,15000,0,0,0
+2026-06-04,Pasar Minggu,Es Teh,31.0,5000,0,0,0
+2026-06-04,Pasar Minggu,Martabak,16.0,20000,0,0,0
+2026-06-04,Pasar Minggu,Mie Ayam,26.0,13000,0,0,0
+2026-06-04,Pasar Minggu,Nasi Goreng,24.0,15000,0,0,0
+2026-06-05,Padang Harapan,Es Teh,43.0,5000,0,1,0
+2026-06-05,Padang Harapan,Martabak,8.0,20000,0,1,0
+2026-06-05,Padang Harapan,Mie Ayam,23.0,13000,0,1,0
+2026-06-05,Padang Harapan,Nasi Goreng,17.0,15000,0,1,0
+2026-06-05,Panorama,Es Teh,48.0,5000,1,1,0
+2026-06-05,Panorama,Martabak,19.0,20000,1,1,0
+2026-06-05,Panorama,Mie Ayam,38.0,13000,1,1,0
+2026-06-05,Panorama,Nasi Goreng,34.0,15000,1,1,0
+2026-06-05,Pasar Minggu,Es Teh,39.0,5000,0,1,0
+2026-06-05,Pasar Minggu,Martabak,12.0,20000,0,1,0
+2026-06-05,Pasar Minggu,Mie Ayam,27.0,13000,0,1,0
+2026-06-05,Pasar Minggu,Nasi Goreng,31.0,15000,0,1,0
+2026-06-06,Padang Harapan,Es Teh,48.0,5000,0,1,1
+2026-06-06,Padang Harapan,Martabak,15.0,20000,0,1,1
+2026-06-06,Padang Harapan,Mie Ayam,18.0,13000,0,1,1
+2026-06-06,Padang Harapan,Nasi Goreng,26.0,15000,0,1,1
+2026-06-06,Panorama,Es Teh,68.0,5000,1,1,1
+2026-06-06,Panorama,Martabak,17.0,20000,1,1,1
+2026-06-06,Panorama,Mie Ayam,34.0,13000,1,1,1
+2026-06-06,Panorama,Nasi Goreng,48.0,15000,1,1,1
+2026-06-06,Pasar Minggu,Es Teh,72.0,5000,1,1,1
+2026-06-06,Pasar Minggu,Martabak,22.0,20000,1,1,1
+2026-06-06,Pasar Minggu,Mie Ayam,36.0,13000,1,1,1
+2026-06-06,Pasar Minggu,Nasi Goreng,41.0,15000,1,1,1
+2026-06-07,Padang Harapan,Es Teh,71.0,5000,1,0,1
+2026-06-07,Padang Harapan,Martabak,25.0,20000,1,0,1
+2026-06-07,Padang Harapan,Mie Ayam,34.0,13000,1,0,1
+2026-06-07,Padang Harapan,Nasi Goreng,49.0,15000,1,0,1
+2026-06-07,Panorama,Es Teh,81.0,5000,1,0,1
+2026-06-07,Panorama,Martabak,30.0,20000,1,0,1
+2026-06-07,Panorama,Mie Ayam,58.0,13000,1,0,1
+2026-06-07,Panorama,Nasi Goreng,41.0,15000,1,0,1
+2026-06-07,Pasar Minggu,Es Teh,62.0,5000,1,0,1
+2026-06-07,Pasar Minggu,Martabak,25.0,20000,1,0,1
+2026-06-07,Pasar Minggu,Mie Ayam,32.0,13000,1,0,1
+2026-06-07,Pasar Minggu,Nasi Goreng,46.0,15000,1,0,1
+2026-06-08,Padang Harapan,Es Teh,61.0,5000,0,0,0
+2026-06-08,Padang Harapan,Martabak,11.0,20000,0,0,0
+2026-06-08,Padang Harapan,Mie Ayam,20.0,13000,0,0,0
+2026-06-08,Padang Harapan,Nasi Goreng,31.0,15000,0,0,0
+2026-06-08,Panorama,Es Teh,34.0,5000,0,0,0
+2026-06-08,Panorama,Martabak,22.0,20000,0,0,0
+2026-06-08,Panorama,Mie Ayam,35.0,13000,0,0,0
+2026-06-08,Panorama,Nasi Goreng,34.0,15000,0,0,0
+2026-06-08,Pasar Minggu,Es Teh,58.0,5000,1,0,0
+2026-06-08,Pasar Minggu,Martabak,18.0,20000,1,0,0
+2026-06-08,Pasar Minggu,Mie Ayam,27.0,13000,1,0,0
+2026-06-08,Pasar Minggu,Nasi Goreng,29.0,15000,1,0,0
+2026-06-09,Padang Harapan,Es Teh,42.0,5000,0,0,0
+2026-06-09,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-06-09,Padang Harapan,Mie Ayam,24.0,13000,0,0,0
+2026-06-09,Padang Harapan,Nasi Goreng,24.0,15000,0,0,0
+2026-06-09,Panorama,Es Teh,52.0,5000,0,0,0
+2026-06-09,Panorama,Martabak,14.0,20000,0,0,0
+2026-06-09,Panorama,Mie Ayam,19.0,13000,0,0,0
+2026-06-09,Panorama,Nasi Goreng,28.0,15000,0,0,0
+2026-06-09,Pasar Minggu,Es Teh,53.0,5000,0,0,0
+2026-06-09,Pasar Minggu,Martabak,18.0,20000,0,0,0
+2026-06-09,Pasar Minggu,Mie Ayam,25.0,13000,0,0,0
+2026-06-09,Pasar Minggu,Nasi Goreng,27.0,15000,0,0,0
+2026-06-10,Padang Harapan,Es Teh,41.0,5000,0,1,0
+2026-06-10,Padang Harapan,Martabak,9.0,20000,0,1,0
+2026-06-10,Padang Harapan,Mie Ayam,12.0,13000,0,1,0
+2026-06-10,Padang Harapan,Nasi Goreng,25.0,15000,0,1,0
+2026-06-10,Panorama,Es Teh,25.0,5000,0,1,0
+2026-06-10,Panorama,Martabak,8.0,20000,0,1,0
+2026-06-10,Panorama,Mie Ayam,10.0,13000,0,1,0
+2026-06-10,Panorama,Nasi Goreng,29.0,15000,0,1,0
+2026-06-10,Pasar Minggu,Es Teh,44.0,5000,0,1,0
+2026-06-10,Pasar Minggu,Martabak,8.0,20000,0,1,0
+2026-06-10,Pasar Minggu,Mie Ayam,13.0,13000,0,1,0
+2026-06-10,Pasar Minggu,Nasi Goreng,23.0,15000,0,1,0
+2026-06-11,Padang Harapan,Es Teh,49.0,5000,0,0,0
+2026-06-11,Padang Harapan,Martabak,11.0,20000,0,0,0
+2026-06-11,Padang Harapan,Mie Ayam,30.0,13000,0,0,0
+2026-06-11,Padang Harapan,Nasi Goreng,34.0,15000,0,0,0
+2026-06-11,Panorama,Es Teh,40.0,5000,1,0,0
+2026-06-11,Panorama,Martabak,13.0,20000,1,0,0
+2026-06-11,Panorama,Mie Ayam,18.0,13000,1,0,0
+2026-06-11,Panorama,Nasi Goreng,17.0,15000,1,0,0
+2026-06-11,Pasar Minggu,Es Teh,43.0,5000,0,0,0
+2026-06-11,Pasar Minggu,Martabak,19.0,20000,0,0,0
+2026-06-11,Pasar Minggu,Mie Ayam,34.0,13000,0,0,0
+2026-06-11,Pasar Minggu,Nasi Goreng,32.0,15000,0,0,0
+2026-06-12,Padang Harapan,Es Teh,37.0,5000,0,0,0
+2026-06-12,Padang Harapan,Martabak,14.0,20000,0,0,0
+2026-06-12,Padang Harapan,Mie Ayam,28.0,13000,0,0,0
+2026-06-12,Padang Harapan,Nasi Goreng,27.0,15000,0,0,0
+2026-06-12,Panorama,Es Teh,30.0,5000,0,0,0
+2026-06-12,Panorama,Martabak,15.0,20000,0,0,0
+2026-06-12,Panorama,Mie Ayam,17.0,13000,0,0,0
+2026-06-12,Panorama,Nasi Goreng,16.0,15000,0,0,0
+2026-06-12,Pasar Minggu,Es Teh,54.0,5000,1,0,0
+2026-06-12,Pasar Minggu,Martabak,18.0,20000,1,0,0
+2026-06-12,Pasar Minggu,Mie Ayam,42.0,13000,1,0,0
+2026-06-12,Pasar Minggu,Nasi Goreng,31.0,15000,1,0,0
+2026-06-13,Padang Harapan,Es Teh,52.0,5000,0,0,1
+2026-06-13,Padang Harapan,Martabak,16.0,20000,0,0,1
+2026-06-13,Padang Harapan,Mie Ayam,45.0,13000,0,0,1
+2026-06-13,Padang Harapan,Nasi Goreng,45.0,15000,0,0,1
+2026-06-13,Panorama,Es Teh,34.0,5000,0,0,1
+2026-06-13,Panorama,Martabak,12.0,20000,0,0,1
+2026-06-13,Panorama,Mie Ayam,17.0,13000,0,0,1
+2026-06-13,Panorama,Nasi Goreng,19.0,15000,0,0,1
+2026-06-13,Pasar Minggu,Es Teh,72.0,5000,1,0,1
+2026-06-13,Pasar Minggu,Martabak,28.0,20000,1,0,1
+2026-06-13,Pasar Minggu,Mie Ayam,54.0,13000,1,0,1
+2026-06-13,Pasar Minggu,Nasi Goreng,64.0,15000,1,0,1
+2026-06-14,Padang Harapan,Es Teh,56.0,5000,0,0,1
+2026-06-14,Padang Harapan,Martabak,21.0,20000,0,0,1
+2026-06-14,Padang Harapan,Mie Ayam,34.0,13000,0,0,1
+2026-06-14,Padang Harapan,Nasi Goreng,49.0,15000,0,0,1
+2026-06-14,Panorama,Es Teh,36.0,5000,0,0,1
+2026-06-14,Panorama,Martabak,11.0,20000,0,0,1
+2026-06-14,Panorama,Mie Ayam,14.0,13000,0,0,1
+2026-06-14,Panorama,Nasi Goreng,20.0,15000,0,0,1
+2026-06-14,Pasar Minggu,Es Teh,76.0,5000,1,0,1
+2026-06-14,Pasar Minggu,Martabak,27.0,20000,1,0,1
+2026-06-14,Pasar Minggu,Mie Ayam,48.0,13000,1,0,1
+2026-06-14,Pasar Minggu,Nasi Goreng,40.0,15000,1,0,1
+2026-06-15,Padang Harapan,Es Teh,44.0,5000,0,0,0
+2026-06-15,Padang Harapan,Martabak,14.0,20000,0,0,0
+2026-06-15,Padang Harapan,Mie Ayam,19.0,13000,0,0,0
+2026-06-15,Padang Harapan,Nasi Goreng,24.0,15000,0,0,0
+2026-06-15,Panorama,Es Teh,35.0,5000,1,0,0
+2026-06-15,Panorama,Martabak,9.0,20000,1,0,0
+2026-06-15,Panorama,Mie Ayam,20.0,13000,1,0,0
+2026-06-15,Panorama,Nasi Goreng,21.0,15000,1,0,0
+2026-06-15,Pasar Minggu,Es Teh,35.0,5000,0,0,0
+2026-06-15,Pasar Minggu,Martabak,20.0,20000,0,0,0
+2026-06-15,Pasar Minggu,Mie Ayam,19.0,13000,0,0,0
+2026-06-15,Pasar Minggu,Nasi Goreng,45.0,15000,0,0,0
+2026-06-16,Padang Harapan,Es Teh,33.0,5000,0,1,0
+2026-06-16,Padang Harapan,Martabak,10.0,20000,0,1,0
+2026-06-16,Padang Harapan,Mie Ayam,26.0,13000,0,1,0
+2026-06-16,Padang Harapan,Nasi Goreng,19.0,15000,0,1,0
+2026-06-16,Panorama,Es Teh,22.0,5000,0,1,0
+2026-06-16,Panorama,Martabak,8.0,20000,0,1,0
+2026-06-16,Panorama,Mie Ayam,13.0,13000,0,1,0
+2026-06-16,Panorama,Nasi Goreng,18.0,15000,0,1,0
+2026-06-16,Pasar Minggu,Es Teh,45.0,5000,0,1,0
+2026-06-16,Pasar Minggu,Martabak,12.0,20000,0,1,0
+2026-06-16,Pasar Minggu,Mie Ayam,30.0,13000,0,1,0
+2026-06-16,Pasar Minggu,Nasi Goreng,21.0,15000,0,1,0
+2026-06-17,Padang Harapan,Es Teh,25.0,5000,0,1,0
+2026-06-17,Padang Harapan,Martabak,18.0,20000,0,1,0
+2026-06-17,Padang Harapan,Mie Ayam,20.0,13000,0,1,0
+2026-06-17,Padang Harapan,Nasi Goreng,23.0,15000,0,1,0
+2026-06-17,Panorama,Es Teh,24.0,5000,1,1,0
+2026-06-17,Panorama,Martabak,9.0,20000,1,1,0
+2026-06-17,Panorama,Mie Ayam,17.0,13000,1,1,0
+2026-06-17,Panorama,Nasi Goreng,23.0,15000,1,1,0
+2026-06-17,Pasar Minggu,Es Teh,44.0,5000,0,1,0
+2026-06-17,Pasar Minggu,Martabak,16.0,20000,0,1,0
+2026-06-17,Pasar Minggu,Mie Ayam,15.0,13000,0,1,0
+2026-06-17,Pasar Minggu,Nasi Goreng,20.0,15000,0,1,0
+2026-06-18,Padang Harapan,Es Teh,45.0,5000,1,0,0
+2026-06-18,Padang Harapan,Martabak,14.0,20000,1,0,0
+2026-06-18,Padang Harapan,Mie Ayam,36.0,13000,1,0,0
+2026-06-18,Padang Harapan,Nasi Goreng,39.0,15000,1,0,0
+2026-06-18,Panorama,Es Teh,33.0,5000,1,0,0
+2026-06-18,Panorama,Martabak,13.0,20000,1,0,0
+2026-06-18,Panorama,Mie Ayam,20.0,13000,1,0,0
+2026-06-18,Panorama,Nasi Goreng,22.0,15000,1,0,0
+2026-06-18,Pasar Minggu,Es Teh,61.0,5000,1,0,0
+2026-06-18,Pasar Minggu,Martabak,21.0,20000,1,0,0
+2026-06-18,Pasar Minggu,Mie Ayam,35.0,13000,1,0,0
+2026-06-18,Pasar Minggu,Nasi Goreng,39.0,15000,1,0,0
+2026-06-19,Padang Harapan,Es Teh,45.0,5000,0,1,0
+2026-06-19,Padang Harapan,Martabak,16.0,20000,0,1,0
+2026-06-19,Padang Harapan,Mie Ayam,23.0,13000,0,1,0
+2026-06-19,Padang Harapan,Nasi Goreng,17.0,15000,0,1,0
+2026-06-19,Panorama,Es Teh,34.0,5000,1,1,0
+2026-06-19,Panorama,Martabak,9.0,20000,1,1,0
+2026-06-19,Panorama,Mie Ayam,14.0,13000,1,1,0
+2026-06-19,Panorama,Nasi Goreng,19.0,15000,1,1,0
+2026-06-19,Pasar Minggu,Es Teh,46.0,5000,1,1,0
+2026-06-19,Pasar Minggu,Martabak,13.0,20000,1,1,0
+2026-06-19,Pasar Minggu,Mie Ayam,28.0,13000,1,1,0
+2026-06-19,Pasar Minggu,Nasi Goreng,33.0,15000,1,1,0
+2026-06-20,Padang Harapan,Es Teh,49.0,5000,0,0,1
+2026-06-20,Padang Harapan,Martabak,24.0,20000,0,0,1
+2026-06-20,Padang Harapan,Mie Ayam,30.0,13000,0,0,1
+2026-06-20,Padang Harapan,Nasi Goreng,48.0,15000,0,0,1
+2026-06-20,Panorama,Es Teh,25.0,5000,0,0,1
+2026-06-20,Panorama,Martabak,13.0,20000,0,0,1
+2026-06-20,Panorama,Mie Ayam,19.0,13000,0,0,1
+2026-06-20,Panorama,Nasi Goreng,19.0,15000,0,0,1
+2026-06-20,Pasar Minggu,Es Teh,62.0,5000,0,0,1
+2026-06-20,Pasar Minggu,Martabak,18.0,20000,0,0,1
+2026-06-20,Pasar Minggu,Mie Ayam,43.0,13000,0,0,1
+2026-06-20,Pasar Minggu,Nasi Goreng,41.0,15000,0,0,1
+2026-06-21,Padang Harapan,Es Teh,79.0,5000,0,0,1
+2026-06-21,Padang Harapan,Martabak,22.0,20000,0,0,1
+2026-06-21,Padang Harapan,Mie Ayam,42.0,13000,0,0,1
+2026-06-21,Padang Harapan,Nasi Goreng,49.0,15000,0,0,1
+2026-06-21,Panorama,Es Teh,39.0,5000,0,0,1
+2026-06-21,Panorama,Martabak,21.0,20000,0,0,1
+2026-06-21,Panorama,Mie Ayam,24.0,13000,0,0,1
+2026-06-21,Panorama,Nasi Goreng,17.0,15000,0,0,1
+2026-06-21,Pasar Minggu,Es Teh,65.0,5000,0,0,1
+2026-06-21,Pasar Minggu,Martabak,16.0,20000,0,0,1
+2026-06-21,Pasar Minggu,Mie Ayam,36.0,13000,0,0,1
+2026-06-21,Pasar Minggu,Nasi Goreng,48.0,15000,0,0,1
+2026-06-22,Padang Harapan,Es Teh,50.0,5000,0,0,0
+2026-06-22,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-06-22,Padang Harapan,Mie Ayam,28.0,13000,0,0,0
+2026-06-22,Padang Harapan,Nasi Goreng,25.0,15000,0,0,0
+2026-06-22,Panorama,Es Teh,23.0,5000,0,0,0
+2026-06-22,Panorama,Martabak,12.0,20000,0,0,0
+2026-06-22,Panorama,Mie Ayam,10.0,13000,0,0,0
+2026-06-22,Panorama,Nasi Goreng,11.0,15000,0,0,0
+2026-06-22,Pasar Minggu,Es Teh,32.0,5000,0,0,0
+2026-06-22,Pasar Minggu,Martabak,26.0,20000,0,0,0
+2026-06-22,Pasar Minggu,Mie Ayam,32.0,13000,0,0,0
+2026-06-22,Pasar Minggu,Nasi Goreng,32.0,15000,0,0,0
+2026-06-23,Padang Harapan,Es Teh,33.0,5000,0,1,0
+2026-06-23,Padang Harapan,Martabak,14.0,20000,0,1,0
+2026-06-23,Padang Harapan,Mie Ayam,17.0,13000,0,1,0
+2026-06-23,Padang Harapan,Nasi Goreng,24.0,15000,0,1,0
+2026-06-23,Panorama,Es Teh,23.0,5000,0,1,0
+2026-06-23,Panorama,Martabak,7.0,20000,0,1,0
+2026-06-23,Panorama,Mie Ayam,13.0,13000,0,1,0
+2026-06-23,Panorama,Nasi Goreng,13.0,15000,0,1,0
+2026-06-23,Pasar Minggu,Es Teh,28.0,5000,0,1,0
+2026-06-23,Pasar Minggu,Martabak,15.0,20000,0,1,0
+2026-06-23,Pasar Minggu,Mie Ayam,25.0,13000,0,1,0
+2026-06-23,Pasar Minggu,Nasi Goreng,29.0,15000,0,1,0
+2026-06-24,Padang Harapan,Es Teh,47.0,5000,0,0,0
+2026-06-24,Padang Harapan,Martabak,17.0,20000,0,0,0
+2026-06-24,Padang Harapan,Mie Ayam,26.0,13000,0,0,0
+2026-06-24,Padang Harapan,Nasi Goreng,31.0,15000,0,0,0
+2026-06-24,Panorama,Es Teh,24.0,5000,0,0,0
+2026-06-24,Panorama,Martabak,9.0,20000,0,0,0
+2026-06-24,Panorama,Mie Ayam,11.0,13000,0,0,0
+2026-06-24,Panorama,Nasi Goreng,18.0,15000,0,0,0
+2026-06-24,Pasar Minggu,Es Teh,60.0,5000,1,0,0
+2026-06-24,Pasar Minggu,Martabak,16.0,20000,1,0,0
+2026-06-24,Pasar Minggu,Mie Ayam,32.0,13000,1,0,0
+2026-06-24,Pasar Minggu,Nasi Goreng,41.0,15000,1,0,0
+2026-06-25,Padang Harapan,Es Teh,53.0,5000,0,0,0
+2026-06-25,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-06-25,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-06-25,Padang Harapan,Nasi Goreng,30.0,15000,0,0,0
+2026-06-25,Panorama,Es Teh,57.0,5000,1,0,0
+2026-06-25,Panorama,Martabak,17.0,20000,1,0,0
+2026-06-25,Panorama,Mie Ayam,28.0,13000,1,0,0
+2026-06-25,Panorama,Nasi Goreng,41.0,15000,1,0,0
+2026-06-25,Pasar Minggu,Es Teh,48.0,5000,0,0,0
+2026-06-25,Pasar Minggu,Martabak,10.0,20000,0,0,0
+2026-06-25,Pasar Minggu,Mie Ayam,18.0,13000,0,0,0
+2026-06-25,Pasar Minggu,Nasi Goreng,36.0,15000,0,0,0
+2026-06-26,Padang Harapan,Es Teh,41.0,5000,0,1,0
+2026-06-26,Padang Harapan,Martabak,13.0,20000,0,1,0
+2026-06-26,Padang Harapan,Mie Ayam,19.0,13000,0,1,0
+2026-06-26,Padang Harapan,Nasi Goreng,30.0,15000,0,1,0
+2026-06-26,Panorama,Es Teh,35.0,5000,0,1,0
+2026-06-26,Panorama,Martabak,14.0,20000,0,1,0
+2026-06-26,Panorama,Mie Ayam,15.0,13000,0,1,0
+2026-06-26,Panorama,Nasi Goreng,28.0,15000,0,1,0
+2026-06-26,Pasar Minggu,Es Teh,28.0,5000,0,1,0
+2026-06-26,Pasar Minggu,Martabak,12.0,20000,0,1,0
+2026-06-26,Pasar Minggu,Mie Ayam,25.0,13000,0,1,0
+2026-06-26,Pasar Minggu,Nasi Goreng,24.0,15000,0,1,0
+2026-06-27,Padang Harapan,Es Teh,60.0,5000,0,0,1
+2026-06-27,Padang Harapan,Martabak,19.0,20000,0,0,1
+2026-06-27,Padang Harapan,Mie Ayam,31.0,13000,0,0,1
+2026-06-27,Padang Harapan,Nasi Goreng,38.0,15000,0,0,1
+2026-06-27,Panorama,Es Teh,75.0,5000,0,0,1
+2026-06-27,Panorama,Martabak,19.0,20000,0,0,1
+2026-06-27,Panorama,Mie Ayam,39.0,13000,0,0,1
+2026-06-27,Panorama,Nasi Goreng,52.0,15000,0,0,1
+2026-06-27,Pasar Minggu,Es Teh,61.0,5000,0,0,1
+2026-06-27,Pasar Minggu,Martabak,16.0,20000,0,0,1
+2026-06-27,Pasar Minggu,Mie Ayam,30.0,13000,0,0,1
+2026-06-27,Pasar Minggu,Nasi Goreng,49.0,15000,0,0,1
+2026-06-28,Padang Harapan,Es Teh,42.0,5000,0,0,1
+2026-06-28,Padang Harapan,Martabak,30.0,20000,0,0,1
+2026-06-28,Padang Harapan,Mie Ayam,37.0,13000,0,0,1
+2026-06-28,Padang Harapan,Nasi Goreng,47.0,15000,0,0,1
+2026-06-28,Panorama,Es Teh,63.0,5000,0,0,1
+2026-06-28,Panorama,Martabak,25.0,20000,0,0,1
+2026-06-28,Panorama,Mie Ayam,32.0,13000,0,0,1
+2026-06-28,Panorama,Nasi Goreng,51.0,15000,0,0,1
+2026-06-28,Pasar Minggu,Es Teh,61.0,5000,1,0,1
+2026-06-28,Pasar Minggu,Martabak,30.0,20000,1,0,1
+2026-06-28,Pasar Minggu,Mie Ayam,42.0,13000,1,0,1
+2026-06-28,Pasar Minggu,Nasi Goreng,54.0,15000,1,0,1
+2026-06-29,Padang Harapan,Es Teh,57.0,5000,1,1,0
+2026-06-29,Padang Harapan,Martabak,13.0,20000,1,1,0
+2026-06-29,Padang Harapan,Mie Ayam,19.0,13000,1,1,0
+2026-06-29,Padang Harapan,Nasi Goreng,23.0,15000,1,1,0
+2026-06-29,Panorama,Es Teh,54.0,5000,1,1,0
+2026-06-29,Panorama,Martabak,18.0,20000,1,1,0
+2026-06-29,Panorama,Mie Ayam,34.0,13000,1,1,0
+2026-06-29,Panorama,Nasi Goreng,33.0,15000,1,1,0
+2026-06-29,Pasar Minggu,Es Teh,35.0,5000,0,1,0
+2026-06-29,Pasar Minggu,Martabak,13.0,20000,0,1,0
+2026-06-29,Pasar Minggu,Mie Ayam,21.0,13000,0,1,0
+2026-06-29,Pasar Minggu,Nasi Goreng,25.0,15000,0,1,0
+2026-06-30,Padang Harapan,Es Teh,37.0,5000,1,1,0
+2026-06-30,Padang Harapan,Martabak,13.0,20000,1,1,0
+2026-06-30,Padang Harapan,Mie Ayam,27.0,13000,1,1,0
+2026-06-30,Padang Harapan,Nasi Goreng,23.0,15000,1,1,0
+2026-06-30,Panorama,Es Teh,40.0,5000,0,1,0
+2026-06-30,Panorama,Martabak,10.0,20000,0,1,0
+2026-06-30,Panorama,Mie Ayam,22.0,13000,0,1,0
+2026-06-30,Panorama,Nasi Goreng,18.0,15000,0,1,0
+2026-06-30,Pasar Minggu,Es Teh,44.0,5000,1,1,0
+2026-06-30,Pasar Minggu,Martabak,15.0,20000,1,1,0
+2026-06-30,Pasar Minggu,Mie Ayam,20.0,13000,1,1,0
+2026-06-30,Pasar Minggu,Nasi Goreng,39.0,15000,1,1,0
+2026-07-01,Padang Harapan,Es Teh,32.0,5000,0,0,0
+2026-07-01,Padang Harapan,Martabak,17.0,20000,0,0,0
+2026-07-01,Padang Harapan,Mie Ayam,27.0,13000,0,0,0
+2026-07-01,Padang Harapan,Nasi Goreng,19.0,15000,0,0,0
+2026-07-01,Panorama,Es Teh,69.0,5000,1,0,0
+2026-07-01,Panorama,Martabak,17.0,20000,1,0,0
+2026-07-01,Panorama,Mie Ayam,24.0,13000,1,0,0
+2026-07-01,Panorama,Nasi Goreng,49.0,15000,1,0,0
+2026-07-01,Pasar Minggu,Es Teh,64.0,5000,1,0,0
+2026-07-01,Pasar Minggu,Martabak,20.0,20000,1,0,0
+2026-07-01,Pasar Minggu,Mie Ayam,41.0,13000,1,0,0
+2026-07-01,Pasar Minggu,Nasi Goreng,33.0,15000,1,0,0
+2026-07-02,Padang Harapan,Es Teh,61.0,5000,0,0,0
+2026-07-02,Padang Harapan,Martabak,11.0,20000,0,0,0
+2026-07-02,Padang Harapan,Mie Ayam,22.0,13000,0,0,0
+2026-07-02,Padang Harapan,Nasi Goreng,34.0,15000,0,0,0
+2026-07-02,Panorama,Es Teh,46.0,5000,0,0,0
+2026-07-02,Panorama,Martabak,11.0,20000,0,0,0
+2026-07-02,Panorama,Mie Ayam,25.0,13000,0,0,0
+2026-07-02,Panorama,Nasi Goreng,31.0,15000,0,0,0
+2026-07-02,Pasar Minggu,Es Teh,44.0,5000,1,0,0
+2026-07-02,Pasar Minggu,Martabak,18.0,20000,1,0,0
+2026-07-02,Pasar Minggu,Mie Ayam,29.0,13000,1,0,0
+2026-07-02,Pasar Minggu,Nasi Goreng,36.0,15000,1,0,0
+2026-07-03,Padang Harapan,Es Teh,33.0,5000,0,1,0
+2026-07-03,Padang Harapan,Martabak,11.0,20000,0,1,0
+2026-07-03,Padang Harapan,Mie Ayam,21.0,13000,0,1,0
+2026-07-03,Padang Harapan,Nasi Goreng,31.0,15000,0,1,0
+2026-07-03,Panorama,Es Teh,51.0,5000,0,1,0
+2026-07-03,Panorama,Martabak,15.0,20000,0,1,0
+2026-07-03,Panorama,Mie Ayam,11.0,13000,0,1,0
+2026-07-03,Panorama,Nasi Goreng,18.0,15000,0,1,0
+2026-07-03,Pasar Minggu,Es Teh,51.0,5000,1,1,0
+2026-07-03,Pasar Minggu,Martabak,13.0,20000,1,1,0
+2026-07-03,Pasar Minggu,Mie Ayam,25.0,13000,1,1,0
+2026-07-03,Pasar Minggu,Nasi Goreng,21.0,15000,1,1,0
+2026-07-04,Padang Harapan,Es Teh,62.0,5000,0,0,1
+2026-07-04,Padang Harapan,Martabak,15.0,20000,0,0,1
+2026-07-04,Padang Harapan,Mie Ayam,34.0,13000,0,0,1
+2026-07-04,Padang Harapan,Nasi Goreng,46.0,15000,0,0,1
+2026-07-04,Panorama,Es Teh,56.0,5000,0,0,1
+2026-07-04,Panorama,Martabak,22.0,20000,0,0,1
+2026-07-04,Panorama,Mie Ayam,39.0,13000,0,0,1
+2026-07-04,Panorama,Nasi Goreng,40.0,15000,0,0,1
+2026-07-04,Pasar Minggu,Es Teh,69.0,5000,0,0,1
+2026-07-04,Pasar Minggu,Martabak,16.0,20000,0,0,1
+2026-07-04,Pasar Minggu,Mie Ayam,31.0,13000,0,0,1
+2026-07-04,Pasar Minggu,Nasi Goreng,44.0,15000,0,0,1
+2026-07-05,Padang Harapan,Es Teh,57.0,5000,0,0,1
+2026-07-05,Padang Harapan,Martabak,19.0,20000,0,0,1
+2026-07-05,Padang Harapan,Mie Ayam,40.0,13000,0,0,1
+2026-07-05,Padang Harapan,Nasi Goreng,51.0,15000,0,0,1
+2026-07-05,Panorama,Es Teh,55.0,5000,0,0,1
+2026-07-05,Panorama,Martabak,21.0,20000,0,0,1
+2026-07-05,Panorama,Mie Ayam,30.0,13000,0,0,1
+2026-07-05,Panorama,Nasi Goreng,38.0,15000,0,0,1
+2026-07-05,Pasar Minggu,Es Teh,61.0,5000,0,0,1
+2026-07-05,Pasar Minggu,Martabak,16.0,20000,0,0,1
+2026-07-05,Pasar Minggu,Mie Ayam,29.0,13000,0,0,1
+2026-07-05,Pasar Minggu,Nasi Goreng,38.0,15000,0,0,1
+2026-07-06,Padang Harapan,Es Teh,44.0,5000,0,0,0
+2026-07-06,Padang Harapan,Martabak,16.0,20000,0,0,0
+2026-07-06,Padang Harapan,Mie Ayam,12.0,13000,0,0,0
+2026-07-06,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-07-06,Panorama,Es Teh,39.0,5000,0,0,0
+2026-07-06,Panorama,Martabak,11.0,20000,0,0,0
+2026-07-06,Panorama,Mie Ayam,36.0,13000,0,0,0
+2026-07-06,Panorama,Nasi Goreng,30.0,15000,0,0,0
+2026-07-06,Pasar Minggu,Es Teh,47.0,5000,0,0,0
+2026-07-06,Pasar Minggu,Martabak,19.0,20000,0,0,0
+2026-07-06,Pasar Minggu,Mie Ayam,19.0,13000,0,0,0
+2026-07-06,Pasar Minggu,Nasi Goreng,32.0,15000,0,0,0
+2026-07-07,Padang Harapan,Es Teh,40.0,5000,0,1,0
+2026-07-07,Padang Harapan,Martabak,10.0,20000,0,1,0
+2026-07-07,Padang Harapan,Mie Ayam,20.0,13000,0,1,0
+2026-07-07,Padang Harapan,Nasi Goreng,19.0,15000,0,1,0
+2026-07-07,Panorama,Es Teh,49.0,5000,0,1,0
+2026-07-07,Panorama,Martabak,15.0,20000,0,1,0
+2026-07-07,Panorama,Mie Ayam,36.0,13000,0,1,0
+2026-07-07,Panorama,Nasi Goreng,27.0,15000,0,1,0
+2026-07-07,Pasar Minggu,Es Teh,41.0,5000,0,1,0
+2026-07-07,Pasar Minggu,Martabak,11.0,20000,0,1,0
+2026-07-07,Pasar Minggu,Mie Ayam,23.0,13000,0,1,0
+2026-07-07,Pasar Minggu,Nasi Goreng,19.0,15000,0,1,0
+2026-07-08,Padang Harapan,Es Teh,50.0,5000,1,1,0
+2026-07-08,Padang Harapan,Martabak,14.0,20000,1,1,0
+2026-07-08,Padang Harapan,Mie Ayam,25.0,13000,1,1,0
+2026-07-08,Padang Harapan,Nasi Goreng,29.0,15000,1,1,0
+2026-07-08,Panorama,Es Teh,42.0,5000,1,1,0
+2026-07-08,Panorama,Martabak,17.0,20000,1,1,0
+2026-07-08,Panorama,Mie Ayam,20.0,13000,1,1,0
+2026-07-08,Panorama,Nasi Goreng,31.0,15000,1,1,0
+2026-07-08,Pasar Minggu,Es Teh,36.0,5000,0,1,0
+2026-07-08,Pasar Minggu,Martabak,12.0,20000,0,1,0
+2026-07-08,Pasar Minggu,Mie Ayam,23.0,13000,0,1,0
+2026-07-08,Pasar Minggu,Nasi Goreng,35.0,15000,0,1,0
+2026-07-09,Padang Harapan,Es Teh,44.0,5000,0,1,0
+2026-07-09,Padang Harapan,Martabak,11.0,20000,0,1,0
+2026-07-09,Padang Harapan,Mie Ayam,20.0,13000,0,1,0
+2026-07-09,Padang Harapan,Nasi Goreng,22.0,15000,0,1,0
+2026-07-09,Panorama,Es Teh,40.0,5000,0,1,0
+2026-07-09,Panorama,Martabak,21.0,20000,0,1,0
+2026-07-09,Panorama,Mie Ayam,21.0,13000,0,1,0
+2026-07-09,Panorama,Nasi Goreng,35.0,15000,0,1,0
+2026-07-09,Pasar Minggu,Es Teh,50.0,5000,0,1,0
+2026-07-09,Pasar Minggu,Martabak,12.0,20000,0,1,0
+2026-07-09,Pasar Minggu,Mie Ayam,17.0,13000,0,1,0
+2026-07-09,Pasar Minggu,Nasi Goreng,31.0,15000,0,1,0
+2026-07-10,Padang Harapan,Es Teh,51.0,5000,0,0,0
+2026-07-10,Padang Harapan,Martabak,16.0,20000,0,0,0
+2026-07-10,Padang Harapan,Mie Ayam,26.0,13000,0,0,0
+2026-07-10,Padang Harapan,Nasi Goreng,27.0,15000,0,0,0
+2026-07-10,Panorama,Es Teh,59.0,5000,0,0,0
+2026-07-10,Panorama,Martabak,12.0,20000,0,0,0
+2026-07-10,Panorama,Mie Ayam,32.0,13000,0,0,0
+2026-07-10,Panorama,Nasi Goreng,41.0,15000,0,0,0
+2026-07-10,Pasar Minggu,Es Teh,41.0,5000,0,0,0
+2026-07-10,Pasar Minggu,Martabak,12.0,20000,0,0,0
+2026-07-10,Pasar Minggu,Mie Ayam,22.0,13000,0,0,0
+2026-07-10,Pasar Minggu,Nasi Goreng,38.0,15000,0,0,0
+2026-07-11,Padang Harapan,Es Teh,59.0,5000,1,1,1
+2026-07-11,Padang Harapan,Martabak,14.0,20000,1,1,1
+2026-07-11,Padang Harapan,Mie Ayam,33.0,13000,1,1,1
+2026-07-11,Padang Harapan,Nasi Goreng,31.0,15000,1,1,1
+2026-07-11,Panorama,Es Teh,54.0,5000,0,1,1
+2026-07-11,Panorama,Martabak,22.0,20000,0,1,1
+2026-07-11,Panorama,Mie Ayam,33.0,13000,0,1,1
+2026-07-11,Panorama,Nasi Goreng,29.0,15000,0,1,1
+2026-07-11,Pasar Minggu,Es Teh,61.0,5000,1,1,1
+2026-07-11,Pasar Minggu,Martabak,19.0,20000,1,1,1
+2026-07-11,Pasar Minggu,Mie Ayam,49.0,13000,1,1,1
+2026-07-11,Pasar Minggu,Nasi Goreng,34.0,15000,1,1,1
+2026-07-12,Padang Harapan,Es Teh,61.0,5000,0,0,1
+2026-07-12,Padang Harapan,Martabak,16.0,20000,0,0,1
+2026-07-12,Padang Harapan,Mie Ayam,33.0,13000,0,0,1
+2026-07-12,Padang Harapan,Nasi Goreng,44.0,15000,0,0,1
+2026-07-12,Panorama,Es Teh,61.0,5000,1,0,1
+2026-07-12,Panorama,Martabak,24.0,20000,1,0,1
+2026-07-12,Panorama,Mie Ayam,46.0,13000,1,0,1
+2026-07-12,Panorama,Nasi Goreng,47.0,15000,1,0,1
+2026-07-12,Pasar Minggu,Es Teh,61.0,5000,0,0,1
+2026-07-12,Pasar Minggu,Martabak,25.0,20000,0,0,1
+2026-07-12,Pasar Minggu,Mie Ayam,34.0,13000,0,0,1
+2026-07-12,Pasar Minggu,Nasi Goreng,41.0,15000,0,0,1
+2026-07-13,Padang Harapan,Es Teh,45.0,5000,0,0,0
+2026-07-13,Padang Harapan,Martabak,14.0,20000,0,0,0
+2026-07-13,Padang Harapan,Mie Ayam,31.0,13000,0,0,0
+2026-07-13,Padang Harapan,Nasi Goreng,26.0,15000,0,0,0
+2026-07-13,Panorama,Es Teh,49.0,5000,0,0,0
+2026-07-13,Panorama,Martabak,22.0,20000,0,0,0
+2026-07-13,Panorama,Mie Ayam,25.0,13000,0,0,0
+2026-07-13,Panorama,Nasi Goreng,32.0,15000,0,0,0
+2026-07-13,Pasar Minggu,Es Teh,43.0,5000,0,0,0
+2026-07-13,Pasar Minggu,Martabak,9.0,20000,0,0,0
+2026-07-13,Pasar Minggu,Mie Ayam,21.0,13000,0,0,0
+2026-07-13,Pasar Minggu,Nasi Goreng,31.0,15000,0,0,0
+2026-07-14,Padang Harapan,Es Teh,41.0,5000,0,0,0
+2026-07-14,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-07-14,Padang Harapan,Mie Ayam,13.0,13000,0,0,0
+2026-07-14,Padang Harapan,Nasi Goreng,25.0,15000,0,0,0
+2026-07-14,Panorama,Es Teh,55.0,5000,0,0,0
+2026-07-14,Panorama,Martabak,16.0,20000,0,0,0
+2026-07-14,Panorama,Mie Ayam,21.0,13000,0,0,0
+2026-07-14,Panorama,Nasi Goreng,34.0,15000,0,0,0
+2026-07-14,Pasar Minggu,Es Teh,51.0,5000,0,0,0
+2026-07-14,Pasar Minggu,Martabak,23.0,20000,0,0,0
+2026-07-14,Pasar Minggu,Mie Ayam,26.0,13000,0,0,0
+2026-07-14,Pasar Minggu,Nasi Goreng,39.0,15000,0,0,0
+2026-07-15,Padang Harapan,Es Teh,53.0,5000,1,1,0
+2026-07-15,Padang Harapan,Martabak,15.0,20000,1,1,0
+2026-07-15,Padang Harapan,Mie Ayam,19.0,13000,1,1,0
+2026-07-15,Padang Harapan,Nasi Goreng,36.0,15000,1,1,0
+2026-07-15,Panorama,Es Teh,41.0,5000,0,1,0
+2026-07-15,Panorama,Martabak,11.0,20000,0,1,0
+2026-07-15,Panorama,Mie Ayam,28.0,13000,0,1,0
+2026-07-15,Panorama,Nasi Goreng,27.0,15000,0,1,0
+2026-07-15,Pasar Minggu,Es Teh,45.0,5000,0,1,0
+2026-07-15,Pasar Minggu,Martabak,12.0,20000,0,1,0
+2026-07-15,Pasar Minggu,Mie Ayam,19.0,13000,0,1,0
+2026-07-15,Pasar Minggu,Nasi Goreng,27.0,15000,0,1,0
+2026-07-16,Padang Harapan,Es Teh,44.0,5000,0,0,0
+2026-07-16,Padang Harapan,Martabak,12.0,20000,0,0,0
+2026-07-16,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-07-16,Padang Harapan,Nasi Goreng,37.0,15000,0,0,0
+2026-07-16,Panorama,Es Teh,52.0,5000,0,0,0
+2026-07-16,Panorama,Martabak,12.0,20000,0,0,0
+2026-07-16,Panorama,Mie Ayam,29.0,13000,0,0,0
+2026-07-16,Panorama,Nasi Goreng,35.0,15000,0,0,0
+2026-07-16,Pasar Minggu,Es Teh,47.0,5000,0,0,0
+2026-07-16,Pasar Minggu,Martabak,17.0,20000,0,0,0
+2026-07-16,Pasar Minggu,Mie Ayam,26.0,13000,0,0,0
+2026-07-16,Pasar Minggu,Nasi Goreng,29.0,15000,0,0,0
+2026-07-17,Padang Harapan,Es Teh,39.0,5000,0,1,0
+2026-07-17,Padang Harapan,Martabak,17.0,20000,0,1,0
+2026-07-17,Padang Harapan,Mie Ayam,16.0,13000,0,1,0
+2026-07-17,Padang Harapan,Nasi Goreng,26.0,15000,0,1,0
+2026-07-17,Panorama,Es Teh,47.0,5000,0,1,0
+2026-07-17,Panorama,Martabak,10.0,20000,0,1,0
+2026-07-17,Panorama,Mie Ayam,16.0,13000,0,1,0
+2026-07-17,Panorama,Nasi Goreng,22.0,15000,0,1,0
+2026-07-17,Pasar Minggu,Es Teh,45.0,5000,0,1,0
+2026-07-17,Pasar Minggu,Martabak,7.0,20000,0,1,0
+2026-07-17,Pasar Minggu,Mie Ayam,23.0,13000,0,1,0
+2026-07-17,Pasar Minggu,Nasi Goreng,20.0,15000,0,1,0
+2026-07-18,Padang Harapan,Es Teh,53.0,5000,0,0,1
+2026-07-18,Padang Harapan,Martabak,18.0,20000,0,0,1
+2026-07-18,Padang Harapan,Mie Ayam,40.0,13000,0,0,1
+2026-07-18,Padang Harapan,Nasi Goreng,36.0,15000,0,0,1
+2026-07-18,Panorama,Es Teh,80.0,5000,1,0,1
+2026-07-18,Panorama,Martabak,27.0,20000,1,0,1
+2026-07-18,Panorama,Mie Ayam,47.0,13000,1,0,1
+2026-07-18,Panorama,Nasi Goreng,51.0,15000,1,0,1
+2026-07-18,Pasar Minggu,Es Teh,53.0,5000,0,0,1
+2026-07-18,Pasar Minggu,Martabak,22.0,20000,0,0,1
+2026-07-18,Pasar Minggu,Mie Ayam,39.0,13000,0,0,1
+2026-07-18,Pasar Minggu,Nasi Goreng,32.0,15000,0,0,1
+2026-07-19,Padang Harapan,Es Teh,54.0,5000,0,0,1
+2026-07-19,Padang Harapan,Martabak,20.0,20000,0,0,1
+2026-07-19,Padang Harapan,Mie Ayam,38.0,13000,0,0,1
+2026-07-19,Padang Harapan,Nasi Goreng,37.0,15000,0,0,1
+2026-07-19,Panorama,Es Teh,83.0,5000,1,0,1
+2026-07-19,Panorama,Martabak,33.0,20000,1,0,1
+2026-07-19,Panorama,Mie Ayam,56.0,13000,1,0,1
+2026-07-19,Panorama,Nasi Goreng,52.0,15000,1,0,1
+2026-07-19,Pasar Minggu,Es Teh,61.0,5000,0,0,1
+2026-07-19,Pasar Minggu,Martabak,21.0,20000,0,0,1
+2026-07-19,Pasar Minggu,Mie Ayam,33.0,13000,0,0,1
+2026-07-19,Pasar Minggu,Nasi Goreng,44.0,15000,0,0,1
+2026-07-20,Padang Harapan,Es Teh,43.0,5000,0,1,0
+2026-07-20,Padang Harapan,Martabak,15.0,20000,0,1,0
+2026-07-20,Padang Harapan,Mie Ayam,24.0,13000,0,1,0
+2026-07-20,Padang Harapan,Nasi Goreng,28.0,15000,0,1,0
+2026-07-20,Panorama,Es Teh,37.0,5000,0,1,0
+2026-07-20,Panorama,Martabak,8.0,20000,0,1,0
+2026-07-20,Panorama,Mie Ayam,21.0,13000,0,1,0
+2026-07-20,Panorama,Nasi Goreng,32.0,15000,0,1,0
+2026-07-20,Pasar Minggu,Es Teh,32.0,5000,0,1,0
+2026-07-20,Pasar Minggu,Martabak,13.0,20000,0,1,0
+2026-07-20,Pasar Minggu,Mie Ayam,15.0,13000,0,1,0
+2026-07-20,Pasar Minggu,Nasi Goreng,25.0,15000,0,1,0
+2026-07-21,Padang Harapan,Es Teh,65.0,5000,1,0,0
+2026-07-21,Padang Harapan,Martabak,23.0,20000,1,0,0
+2026-07-21,Padang Harapan,Mie Ayam,28.0,13000,1,0,0
+2026-07-21,Padang Harapan,Nasi Goreng,47.0,15000,1,0,0
+2026-07-21,Panorama,Es Teh,48.0,5000,1,0,0
+2026-07-21,Panorama,Martabak,27.0,20000,1,0,0
+2026-07-21,Panorama,Mie Ayam,44.0,13000,1,0,0
+2026-07-21,Panorama,Nasi Goreng,37.0,15000,1,0,0
+2026-07-21,Pasar Minggu,Es Teh,47.0,5000,0,0,0
+2026-07-21,Pasar Minggu,Martabak,14.0,20000,0,0,0
+2026-07-21,Pasar Minggu,Mie Ayam,17.0,13000,0,0,0
+2026-07-21,Pasar Minggu,Nasi Goreng,19.0,15000,0,0,0
+2026-07-22,Padang Harapan,Es Teh,41.0,5000,0,1,0
+2026-07-22,Padang Harapan,Martabak,13.0,20000,0,1,0
+2026-07-22,Padang Harapan,Mie Ayam,22.0,13000,0,1,0
+2026-07-22,Padang Harapan,Nasi Goreng,27.0,15000,0,1,0
+2026-07-22,Panorama,Es Teh,44.0,5000,0,1,0
+2026-07-22,Panorama,Martabak,18.0,20000,0,1,0
+2026-07-22,Panorama,Mie Ayam,22.0,13000,0,1,0
+2026-07-22,Panorama,Nasi Goreng,16.0,15000,0,1,0
+2026-07-22,Pasar Minggu,Es Teh,33.0,5000,0,1,0
+2026-07-22,Pasar Minggu,Martabak,11.0,20000,0,1,0
+2026-07-22,Pasar Minggu,Mie Ayam,19.0,13000,0,1,0
+2026-07-22,Pasar Minggu,Nasi Goreng,24.0,15000,0,1,0
+2026-07-23,Padang Harapan,Es Teh,47.0,5000,0,0,0
+2026-07-23,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-07-23,Padang Harapan,Mie Ayam,26.0,13000,0,0,0
+2026-07-23,Padang Harapan,Nasi Goreng,30.0,15000,0,0,0
+2026-07-23,Panorama,Es Teh,54.0,5000,1,0,0
+2026-07-23,Panorama,Martabak,16.0,20000,1,0,0
+2026-07-23,Panorama,Mie Ayam,26.0,13000,1,0,0
+2026-07-23,Panorama,Nasi Goreng,37.0,15000,1,0,0
+2026-07-23,Pasar Minggu,Es Teh,45.0,5000,0,0,0
+2026-07-23,Pasar Minggu,Martabak,14.0,20000,0,0,0
+2026-07-23,Pasar Minggu,Mie Ayam,32.0,13000,0,0,0
+2026-07-23,Pasar Minggu,Nasi Goreng,30.0,15000,0,0,0
+2026-07-24,Padang Harapan,Es Teh,36.0,5000,0,1,0
+2026-07-24,Padang Harapan,Martabak,12.0,20000,0,1,0
+2026-07-24,Padang Harapan,Mie Ayam,25.0,13000,0,1,0
+2026-07-24,Padang Harapan,Nasi Goreng,19.0,15000,0,1,0
+2026-07-24,Panorama,Es Teh,48.0,5000,1,1,0
+2026-07-24,Panorama,Martabak,14.0,20000,1,1,0
+2026-07-24,Panorama,Mie Ayam,25.0,13000,1,1,0
+2026-07-24,Panorama,Nasi Goreng,32.0,15000,1,1,0
+2026-07-24,Pasar Minggu,Es Teh,40.0,5000,0,1,0
+2026-07-24,Pasar Minggu,Martabak,13.0,20000,0,1,0
+2026-07-24,Pasar Minggu,Mie Ayam,11.0,13000,0,1,0
+2026-07-24,Pasar Minggu,Nasi Goreng,22.0,15000,0,1,0
+2026-07-25,Padang Harapan,Es Teh,75.0,5000,0,0,1
+2026-07-25,Padang Harapan,Martabak,18.0,20000,0,0,1
+2026-07-25,Padang Harapan,Mie Ayam,27.0,13000,0,0,1
+2026-07-25,Padang Harapan,Nasi Goreng,28.0,15000,0,0,1
+2026-07-25,Panorama,Es Teh,61.0,5000,1,0,1
+2026-07-25,Panorama,Martabak,30.0,20000,1,0,1
+2026-07-25,Panorama,Mie Ayam,63.0,13000,1,0,1
+2026-07-25,Panorama,Nasi Goreng,41.0,15000,1,0,1
+2026-07-25,Pasar Minggu,Es Teh,54.0,5000,0,0,1
+2026-07-25,Pasar Minggu,Martabak,23.0,20000,0,0,1
+2026-07-25,Pasar Minggu,Mie Ayam,33.0,13000,0,0,1
+2026-07-25,Pasar Minggu,Nasi Goreng,44.0,15000,0,0,1
+2026-07-26,Padang Harapan,Es Teh,62.0,5000,0,0,1
+2026-07-26,Padang Harapan,Martabak,22.0,20000,0,0,1
+2026-07-26,Padang Harapan,Mie Ayam,29.0,13000,0,0,1
+2026-07-26,Padang Harapan,Nasi Goreng,37.0,15000,0,0,1
+2026-07-26,Panorama,Es Teh,69.0,5000,0,0,1
+2026-07-26,Panorama,Martabak,27.0,20000,0,0,1
+2026-07-26,Panorama,Mie Ayam,40.0,13000,0,0,1
+2026-07-26,Panorama,Nasi Goreng,54.0,15000,0,0,1
+2026-07-26,Pasar Minggu,Es Teh,67.0,5000,0,0,1
+2026-07-26,Pasar Minggu,Martabak,22.0,20000,0,0,1
+2026-07-26,Pasar Minggu,Mie Ayam,38.0,13000,0,0,1
+2026-07-26,Pasar Minggu,Nasi Goreng,40.0,15000,0,0,1
+2026-07-27,Padang Harapan,Es Teh,42.0,5000,0,0,0
+2026-07-27,Padang Harapan,Martabak,16.0,20000,0,0,0
+2026-07-27,Padang Harapan,Mie Ayam,23.0,13000,0,0,0
+2026-07-27,Padang Harapan,Nasi Goreng,26.0,15000,0,0,0
+2026-07-27,Panorama,Es Teh,70.0,5000,0,0,0
+2026-07-27,Panorama,Martabak,18.0,20000,0,0,0
+2026-07-27,Panorama,Mie Ayam,35.0,13000,0,0,0
+2026-07-27,Panorama,Nasi Goreng,37.0,15000,0,0,0
+2026-07-27,Pasar Minggu,Es Teh,46.0,5000,0,0,0
+2026-07-27,Pasar Minggu,Martabak,14.0,20000,0,0,0
+2026-07-27,Pasar Minggu,Mie Ayam,28.0,13000,0,0,0
+2026-07-27,Pasar Minggu,Nasi Goreng,29.0,15000,0,0,0
+2026-07-28,Padang Harapan,Es Teh,45.0,5000,1,1,0
+2026-07-28,Padang Harapan,Martabak,18.0,20000,1,1,0
+2026-07-28,Padang Harapan,Mie Ayam,33.0,13000,1,1,0
+2026-07-28,Padang Harapan,Nasi Goreng,23.0,15000,1,1,0
+2026-07-28,Panorama,Es Teh,45.0,5000,0,1,0
+2026-07-28,Panorama,Martabak,15.0,20000,0,1,0
+2026-07-28,Panorama,Mie Ayam,35.0,13000,0,1,0
+2026-07-28,Panorama,Nasi Goreng,21.0,15000,0,1,0
+2026-07-28,Pasar Minggu,Es Teh,41.0,5000,0,1,0
+2026-07-28,Pasar Minggu,Martabak,15.0,20000,0,1,0
+2026-07-28,Pasar Minggu,Mie Ayam,21.0,13000,0,1,0
+2026-07-28,Pasar Minggu,Nasi Goreng,24.0,15000,0,1,0
+2026-07-29,Padang Harapan,Es Teh,45.0,5000,1,0,0
+2026-07-29,Padang Harapan,Martabak,21.0,20000,1,0,0
+2026-07-29,Padang Harapan,Mie Ayam,25.0,13000,1,0,0
+2026-07-29,Padang Harapan,Nasi Goreng,32.0,15000,1,0,0
+2026-07-29,Panorama,Es Teh,56.0,5000,1,0,0
+2026-07-29,Panorama,Martabak,28.0,20000,1,0,0
+2026-07-29,Panorama,Mie Ayam,35.0,13000,1,0,0
+2026-07-29,Panorama,Nasi Goreng,41.0,15000,1,0,0
+2026-07-29,Pasar Minggu,Es Teh,52.0,5000,0,0,0
+2026-07-29,Pasar Minggu,Martabak,14.0,20000,0,0,0
+2026-07-29,Pasar Minggu,Mie Ayam,32.0,13000,0,0,0
+2026-07-29,Pasar Minggu,Nasi Goreng,32.0,15000,0,0,0
+2026-07-30,Padang Harapan,Es Teh,45.0,5000,0,1,0
+2026-07-30,Padang Harapan,Martabak,15.0,20000,0,1,0
+2026-07-30,Padang Harapan,Mie Ayam,17.0,13000,0,1,0
+2026-07-30,Padang Harapan,Nasi Goreng,26.0,15000,0,1,0
+2026-07-30,Panorama,Es Teh,27.0,5000,0,1,0
+2026-07-30,Panorama,Martabak,21.0,20000,0,1,0
+2026-07-30,Panorama,Mie Ayam,21.0,13000,0,1,0
+2026-07-30,Panorama,Nasi Goreng,29.0,15000,0,1,0
+2026-07-30,Pasar Minggu,Es Teh,42.0,5000,1,1,0
+2026-07-30,Pasar Minggu,Martabak,10.0,20000,1,1,0
+2026-07-30,Pasar Minggu,Mie Ayam,25.0,13000,1,1,0
+2026-07-30,Pasar Minggu,Nasi Goreng,28.0,15000,1,1,0
+2026-07-31,Padang Harapan,Es Teh,45.0,5000,1,0,0
+2026-07-31,Padang Harapan,Martabak,21.0,20000,1,0,0
+2026-07-31,Padang Harapan,Mie Ayam,28.0,13000,1,0,0
+2026-07-31,Padang Harapan,Nasi Goreng,40.0,15000,1,0,0
+2026-07-31,Panorama,Es Teh,44.0,5000,0,0,0
+2026-07-31,Panorama,Martabak,8.0,20000,0,0,0
+2026-07-31,Panorama,Mie Ayam,25.0,13000,0,0,0
+2026-07-31,Panorama,Nasi Goreng,29.0,15000,0,0,0
+2026-07-31,Pasar Minggu,Es Teh,45.0,5000,0,0,0
+2026-07-31,Pasar Minggu,Martabak,19.0,20000,0,0,0
+2026-07-31,Pasar Minggu,Mie Ayam,25.0,13000,0,0,0
+2026-07-31,Pasar Minggu,Nasi Goreng,34.0,15000,0,0,0
+2026-08-01,Padang Harapan,Es Teh,83.0,5000,1,0,1
+2026-08-01,Padang Harapan,Martabak,31.0,20000,1,0,1
+2026-08-01,Padang Harapan,Mie Ayam,41.0,13000,1,0,1
+2026-08-01,Padang Harapan,Nasi Goreng,55.0,15000,1,0,1
+2026-08-01,Panorama,Es Teh,65.0,5000,0,0,1
+2026-08-01,Panorama,Martabak,25.0,20000,0,0,1
+2026-08-01,Panorama,Mie Ayam,40.0,13000,0,0,1
+2026-08-01,Panorama,Nasi Goreng,41.0,15000,0,0,1
+2026-08-01,Pasar Minggu,Es Teh,61.0,5000,0,0,1
+2026-08-01,Pasar Minggu,Martabak,18.0,20000,0,0,1
+2026-08-01,Pasar Minggu,Mie Ayam,29.0,13000,0,0,1
+2026-08-01,Pasar Minggu,Nasi Goreng,38.0,15000,0,0,1
+2026-08-02,Padang Harapan,Es Teh,43.0,5000,0,1,1
+2026-08-02,Padang Harapan,Martabak,19.0,20000,0,1,1
+2026-08-02,Padang Harapan,Mie Ayam,36.0,13000,0,1,1
+2026-08-02,Padang Harapan,Nasi Goreng,41.0,15000,0,1,1
+2026-08-02,Panorama,Es Teh,46.0,5000,0,1,1
+2026-08-02,Panorama,Martabak,18.0,20000,0,1,1
+2026-08-02,Panorama,Mie Ayam,28.0,13000,0,1,1
+2026-08-02,Panorama,Nasi Goreng,35.0,15000,0,1,1
+2026-08-02,Pasar Minggu,Es Teh,56.0,5000,0,1,1
+2026-08-02,Pasar Minggu,Martabak,12.0,20000,0,1,1
+2026-08-02,Pasar Minggu,Mie Ayam,28.0,13000,0,1,1
+2026-08-02,Pasar Minggu,Nasi Goreng,36.0,15000,0,1,1
+2026-08-03,Padang Harapan,Es Teh,48.0,5000,1,1,0
+2026-08-03,Padang Harapan,Martabak,19.0,20000,1,1,0
+2026-08-03,Padang Harapan,Mie Ayam,25.0,13000,1,1,0
+2026-08-03,Padang Harapan,Nasi Goreng,24.0,15000,1,1,0
+2026-08-03,Panorama,Es Teh,37.0,5000,0,1,0
+2026-08-03,Panorama,Martabak,12.0,20000,0,1,0
+2026-08-03,Panorama,Mie Ayam,25.0,13000,0,1,0
+2026-08-03,Panorama,Nasi Goreng,39.0,15000,0,1,0
+2026-08-03,Pasar Minggu,Es Teh,36.0,5000,0,1,0
+2026-08-03,Pasar Minggu,Martabak,12.0,20000,0,1,0
+2026-08-03,Pasar Minggu,Mie Ayam,15.0,13000,0,1,0
+2026-08-03,Pasar Minggu,Nasi Goreng,20.0,15000,0,1,0
+2026-08-04,Padang Harapan,Es Teh,49.0,5000,0,0,0
+2026-08-04,Padang Harapan,Martabak,20.0,20000,0,0,0
+2026-08-04,Padang Harapan,Mie Ayam,26.0,13000,0,0,0
+2026-08-04,Padang Harapan,Nasi Goreng,30.0,15000,0,0,0
+2026-08-04,Panorama,Es Teh,59.0,5000,1,0,0
+2026-08-04,Panorama,Martabak,25.0,20000,1,0,0
+2026-08-04,Panorama,Mie Ayam,29.0,13000,1,0,0
+2026-08-04,Panorama,Nasi Goreng,38.0,15000,1,0,0
+2026-08-04,Pasar Minggu,Es Teh,45.0,5000,0,0,0
+2026-08-04,Pasar Minggu,Martabak,17.0,20000,0,0,0
+2026-08-04,Pasar Minggu,Mie Ayam,20.0,13000,0,0,0
+2026-08-04,Pasar Minggu,Nasi Goreng,26.0,15000,0,0,0
+2026-08-05,Padang Harapan,Es Teh,47.0,5000,0,0,0
+2026-08-05,Padang Harapan,Martabak,18.0,20000,0,0,0
+2026-08-05,Padang Harapan,Mie Ayam,23.0,13000,0,0,0
+2026-08-05,Padang Harapan,Nasi Goreng,33.0,15000,0,0,0
+2026-08-05,Panorama,Es Teh,52.0,5000,0,0,0
+2026-08-05,Panorama,Martabak,15.0,20000,0,0,0
+2026-08-05,Panorama,Mie Ayam,16.0,13000,0,0,0
+2026-08-05,Panorama,Nasi Goreng,39.0,15000,0,0,0
+2026-08-05,Pasar Minggu,Es Teh,46.0,5000,0,0,0
+2026-08-05,Pasar Minggu,Martabak,14.0,20000,0,0,0
+2026-08-05,Pasar Minggu,Mie Ayam,31.0,13000,0,0,0
+2026-08-05,Pasar Minggu,Nasi Goreng,30.0,15000,0,0,0
+2026-08-06,Padang Harapan,Es Teh,34.0,5000,0,1,0
+2026-08-06,Padang Harapan,Martabak,10.0,20000,0,1,0
+2026-08-06,Padang Harapan,Mie Ayam,18.0,13000,0,1,0
+2026-08-06,Padang Harapan,Nasi Goreng,17.0,15000,0,1,0
+2026-08-06,Panorama,Es Teh,39.0,5000,0,1,0
+2026-08-06,Panorama,Martabak,13.0,20000,0,1,0
+2026-08-06,Panorama,Mie Ayam,24.0,13000,0,1,0
+2026-08-06,Panorama,Nasi Goreng,20.0,15000,0,1,0
+2026-08-06,Pasar Minggu,Es Teh,46.0,5000,1,1,0
+2026-08-06,Pasar Minggu,Martabak,13.0,20000,1,1,0
+2026-08-06,Pasar Minggu,Mie Ayam,30.0,13000,1,1,0
+2026-08-06,Pasar Minggu,Nasi Goreng,40.0,15000,1,1,0
+2026-08-07,Padang Harapan,Es Teh,54.0,5000,0,0,0
+2026-08-07,Padang Harapan,Martabak,13.0,20000,0,0,0
+2026-08-07,Padang Harapan,Mie Ayam,26.0,13000,0,0,0
+2026-08-07,Padang Harapan,Nasi Goreng,32.0,15000,0,0,0
+2026-08-07,Panorama,Es Teh,59.0,5000,0,0,0
+2026-08-07,Panorama,Martabak,18.0,20000,0,0,0
+2026-08-07,Panorama,Mie Ayam,25.0,13000,0,0,0
+2026-08-07,Panorama,Nasi Goreng,32.0,15000,0,0,0
+2026-08-07,Pasar Minggu,Es Teh,43.0,5000,0,0,0
+2026-08-07,Pasar Minggu,Martabak,18.0,20000,0,0,0
+2026-08-07,Pasar Minggu,Mie Ayam,13.0,13000,0,0,0
+2026-08-07,Pasar Minggu,Nasi Goreng,29.0,15000,0,0,0
+2026-08-08,Padang Harapan,Es Teh,50.0,5000,0,1,1
+2026-08-08,Padang Harapan,Martabak,15.0,20000,0,1,1
+2026-08-08,Padang Harapan,Mie Ayam,27.0,13000,0,1,1
+2026-08-08,Padang Harapan,Nasi Goreng,29.0,15000,0,1,1
+2026-08-08,Panorama,Es Teh,61.0,5000,0,1,1
+2026-08-08,Panorama,Martabak,11.0,20000,0,1,1
+2026-08-08,Panorama,Mie Ayam,32.0,13000,0,1,1
+2026-08-08,Panorama,Nasi Goreng,28.0,15000,0,1,1
+2026-08-08,Pasar Minggu,Es Teh,65.0,5000,0,1,1
+2026-08-08,Pasar Minggu,Martabak,16.0,20000,0,1,1
+2026-08-08,Pasar Minggu,Mie Ayam,13.0,13000,0,1,1
+2026-08-08,Pasar Minggu,Nasi Goreng,28.0,15000,0,1,1
+2026-08-09,Padang Harapan,Es Teh,63.0,5000,0,0,1
+2026-08-09,Padang Harapan,Martabak,24.0,20000,0,0,1
+2026-08-09,Padang Harapan,Mie Ayam,48.0,13000,0,0,1
+2026-08-09,Padang Harapan,Nasi Goreng,41.0,15000,0,0,1
+2026-08-09,Panorama,Es Teh,91.0,5000,1,0,1
+2026-08-09,Panorama,Martabak,24.0,20000,1,0,1
+2026-08-09,Panorama,Mie Ayam,57.0,13000,1,0,1
+2026-08-09,Panorama,Nasi Goreng,61.0,15000,1,0,1
+2026-08-09,Pasar Minggu,Es Teh,62.0,5000,0,0,1
+2026-08-09,Pasar Minggu,Martabak,21.0,20000,0,0,1
+2026-08-09,Pasar Minggu,Mie Ayam,26.0,13000,0,0,1
+2026-08-09,Pasar Minggu,Nasi Goreng,54.0,15000,0,0,1
+2026-08-10,Padang Harapan,Es Teh,48.0,5000,1,1,0
+2026-08-10,Padang Harapan,Martabak,15.0,20000,1,1,0
+2026-08-10,Padang Harapan,Mie Ayam,28.0,13000,1,1,0
+2026-08-10,Padang Harapan,Nasi Goreng,21.0,15000,1,1,0
+2026-08-10,Panorama,Es Teh,51.0,5000,0,1,0
+2026-08-10,Panorama,Martabak,15.0,20000,0,1,0
+2026-08-10,Panorama,Mie Ayam,17.0,13000,0,1,0
+2026-08-10,Panorama,Nasi Goreng,26.0,15000,0,1,0
+2026-08-10,Pasar Minggu,Es Teh,35.0,5000,0,1,0
+2026-08-10,Pasar Minggu,Martabak,7.0,20000,0,1,0
+2026-08-10,Pasar Minggu,Mie Ayam,16.0,13000,0,1,0
+2026-08-10,Pasar Minggu,Nasi Goreng,26.0,15000,0,1,0
+2026-08-11,Padang Harapan,Es Teh,35.0,5000,0,1,0
+2026-08-11,Padang Harapan,Martabak,12.0,20000,0,1,0
+2026-08-11,Padang Harapan,Mie Ayam,20.0,13000,0,1,0
+2026-08-11,Padang Harapan,Nasi Goreng,22.0,15000,0,1,0
+2026-08-11,Panorama,Es Teh,41.0,5000,0,1,0
+2026-08-11,Panorama,Martabak,17.0,20000,0,1,0
+2026-08-11,Panorama,Mie Ayam,17.0,13000,0,1,0
+2026-08-11,Panorama,Nasi Goreng,27.0,15000,0,1,0
+2026-08-11,Pasar Minggu,Es Teh,40.0,5000,0,1,0
+2026-08-11,Pasar Minggu,Martabak,7.0,20000,0,1,0
+2026-08-11,Pasar Minggu,Mie Ayam,25.0,13000,0,1,0
+2026-08-11,Pasar Minggu,Nasi Goreng,23.0,15000,0,1,0
+2026-08-12,Padang Harapan,Es Teh,33.0,5000,0,1,0
+2026-08-12,Padang Harapan,Martabak,5.0,20000,0,1,0
+2026-08-12,Padang Harapan,Mie Ayam,26.0,13000,0,1,0
+2026-08-12,Padang Harapan,Nasi Goreng,27.0,15000,0,1,0
+2026-08-12,Panorama,Es Teh,38.0,5000,0,1,0
+2026-08-12,Panorama,Martabak,14.0,20000,0,1,0
+2026-08-12,Panorama,Mie Ayam,25.0,13000,0,1,0
+2026-08-12,Panorama,Nasi Goreng,26.0,15000,0,1,0
+2026-08-12,Pasar Minggu,Es Teh,41.0,5000,0,1,0
+2026-08-12,Pasar Minggu,Martabak,17.0,20000,0,1,0
+2026-08-12,Pasar Minggu,Mie Ayam,15.0,13000,0,1,0
+2026-08-12,Pasar Minggu,Nasi Goreng,20.0,15000,0,1,0
+2026-08-13,Padang Harapan,Es Teh,35.0,5000,0,0,0
+2026-08-13,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-08-13,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-08-13,Padang Harapan,Nasi Goreng,31.0,15000,0,0,0
+2026-08-13,Panorama,Es Teh,57.0,5000,0,0,0
+2026-08-13,Panorama,Martabak,15.0,20000,0,0,0
+2026-08-13,Panorama,Mie Ayam,41.0,13000,0,0,0
+2026-08-13,Panorama,Nasi Goreng,29.0,15000,0,0,0
+2026-08-13,Pasar Minggu,Es Teh,54.0,5000,1,0,0
+2026-08-13,Pasar Minggu,Martabak,12.0,20000,1,0,0
+2026-08-13,Pasar Minggu,Mie Ayam,25.0,13000,1,0,0
+2026-08-13,Pasar Minggu,Nasi Goreng,31.0,15000,1,0,0
+2026-08-14,Padang Harapan,Es Teh,42.0,5000,0,1,0
+2026-08-14,Padang Harapan,Martabak,10.0,20000,0,1,0
+2026-08-14,Padang Harapan,Mie Ayam,18.0,13000,0,1,0
+2026-08-14,Padang Harapan,Nasi Goreng,26.0,15000,0,1,0
+2026-08-14,Panorama,Es Teh,58.0,5000,1,1,0
+2026-08-14,Panorama,Martabak,20.0,20000,1,1,0
+2026-08-14,Panorama,Mie Ayam,25.0,13000,1,1,0
+2026-08-14,Panorama,Nasi Goreng,15.0,15000,1,1,0
+2026-08-14,Pasar Minggu,Es Teh,36.0,5000,1,1,0
+2026-08-14,Pasar Minggu,Martabak,8.0,20000,1,1,0
+2026-08-14,Pasar Minggu,Mie Ayam,33.0,13000,1,1,0
+2026-08-14,Pasar Minggu,Nasi Goreng,27.0,15000,1,1,0
+2026-08-15,Padang Harapan,Es Teh,61.0,5000,0,0,1
+2026-08-15,Padang Harapan,Martabak,27.0,20000,0,0,1
+2026-08-15,Padang Harapan,Mie Ayam,32.0,13000,0,0,1
+2026-08-15,Padang Harapan,Nasi Goreng,31.0,15000,0,0,1
+2026-08-15,Panorama,Es Teh,71.0,5000,0,0,1
+2026-08-15,Panorama,Martabak,28.0,20000,0,0,1
+2026-08-15,Panorama,Mie Ayam,43.0,13000,0,0,1
+2026-08-15,Panorama,Nasi Goreng,43.0,15000,0,0,1
+2026-08-15,Pasar Minggu,Es Teh,57.0,5000,0,0,1
+2026-08-15,Pasar Minggu,Martabak,24.0,20000,0,0,1
+2026-08-15,Pasar Minggu,Mie Ayam,39.0,13000,0,0,1
+2026-08-15,Pasar Minggu,Nasi Goreng,41.0,15000,0,0,1
+2026-08-16,Padang Harapan,Es Teh,55.0,5000,0,1,1
+2026-08-16,Padang Harapan,Martabak,18.0,20000,0,1,1
+2026-08-16,Padang Harapan,Mie Ayam,21.0,13000,0,1,1
+2026-08-16,Padang Harapan,Nasi Goreng,25.0,15000,0,1,1
+2026-08-16,Panorama,Es Teh,60.0,5000,1,1,1
+2026-08-16,Panorama,Martabak,10.0,20000,1,1,1
+2026-08-16,Panorama,Mie Ayam,41.0,13000,1,1,1
+2026-08-16,Panorama,Nasi Goreng,42.0,15000,1,1,1
+2026-08-16,Pasar Minggu,Es Teh,57.0,5000,1,1,1
+2026-08-16,Pasar Minggu,Martabak,23.0,20000,1,1,1
+2026-08-16,Pasar Minggu,Mie Ayam,35.0,13000,1,1,1
+2026-08-16,Pasar Minggu,Nasi Goreng,40.0,15000,1,1,1
+2026-08-17,Padang Harapan,Es Teh,46.0,5000,0,0,0
+2026-08-17,Padang Harapan,Martabak,14.0,20000,0,0,0
+2026-08-17,Padang Harapan,Mie Ayam,19.0,13000,0,0,0
+2026-08-17,Padang Harapan,Nasi Goreng,22.0,15000,0,0,0
+2026-08-17,Panorama,Es Teh,43.0,5000,0,0,0
+2026-08-17,Panorama,Martabak,17.0,20000,0,0,0
+2026-08-17,Panorama,Mie Ayam,26.0,13000,0,0,0
+2026-08-17,Panorama,Nasi Goreng,31.0,15000,0,0,0
+2026-08-17,Pasar Minggu,Es Teh,55.0,5000,1,0,0
+2026-08-17,Pasar Minggu,Martabak,19.0,20000,1,0,0
+2026-08-17,Pasar Minggu,Mie Ayam,31.0,13000,1,0,0
+2026-08-17,Pasar Minggu,Nasi Goreng,29.0,15000,1,0,0
+2026-08-18,Padang Harapan,Es Teh,39.0,5000,0,1,0
+2026-08-18,Padang Harapan,Martabak,10.0,20000,0,1,0
+2026-08-18,Padang Harapan,Mie Ayam,21.0,13000,0,1,0
+2026-08-18,Padang Harapan,Nasi Goreng,17.0,15000,0,1,0
+2026-08-18,Panorama,Es Teh,48.0,5000,0,1,0
+2026-08-18,Panorama,Martabak,12.0,20000,0,1,0
+2026-08-18,Panorama,Mie Ayam,21.0,13000,0,1,0
+2026-08-18,Panorama,Nasi Goreng,32.0,15000,0,1,0
+2026-08-18,Pasar Minggu,Es Teh,35.0,5000,0,1,0
+2026-08-18,Pasar Minggu,Martabak,9.0,20000,0,1,0
+2026-08-18,Pasar Minggu,Mie Ayam,19.0,13000,0,1,0
+2026-08-18,Pasar Minggu,Nasi Goreng,22.0,15000,0,1,0
+2026-08-19,Padang Harapan,Es Teh,50.0,5000,1,0,0
+2026-08-19,Padang Harapan,Martabak,20.0,20000,1,0,0
+2026-08-19,Padang Harapan,Mie Ayam,29.0,13000,1,0,0
+2026-08-19,Padang Harapan,Nasi Goreng,35.0,15000,1,0,0
+2026-08-19,Panorama,Es Teh,58.0,5000,0,0,0
+2026-08-19,Panorama,Martabak,15.0,20000,0,0,0
+2026-08-19,Panorama,Mie Ayam,24.0,13000,0,0,0
+2026-08-19,Panorama,Nasi Goreng,35.0,15000,0,0,0
+2026-08-19,Pasar Minggu,Es Teh,45.0,5000,0,0,0
+2026-08-19,Pasar Minggu,Martabak,19.0,20000,0,0,0
+2026-08-19,Pasar Minggu,Mie Ayam,17.0,13000,0,0,0
+2026-08-19,Pasar Minggu,Nasi Goreng,34.0,15000,0,0,0
+2026-08-20,Padang Harapan,Es Teh,43.0,5000,0,0,0
+2026-08-20,Padang Harapan,Martabak,11.0,20000,0,0,0
+2026-08-20,Padang Harapan,Mie Ayam,21.0,13000,0,0,0
+2026-08-20,Padang Harapan,Nasi Goreng,32.0,15000,0,0,0
+2026-08-20,Panorama,Es Teh,44.0,5000,0,0,0
+2026-08-20,Panorama,Martabak,16.0,20000,0,0,0
+2026-08-20,Panorama,Mie Ayam,34.0,13000,0,0,0
+2026-08-20,Panorama,Nasi Goreng,28.0,15000,0,0,0
+2026-08-20,Pasar Minggu,Es Teh,38.0,5000,0,0,0
+2026-08-20,Pasar Minggu,Martabak,18.0,20000,0,0,0
+2026-08-20,Pasar Minggu,Mie Ayam,28.0,13000,0,0,0
+2026-08-20,Pasar Minggu,Nasi Goreng,18.0,15000,0,0,0
+2026-08-21,Padang Harapan,Es Teh,34.0,5000,0,0,0
+2026-08-21,Padang Harapan,Martabak,16.0,20000,0,0,0
+2026-08-21,Padang Harapan,Mie Ayam,30.0,13000,0,0,0
+2026-08-21,Padang Harapan,Nasi Goreng,35.0,15000,0,0,0
+2026-08-21,Panorama,Es Teh,49.0,5000,0,0,0
+2026-08-21,Panorama,Martabak,17.0,20000,0,0,0
+2026-08-21,Panorama,Mie Ayam,25.0,13000,0,0,0
+2026-08-21,Panorama,Nasi Goreng,28.0,15000,0,0,0
+2026-08-21,Pasar Minggu,Es Teh,59.0,5000,0,0,0
+2026-08-21,Pasar Minggu,Martabak,10.0,20000,0,0,0
+2026-08-21,Pasar Minggu,Mie Ayam,29.0,13000,0,0,0
+2026-08-21,Pasar Minggu,Nasi Goreng,25.0,15000,0,0,0
+2026-08-22,Padang Harapan,Es Teh,51.0,5000,0,1,1
+2026-08-22,Padang Harapan,Martabak,11.0,20000,0,1,1
+2026-08-22,Padang Harapan,Mie Ayam,33.0,13000,0,1,1
+2026-08-22,Padang Harapan,Nasi Goreng,27.0,15000,0,1,1
+2026-08-22,Panorama,Es Teh,62.0,5000,0,1,1
+2026-08-22,Panorama,Martabak,18.0,20000,0,1,1
+2026-08-22,Panorama,Mie Ayam,33.0,13000,0,1,1
+2026-08-22,Panorama,Nasi Goreng,32.0,15000,0,1,1
+2026-08-22,Pasar Minggu,Es Teh,36.0,5000,0,1,1
+2026-08-22,Pasar Minggu,Martabak,10.0,20000,0,1,1
+2026-08-22,Pasar Minggu,Mie Ayam,34.0,13000,0,1,1
+2026-08-22,Pasar Minggu,Nasi Goreng,37.0,15000,0,1,1
+2026-08-23,Padang Harapan,Es Teh,58.0,5000,0,0,1
+2026-08-23,Padang Harapan,Martabak,21.0,20000,0,0,1
+2026-08-23,Padang Harapan,Mie Ayam,34.0,13000,0,0,1
+2026-08-23,Padang Harapan,Nasi Goreng,41.0,15000,0,0,1
+2026-08-23,Panorama,Es Teh,63.0,5000,0,0,1
+2026-08-23,Panorama,Martabak,18.0,20000,0,0,1
+2026-08-23,Panorama,Mie Ayam,41.0,13000,0,0,1
+2026-08-23,Panorama,Nasi Goreng,59.0,15000,0,0,1
+2026-08-23,Pasar Minggu,Es Teh,55.0,5000,0,0,1
+2026-08-23,Pasar Minggu,Martabak,21.0,20000,0,0,1
+2026-08-23,Pasar Minggu,Mie Ayam,17.0,13000,0,0,1
+2026-08-23,Pasar Minggu,Nasi Goreng,42.0,15000,0,0,1
+2026-08-24,Padang Harapan,Es Teh,41.0,5000,0,0,0
+2026-08-24,Padang Harapan,Martabak,8.0,20000,0,0,0
+2026-08-24,Padang Harapan,Mie Ayam,20.0,13000,0,0,0
+2026-08-24,Padang Harapan,Nasi Goreng,36.0,15000,0,0,0
+2026-08-24,Panorama,Es Teh,48.0,5000,0,0,0
+2026-08-24,Panorama,Martabak,15.0,20000,0,0,0
+2026-08-24,Panorama,Mie Ayam,21.0,13000,0,0,0
+2026-08-24,Panorama,Nasi Goreng,31.0,15000,0,0,0
+2026-08-24,Pasar Minggu,Es Teh,61.0,5000,0,0,0
+2026-08-24,Pasar Minggu,Martabak,16.0,20000,0,0,0
+2026-08-24,Pasar Minggu,Mie Ayam,35.0,13000,0,0,0
+2026-08-24,Pasar Minggu,Nasi Goreng,28.0,15000,0,0,0
+2026-08-25,Padang Harapan,Es Teh,37.0,5000,0,0,0
+2026-08-25,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-08-25,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-08-25,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-08-25,Panorama,Es Teh,52.0,5000,0,0,0
+2026-08-25,Panorama,Martabak,19.0,20000,0,0,0
+2026-08-25,Panorama,Mie Ayam,36.0,13000,0,0,0
+2026-08-25,Panorama,Nasi Goreng,31.0,15000,0,0,0
+2026-08-25,Pasar Minggu,Es Teh,37.0,5000,0,0,0
+2026-08-25,Pasar Minggu,Martabak,17.0,20000,0,0,0
+2026-08-25,Pasar Minggu,Mie Ayam,20.0,13000,0,0,0
+2026-08-25,Pasar Minggu,Nasi Goreng,25.0,15000,0,0,0
+2026-08-26,Padang Harapan,Es Teh,32.0,5000,0,1,0
+2026-08-26,Padang Harapan,Martabak,15.0,20000,0,1,0
+2026-08-26,Padang Harapan,Mie Ayam,21.0,13000,0,1,0
+2026-08-26,Padang Harapan,Nasi Goreng,18.0,15000,0,1,0
+2026-08-26,Panorama,Es Teh,53.0,5000,0,1,0
+2026-08-26,Panorama,Martabak,18.0,20000,0,1,0
+2026-08-26,Panorama,Mie Ayam,28.0,13000,0,1,0
+2026-08-26,Panorama,Nasi Goreng,37.0,15000,0,1,0
+2026-08-26,Pasar Minggu,Es Teh,55.0,5000,1,1,0
+2026-08-26,Pasar Minggu,Martabak,14.0,20000,1,1,0
+2026-08-26,Pasar Minggu,Mie Ayam,25.0,13000,1,1,0
+2026-08-26,Pasar Minggu,Nasi Goreng,32.0,15000,1,1,0
+2026-08-27,Padang Harapan,Es Teh,53.0,5000,0,0,0
+2026-08-27,Padang Harapan,Martabak,22.0,20000,0,0,0
+2026-08-27,Padang Harapan,Mie Ayam,19.0,13000,0,0,0
+2026-08-27,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-08-27,Panorama,Es Teh,64.0,5000,1,0,0
+2026-08-27,Panorama,Martabak,19.0,20000,1,0,0
+2026-08-27,Panorama,Mie Ayam,34.0,13000,1,0,0
+2026-08-27,Panorama,Nasi Goreng,40.0,15000,1,0,0
+2026-08-27,Pasar Minggu,Es Teh,51.0,5000,0,0,0
+2026-08-27,Pasar Minggu,Martabak,13.0,20000,0,0,0
+2026-08-27,Pasar Minggu,Mie Ayam,28.0,13000,0,0,0
+2026-08-27,Pasar Minggu,Nasi Goreng,36.0,15000,0,0,0
+2026-08-28,Padang Harapan,Es Teh,39.0,5000,0,0,0
+2026-08-28,Padang Harapan,Martabak,8.0,20000,0,0,0
+2026-08-28,Padang Harapan,Mie Ayam,21.0,13000,0,0,0
+2026-08-28,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-08-28,Panorama,Es Teh,43.0,5000,0,0,0
+2026-08-28,Panorama,Martabak,12.0,20000,0,0,0
+2026-08-28,Panorama,Mie Ayam,35.0,13000,0,0,0
+2026-08-28,Panorama,Nasi Goreng,29.0,15000,0,0,0
+2026-08-28,Pasar Minggu,Es Teh,56.0,5000,0,0,0
+2026-08-28,Pasar Minggu,Martabak,22.0,20000,0,0,0
+2026-08-28,Pasar Minggu,Mie Ayam,23.0,13000,0,0,0
+2026-08-28,Pasar Minggu,Nasi Goreng,31.0,15000,0,0,0
+2026-08-29,Padang Harapan,Es Teh,50.0,5000,0,1,1
+2026-08-29,Padang Harapan,Martabak,15.0,20000,0,1,1
+2026-08-29,Padang Harapan,Mie Ayam,38.0,13000,0,1,1
+2026-08-29,Padang Harapan,Nasi Goreng,29.0,15000,0,1,1
+2026-08-29,Panorama,Es Teh,58.0,5000,0,1,1
+2026-08-29,Panorama,Martabak,23.0,20000,0,1,1
+2026-08-29,Panorama,Mie Ayam,24.0,13000,0,1,1
+2026-08-29,Panorama,Nasi Goreng,47.0,15000,0,1,1
+2026-08-29,Pasar Minggu,Es Teh,45.0,5000,0,1,1
+2026-08-29,Pasar Minggu,Martabak,9.0,20000,0,1,1
+2026-08-29,Pasar Minggu,Mie Ayam,26.0,13000,0,1,1
+2026-08-29,Pasar Minggu,Nasi Goreng,44.0,15000,0,1,1
+2026-08-30,Padang Harapan,Es Teh,55.0,5000,0,0,1
+2026-08-30,Padang Harapan,Martabak,21.0,20000,0,0,1
+2026-08-30,Padang Harapan,Mie Ayam,35.0,13000,0,0,1
+2026-08-30,Padang Harapan,Nasi Goreng,36.0,15000,0,0,1
+2026-08-30,Panorama,Es Teh,65.0,5000,0,0,1
+2026-08-30,Panorama,Martabak,20.0,20000,0,0,1
+2026-08-30,Panorama,Mie Ayam,44.0,13000,0,0,1
+2026-08-30,Panorama,Nasi Goreng,41.0,15000,0,0,1
+2026-08-30,Pasar Minggu,Es Teh,59.0,5000,0,0,1
+2026-08-30,Pasar Minggu,Martabak,22.0,20000,0,0,1
+2026-08-30,Pasar Minggu,Mie Ayam,46.0,13000,0,0,1
+2026-08-30,Pasar Minggu,Nasi Goreng,45.0,15000,0,0,1
+2026-08-31,Padang Harapan,Es Teh,40.0,5000,0,0,0
+2026-08-31,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-08-31,Padang Harapan,Mie Ayam,26.0,13000,0,0,0
+2026-08-31,Padang Harapan,Nasi Goreng,32.0,15000,0,0,0
+2026-08-31,Panorama,Es Teh,59.0,5000,1,0,0
+2026-08-31,Panorama,Martabak,23.0,20000,1,0,0
+2026-08-31,Panorama,Mie Ayam,37.0,13000,1,0,0
+2026-08-31,Panorama,Nasi Goreng,35.0,15000,1,0,0
+2026-08-31,Pasar Minggu,Es Teh,39.0,5000,0,0,0
+2026-08-31,Pasar Minggu,Martabak,14.0,20000,0,0,0
+2026-08-31,Pasar Minggu,Mie Ayam,32.0,13000,0,0,0
+2026-08-31,Pasar Minggu,Nasi Goreng,31.0,15000,0,0,0
+2026-09-01,Padang Harapan,Es Teh,39.0,5000,0,0,0
+2026-09-01,Padang Harapan,Martabak,20.0,20000,0,0,0
+2026-09-01,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-09-01,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-09-01,Panorama,Es Teh,51.0,5000,0,0,0
+2026-09-01,Panorama,Martabak,15.0,20000,0,0,0
+2026-09-01,Panorama,Mie Ayam,22.0,13000,0,0,0
+2026-09-01,Panorama,Nasi Goreng,28.0,15000,0,0,0
+2026-09-01,Pasar Minggu,Es Teh,48.0,5000,0,0,0
+2026-09-01,Pasar Minggu,Martabak,21.0,20000,0,0,0
+2026-09-01,Pasar Minggu,Mie Ayam,27.0,13000,0,0,0
+2026-09-01,Pasar Minggu,Nasi Goreng,28.0,15000,0,0,0
+2026-09-02,Padang Harapan,Es Teh,45.0,5000,1,0,0
+2026-09-02,Padang Harapan,Martabak,15.0,20000,1,0,0
+2026-09-02,Padang Harapan,Mie Ayam,29.0,13000,1,0,0
+2026-09-02,Padang Harapan,Nasi Goreng,30.0,15000,1,0,0
+2026-09-02,Panorama,Es Teh,59.0,5000,1,0,0
+2026-09-02,Panorama,Martabak,19.0,20000,1,0,0
+2026-09-02,Panorama,Mie Ayam,35.0,13000,1,0,0
+2026-09-02,Panorama,Nasi Goreng,43.0,15000,1,0,0
+2026-09-02,Pasar Minggu,Es Teh,49.0,5000,0,0,0
+2026-09-02,Pasar Minggu,Martabak,23.0,20000,0,0,0
+2026-09-02,Pasar Minggu,Mie Ayam,21.0,13000,0,0,0
+2026-09-02,Pasar Minggu,Nasi Goreng,27.0,15000,0,0,0
+2026-09-03,Padang Harapan,Es Teh,42.0,5000,0,0,0
+2026-09-03,Padang Harapan,Martabak,14.0,20000,0,0,0
+2026-09-03,Padang Harapan,Mie Ayam,23.0,13000,0,0,0
+2026-09-03,Padang Harapan,Nasi Goreng,22.0,15000,0,0,0
+2026-09-03,Panorama,Es Teh,46.0,5000,0,0,0
+2026-09-03,Panorama,Martabak,18.0,20000,0,0,0
+2026-09-03,Panorama,Mie Ayam,25.0,13000,0,0,0
+2026-09-03,Panorama,Nasi Goreng,37.0,15000,0,0,0
+2026-09-03,Pasar Minggu,Es Teh,71.0,5000,1,0,0
+2026-09-03,Pasar Minggu,Martabak,22.0,20000,1,0,0
+2026-09-03,Pasar Minggu,Mie Ayam,29.0,13000,1,0,0
+2026-09-03,Pasar Minggu,Nasi Goreng,42.0,15000,1,0,0
+2026-09-04,Padang Harapan,Es Teh,49.0,5000,0,0,0
+2026-09-04,Padang Harapan,Martabak,19.0,20000,0,0,0
+2026-09-04,Padang Harapan,Mie Ayam,31.0,13000,0,0,0
+2026-09-04,Padang Harapan,Nasi Goreng,27.0,15000,0,0,0
+2026-09-04,Panorama,Es Teh,45.0,5000,0,0,0
+2026-09-04,Panorama,Martabak,17.0,20000,0,0,0
+2026-09-04,Panorama,Mie Ayam,24.0,13000,0,0,0
+2026-09-04,Panorama,Nasi Goreng,36.0,15000,0,0,0
+2026-09-04,Pasar Minggu,Es Teh,39.0,5000,0,0,0
+2026-09-04,Pasar Minggu,Martabak,18.0,20000,0,0,0
+2026-09-04,Pasar Minggu,Mie Ayam,28.0,13000,0,0,0
+2026-09-04,Pasar Minggu,Nasi Goreng,33.0,15000,0,0,0
+2026-09-05,Padang Harapan,Es Teh,61.0,5000,1,1,1
+2026-09-05,Padang Harapan,Martabak,23.0,20000,1,1,1
+2026-09-05,Padang Harapan,Mie Ayam,40.0,13000,1,1,1
+2026-09-05,Padang Harapan,Nasi Goreng,50.0,15000,1,1,1
+2026-09-05,Panorama,Es Teh,67.0,5000,1,1,1
+2026-09-05,Panorama,Martabak,16.0,20000,1,1,1
+2026-09-05,Panorama,Mie Ayam,34.0,13000,1,1,1
+2026-09-05,Panorama,Nasi Goreng,46.0,15000,1,1,1
+2026-09-05,Pasar Minggu,Es Teh,56.0,5000,0,1,1
+2026-09-05,Pasar Minggu,Martabak,15.0,20000,0,1,1
+2026-09-05,Pasar Minggu,Mie Ayam,22.0,13000,0,1,1
+2026-09-05,Pasar Minggu,Nasi Goreng,23.0,15000,0,1,1
+2026-09-06,Padang Harapan,Es Teh,52.0,5000,0,0,1
+2026-09-06,Padang Harapan,Martabak,19.0,20000,0,0,1
+2026-09-06,Padang Harapan,Mie Ayam,25.0,13000,0,0,1
+2026-09-06,Padang Harapan,Nasi Goreng,40.0,15000,0,0,1
+2026-09-06,Panorama,Es Teh,61.0,5000,0,0,1
+2026-09-06,Panorama,Martabak,28.0,20000,0,0,1
+2026-09-06,Panorama,Mie Ayam,35.0,13000,0,0,1
+2026-09-06,Panorama,Nasi Goreng,45.0,15000,0,0,1
+2026-09-06,Pasar Minggu,Es Teh,64.0,5000,1,0,1
+2026-09-06,Pasar Minggu,Martabak,23.0,20000,1,0,1
+2026-09-06,Pasar Minggu,Mie Ayam,42.0,13000,1,0,1
+2026-09-06,Pasar Minggu,Nasi Goreng,43.0,15000,1,0,1
+2026-09-07,Padang Harapan,Es Teh,45.0,5000,0,0,0
+2026-09-07,Padang Harapan,Martabak,13.0,20000,0,0,0
+2026-09-07,Padang Harapan,Mie Ayam,22.0,13000,0,0,0
+2026-09-07,Padang Harapan,Nasi Goreng,41.0,15000,0,0,0
+2026-09-07,Panorama,Es Teh,49.0,5000,0,0,0
+2026-09-07,Panorama,Martabak,14.0,20000,0,0,0
+2026-09-07,Panorama,Mie Ayam,30.0,13000,0,0,0
+2026-09-07,Panorama,Nasi Goreng,39.0,15000,0,0,0
+2026-09-07,Pasar Minggu,Es Teh,46.0,5000,0,0,0
+2026-09-07,Pasar Minggu,Martabak,15.0,20000,0,0,0
+2026-09-07,Pasar Minggu,Mie Ayam,15.0,13000,0,0,0
+2026-09-07,Pasar Minggu,Nasi Goreng,29.0,15000,0,0,0
+2026-09-08,Padang Harapan,Es Teh,56.0,5000,0,0,0
+2026-09-08,Padang Harapan,Martabak,17.0,20000,0,0,0
+2026-09-08,Padang Harapan,Mie Ayam,27.0,13000,0,0,0
+2026-09-08,Padang Harapan,Nasi Goreng,25.0,15000,0,0,0
+2026-09-08,Panorama,Es Teh,53.0,5000,0,0,0
+2026-09-08,Panorama,Martabak,10.0,20000,0,0,0
+2026-09-08,Panorama,Mie Ayam,26.0,13000,0,0,0
+2026-09-08,Panorama,Nasi Goreng,30.0,15000,0,0,0
+2026-09-08,Pasar Minggu,Es Teh,54.0,5000,1,0,0
+2026-09-08,Pasar Minggu,Martabak,27.0,20000,1,0,0
+2026-09-08,Pasar Minggu,Mie Ayam,36.0,13000,1,0,0
+2026-09-08,Pasar Minggu,Nasi Goreng,46.0,15000,1,0,0
+2026-09-09,Padang Harapan,Es Teh,39.0,5000,0,0,0
+2026-09-09,Padang Harapan,Martabak,14.0,20000,0,0,0
+2026-09-09,Padang Harapan,Mie Ayam,30.0,13000,0,0,0
+2026-09-09,Padang Harapan,Nasi Goreng,41.0,15000,0,0,0
+2026-09-09,Panorama,Es Teh,42.0,5000,0,0,0
+2026-09-09,Panorama,Martabak,17.0,20000,0,0,0
+2026-09-09,Panorama,Mie Ayam,33.0,13000,0,0,0
+2026-09-09,Panorama,Nasi Goreng,32.0,15000,0,0,0
+2026-09-09,Pasar Minggu,Es Teh,43.0,5000,0,0,0
+2026-09-09,Pasar Minggu,Martabak,12.0,20000,0,0,0
+2026-09-09,Pasar Minggu,Mie Ayam,24.0,13000,0,0,0
+2026-09-09,Pasar Minggu,Nasi Goreng,30.0,15000,0,0,0
+2026-09-10,Padang Harapan,Es Teh,45.0,5000,1,0,0
+2026-09-10,Padang Harapan,Martabak,23.0,20000,1,0,0
+2026-09-10,Padang Harapan,Mie Ayam,33.0,13000,1,0,0
+2026-09-10,Padang Harapan,Nasi Goreng,38.0,15000,1,0,0
+2026-09-10,Panorama,Es Teh,67.0,5000,0,0,0
+2026-09-10,Panorama,Martabak,17.0,20000,0,0,0
+2026-09-10,Panorama,Mie Ayam,28.0,13000,0,0,0
+2026-09-10,Panorama,Nasi Goreng,40.0,15000,0,0,0
+2026-09-10,Pasar Minggu,Es Teh,37.0,5000,0,0,0
+2026-09-10,Pasar Minggu,Martabak,17.0,20000,0,0,0
+2026-09-10,Pasar Minggu,Mie Ayam,26.0,13000,0,0,0
+2026-09-10,Pasar Minggu,Nasi Goreng,24.0,15000,0,0,0
+2026-09-11,Padang Harapan,Es Teh,41.0,5000,0,0,0
+2026-09-11,Padang Harapan,Martabak,13.0,20000,0,0,0
+2026-09-11,Padang Harapan,Mie Ayam,28.0,13000,0,0,0
+2026-09-11,Padang Harapan,Nasi Goreng,35.0,15000,0,0,0
+2026-09-11,Panorama,Es Teh,53.0,5000,0,0,0
+2026-09-11,Panorama,Martabak,18.0,20000,0,0,0
+2026-09-11,Panorama,Mie Ayam,28.0,13000,0,0,0
+2026-09-11,Panorama,Nasi Goreng,33.0,15000,0,0,0
+2026-09-11,Pasar Minggu,Es Teh,35.0,5000,0,0,0
+2026-09-11,Pasar Minggu,Martabak,11.0,20000,0,0,0
+2026-09-11,Pasar Minggu,Mie Ayam,29.0,13000,0,0,0
+2026-09-11,Pasar Minggu,Nasi Goreng,32.0,15000,0,0,0
+2026-09-12,Padang Harapan,Es Teh,76.0,5000,1,0,1
+2026-09-12,Padang Harapan,Martabak,26.0,20000,1,0,1
+2026-09-12,Padang Harapan,Mie Ayam,34.0,13000,1,0,1
+2026-09-12,Padang Harapan,Nasi Goreng,59.0,15000,1,0,1
+2026-09-12,Panorama,Es Teh,57.0,5000,0,0,1
+2026-09-12,Panorama,Martabak,20.0,20000,0,0,1
+2026-09-12,Panorama,Mie Ayam,32.0,13000,0,0,1
+2026-09-12,Panorama,Nasi Goreng,45.0,15000,0,0,1
+2026-09-12,Pasar Minggu,Es Teh,81.0,5000,1,0,1
+2026-09-12,Pasar Minggu,Martabak,30.0,20000,1,0,1
+2026-09-12,Pasar Minggu,Mie Ayam,52.0,13000,1,0,1
+2026-09-12,Pasar Minggu,Nasi Goreng,49.0,15000,1,0,1
+2026-09-13,Padang Harapan,Es Teh,67.0,5000,1,0,1
+2026-09-13,Padang Harapan,Martabak,21.0,20000,1,0,1
+2026-09-13,Padang Harapan,Mie Ayam,43.0,13000,1,0,1
+2026-09-13,Padang Harapan,Nasi Goreng,41.0,15000,1,0,1
+2026-09-13,Panorama,Es Teh,57.0,5000,0,0,1
+2026-09-13,Panorama,Martabak,26.0,20000,0,0,1
+2026-09-13,Panorama,Mie Ayam,42.0,13000,0,0,1
+2026-09-13,Panorama,Nasi Goreng,43.0,15000,0,0,1
+2026-09-13,Pasar Minggu,Es Teh,61.0,5000,0,0,1
+2026-09-13,Pasar Minggu,Martabak,21.0,20000,0,0,1
+2026-09-13,Pasar Minggu,Mie Ayam,36.0,13000,0,0,1
+2026-09-13,Pasar Minggu,Nasi Goreng,29.0,15000,0,0,1
+2026-09-14,Padang Harapan,Es Teh,37.0,5000,0,1,0
+2026-09-14,Padang Harapan,Martabak,9.0,20000,0,1,0
+2026-09-14,Padang Harapan,Mie Ayam,25.0,13000,0,1,0
+2026-09-14,Padang Harapan,Nasi Goreng,22.0,15000,0,1,0
+2026-09-14,Panorama,Es Teh,37.0,5000,0,1,0
+2026-09-14,Panorama,Martabak,10.0,20000,0,1,0
+2026-09-14,Panorama,Mie Ayam,19.0,13000,0,1,0
+2026-09-14,Panorama,Nasi Goreng,25.0,15000,0,1,0
+2026-09-14,Pasar Minggu,Es Teh,36.0,5000,0,1,0
+2026-09-14,Pasar Minggu,Martabak,7.0,20000,0,1,0
+2026-09-14,Pasar Minggu,Mie Ayam,19.0,13000,0,1,0
+2026-09-14,Pasar Minggu,Nasi Goreng,22.0,15000,0,1,0
+2026-09-15,Padang Harapan,Es Teh,45.0,5000,0,0,0
+2026-09-15,Padang Harapan,Martabak,19.0,20000,0,0,0
+2026-09-15,Padang Harapan,Mie Ayam,29.0,13000,0,0,0
+2026-09-15,Padang Harapan,Nasi Goreng,26.0,15000,0,0,0
+2026-09-15,Panorama,Es Teh,53.0,5000,0,0,0
+2026-09-15,Panorama,Martabak,19.0,20000,0,0,0
+2026-09-15,Panorama,Mie Ayam,31.0,13000,0,0,0
+2026-09-15,Panorama,Nasi Goreng,27.0,15000,0,0,0
+2026-09-15,Pasar Minggu,Es Teh,47.0,5000,0,0,0
+2026-09-15,Pasar Minggu,Martabak,8.0,20000,0,0,0
+2026-09-15,Pasar Minggu,Mie Ayam,24.0,13000,0,0,0
+2026-09-15,Pasar Minggu,Nasi Goreng,20.0,15000,0,0,0
+2026-09-16,Padang Harapan,Es Teh,52.0,5000,1,1,0
+2026-09-16,Padang Harapan,Martabak,15.0,20000,1,1,0
+2026-09-16,Padang Harapan,Mie Ayam,25.0,13000,1,1,0
+2026-09-16,Padang Harapan,Nasi Goreng,24.0,15000,1,1,0
+2026-09-16,Panorama,Es Teh,40.0,5000,1,1,0
+2026-09-16,Panorama,Martabak,15.0,20000,1,1,0
+2026-09-16,Panorama,Mie Ayam,25.0,13000,1,1,0
+2026-09-16,Panorama,Nasi Goreng,18.0,15000,1,1,0
+2026-09-16,Pasar Minggu,Es Teh,30.0,5000,0,1,0
+2026-09-16,Pasar Minggu,Martabak,12.0,20000,0,1,0
+2026-09-16,Pasar Minggu,Mie Ayam,17.0,13000,0,1,0
+2026-09-16,Pasar Minggu,Nasi Goreng,18.0,15000,0,1,0
+2026-09-17,Padang Harapan,Es Teh,45.0,5000,0,0,0
+2026-09-17,Padang Harapan,Martabak,15.0,20000,0,0,0
+2026-09-17,Padang Harapan,Mie Ayam,29.0,13000,0,0,0
+2026-09-17,Padang Harapan,Nasi Goreng,33.0,15000,0,0,0
+2026-09-17,Panorama,Es Teh,53.0,5000,0,0,0
+2026-09-17,Panorama,Martabak,19.0,20000,0,0,0
+2026-09-17,Panorama,Mie Ayam,30.0,13000,0,0,0
+2026-09-17,Panorama,Nasi Goreng,30.0,15000,0,0,0
+2026-09-17,Pasar Minggu,Es Teh,43.0,5000,0,0,0
+2026-09-17,Pasar Minggu,Martabak,18.0,20000,0,0,0
+2026-09-17,Pasar Minggu,Mie Ayam,20.0,13000,0,0,0
+2026-09-17,Pasar Minggu,Nasi Goreng,23.0,15000,0,0,0
+2026-09-18,Padang Harapan,Es Teh,47.0,5000,1,1,0
+2026-09-18,Padang Harapan,Martabak,13.0,20000,1,1,0
+2026-09-18,Padang Harapan,Mie Ayam,28.0,13000,1,1,0
+2026-09-18,Padang Harapan,Nasi Goreng,43.0,15000,1,1,0
+2026-09-18,Panorama,Es Teh,33.0,5000,0,1,0
+2026-09-18,Panorama,Martabak,10.0,20000,0,1,0
+2026-09-18,Panorama,Mie Ayam,26.0,13000,0,1,0
+2026-09-18,Panorama,Nasi Goreng,17.0,15000,0,1,0
+2026-09-18,Pasar Minggu,Es Teh,40.0,5000,1,1,0
+2026-09-18,Pasar Minggu,Martabak,15.0,20000,1,1,0
+2026-09-18,Pasar Minggu,Mie Ayam,26.0,13000,1,1,0
+2026-09-18,Pasar Minggu,Nasi Goreng,28.0,15000,1,1,0
+2026-09-19,Padang Harapan,Es Teh,71.0,5000,0,0,1
+2026-09-19,Padang Harapan,Martabak,13.0,20000,0,0,1
+2026-09-19,Padang Harapan,Mie Ayam,36.0,13000,0,0,1
+2026-09-19,Padang Harapan,Nasi Goreng,38.0,15000,0,0,1
+2026-09-19,Panorama,Es Teh,85.0,5000,1,0,1
+2026-09-19,Panorama,Martabak,25.0,20000,1,0,1
+2026-09-19,Panorama,Mie Ayam,40.0,13000,1,0,1
+2026-09-19,Panorama,Nasi Goreng,51.0,15000,1,0,1
+2026-09-19,Pasar Minggu,Es Teh,60.0,5000,0,0,1
+2026-09-19,Pasar Minggu,Martabak,21.0,20000,0,0,1
+2026-09-19,Pasar Minggu,Mie Ayam,35.0,13000,0,0,1
+2026-09-19,Pasar Minggu,Nasi Goreng,37.0,15000,0,0,1
+2026-09-20,Padang Harapan,Es Teh,86.0,5000,1,0,1
+2026-09-20,Padang Harapan,Martabak,16.0,20000,1,0,1
+2026-09-20,Padang Harapan,Mie Ayam,36.0,13000,1,0,1
+2026-09-20,Padang Harapan,Nasi Goreng,45.0,15000,1,0,1
+2026-09-20,Panorama,Es Teh,57.0,5000,0,0,1
+2026-09-20,Panorama,Martabak,24.0,20000,0,0,1
+2026-09-20,Panorama,Mie Ayam,39.0,13000,0,0,1
+2026-09-20,Panorama,Nasi Goreng,46.0,15000,0,0,1
+2026-09-20,Pasar Minggu,Es Teh,67.0,5000,1,0,1
+2026-09-20,Pasar Minggu,Martabak,19.0,20000,1,0,1
+2026-09-20,Pasar Minggu,Mie Ayam,35.0,13000,1,0,1
+2026-09-20,Pasar Minggu,Nasi Goreng,54.0,15000,1,0,1
+2026-09-21,Padang Harapan,Es Teh,41.0,5000,1,1,0
+2026-09-21,Padang Harapan,Martabak,19.0,20000,1,1,0
+2026-09-21,Padang Harapan,Mie Ayam,21.0,13000,1,1,0
+2026-09-21,Padang Harapan,Nasi Goreng,28.0,15000,1,1,0
+2026-09-21,Panorama,Es Teh,45.0,5000,0,1,0
+2026-09-21,Panorama,Martabak,15.0,20000,0,1,0
+2026-09-21,Panorama,Mie Ayam,16.0,13000,0,1,0
+2026-09-21,Panorama,Nasi Goreng,36.0,15000,0,1,0
+2026-09-21,Pasar Minggu,Es Teh,44.0,5000,0,1,0
+2026-09-21,Pasar Minggu,Martabak,8.0,20000,0,1,0
+2026-09-21,Pasar Minggu,Mie Ayam,21.0,13000,0,1,0
+2026-09-21,Pasar Minggu,Nasi Goreng,23.0,15000,0,1,0
+2026-09-22,Padang Harapan,Es Teh,47.0,5000,0,0,0
+2026-09-22,Padang Harapan,Martabak,11.0,20000,0,0,0
+2026-09-22,Padang Harapan,Mie Ayam,23.0,13000,0,0,0
+2026-09-22,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-09-22,Panorama,Es Teh,55.0,5000,0,0,0
+2026-09-22,Panorama,Martabak,20.0,20000,0,0,0
+2026-09-22,Panorama,Mie Ayam,23.0,13000,0,0,0
+2026-09-22,Panorama,Nasi Goreng,29.0,15000,0,0,0
+2026-09-22,Pasar Minggu,Es Teh,53.0,5000,1,0,0
+2026-09-22,Pasar Minggu,Martabak,20.0,20000,1,0,0
+2026-09-22,Pasar Minggu,Mie Ayam,30.0,13000,1,0,0
+2026-09-22,Pasar Minggu,Nasi Goreng,36.0,15000,1,0,0
+2026-09-23,Padang Harapan,Es Teh,45.0,5000,0,0,0
+2026-09-23,Padang Harapan,Martabak,21.0,20000,0,0,0
+2026-09-23,Padang Harapan,Mie Ayam,23.0,13000,0,0,0
+2026-09-23,Padang Harapan,Nasi Goreng,33.0,15000,0,0,0
+2026-09-23,Panorama,Es Teh,53.0,5000,0,0,0
+2026-09-23,Panorama,Martabak,18.0,20000,0,0,0
+2026-09-23,Panorama,Mie Ayam,25.0,13000,0,0,0
+2026-09-23,Panorama,Nasi Goreng,33.0,15000,0,0,0
+2026-09-23,Pasar Minggu,Es Teh,51.0,5000,0,0,0
+2026-09-23,Pasar Minggu,Martabak,14.0,20000,0,0,0
+2026-09-23,Pasar Minggu,Mie Ayam,25.0,13000,0,0,0
+2026-09-23,Pasar Minggu,Nasi Goreng,23.0,15000,0,0,0
+2026-09-24,Padang Harapan,Es Teh,65.0,5000,1,0,0
+2026-09-24,Padang Harapan,Martabak,25.0,20000,1,0,0
+2026-09-24,Padang Harapan,Mie Ayam,30.0,13000,1,0,0
+2026-09-24,Padang Harapan,Nasi Goreng,30.0,15000,1,0,0
+2026-09-24,Panorama,Es Teh,75.0,5000,0,0,0
+2026-09-24,Panorama,Martabak,15.0,20000,0,0,0
+2026-09-24,Panorama,Mie Ayam,32.0,13000,0,0,0
+2026-09-24,Panorama,Nasi Goreng,39.0,15000,0,0,0
+2026-09-24,Pasar Minggu,Es Teh,45.0,5000,0,0,0
+2026-09-24,Pasar Minggu,Martabak,15.0,20000,0,0,0
+2026-09-24,Pasar Minggu,Mie Ayam,22.0,13000,0,0,0
+2026-09-24,Pasar Minggu,Nasi Goreng,36.0,15000,0,0,0
+2026-09-25,Padang Harapan,Es Teh,44.0,5000,0,0,0
+2026-09-25,Padang Harapan,Martabak,21.0,20000,0,0,0
+2026-09-25,Padang Harapan,Mie Ayam,23.0,13000,0,0,0
+2026-09-25,Padang Harapan,Nasi Goreng,34.0,15000,0,0,0
+2026-09-25,Panorama,Es Teh,57.0,5000,0,0,0
+2026-09-25,Panorama,Martabak,16.0,20000,0,0,0
+2026-09-25,Panorama,Mie Ayam,26.0,13000,0,0,0
+2026-09-25,Panorama,Nasi Goreng,40.0,15000,0,0,0
+2026-09-25,Pasar Minggu,Es Teh,55.0,5000,1,0,0
+2026-09-25,Pasar Minggu,Martabak,25.0,20000,1,0,0
+2026-09-25,Pasar Minggu,Mie Ayam,35.0,13000,1,0,0
+2026-09-25,Pasar Minggu,Nasi Goreng,29.0,15000,1,0,0
+2026-09-26,Padang Harapan,Es Teh,57.0,5000,0,0,1
+2026-09-26,Padang Harapan,Martabak,23.0,20000,0,0,1
+2026-09-26,Padang Harapan,Mie Ayam,28.0,13000,0,0,1
+2026-09-26,Padang Harapan,Nasi Goreng,40.0,15000,0,0,1
+2026-09-26,Panorama,Es Teh,74.0,5000,0,0,1
+2026-09-26,Panorama,Martabak,31.0,20000,0,0,1
+2026-09-26,Panorama,Mie Ayam,34.0,13000,0,0,1
+2026-09-26,Panorama,Nasi Goreng,42.0,15000,0,0,1
+2026-09-26,Pasar Minggu,Es Teh,71.0,5000,1,0,1
+2026-09-26,Pasar Minggu,Martabak,22.0,20000,1,0,1
+2026-09-26,Pasar Minggu,Mie Ayam,39.0,13000,1,0,1
+2026-09-26,Pasar Minggu,Nasi Goreng,40.0,15000,1,0,1
+2026-09-27,Padang Harapan,Es Teh,48.0,5000,0,1,1
+2026-09-27,Padang Harapan,Martabak,14.0,20000,0,1,1
+2026-09-27,Padang Harapan,Mie Ayam,22.0,13000,0,1,1
+2026-09-27,Padang Harapan,Nasi Goreng,25.0,15000,0,1,1
+2026-09-27,Panorama,Es Teh,75.0,5000,1,1,1
+2026-09-27,Panorama,Martabak,21.0,20000,1,1,1
+2026-09-27,Panorama,Mie Ayam,27.0,13000,1,1,1
+2026-09-27,Panorama,Nasi Goreng,38.0,15000,1,1,1
+2026-09-27,Pasar Minggu,Es Teh,56.0,5000,0,1,1
+2026-09-27,Pasar Minggu,Martabak,16.0,20000,0,1,1
+2026-09-27,Pasar Minggu,Mie Ayam,31.0,13000,0,1,1
+2026-09-27,Pasar Minggu,Nasi Goreng,35.0,15000,0,1,1
+2026-09-28,Padang Harapan,Es Teh,45.0,5000,0,0,0
+2026-09-28,Padang Harapan,Martabak,14.0,20000,0,0,0
+2026-09-28,Padang Harapan,Mie Ayam,22.0,13000,0,0,0
+2026-09-28,Padang Harapan,Nasi Goreng,26.0,15000,0,0,0
+2026-09-28,Panorama,Es Teh,58.0,5000,0,0,0
+2026-09-28,Panorama,Martabak,15.0,20000,0,0,0
+2026-09-28,Panorama,Mie Ayam,28.0,13000,0,0,0
+2026-09-28,Panorama,Nasi Goreng,40.0,15000,0,0,0
+2026-09-28,Pasar Minggu,Es Teh,52.0,5000,0,0,0
+2026-09-28,Pasar Minggu,Martabak,15.0,20000,0,0,0
+2026-09-28,Pasar Minggu,Mie Ayam,20.0,13000,0,0,0
+2026-09-28,Pasar Minggu,Nasi Goreng,34.0,15000,0,0,0
+2026-09-29,Padang Harapan,Es Teh,31.0,5000,0,1,0
+2026-09-29,Padang Harapan,Martabak,10.0,20000,0,1,0
+2026-09-29,Padang Harapan,Mie Ayam,19.0,13000,0,1,0
+2026-09-29,Padang Harapan,Nasi Goreng,23.0,15000,0,1,0
+2026-09-29,Panorama,Es Teh,39.0,5000,1,1,0
+2026-09-29,Panorama,Martabak,15.0,20000,1,1,0
+2026-09-29,Panorama,Mie Ayam,27.0,13000,1,1,0
+2026-09-29,Panorama,Nasi Goreng,37.0,15000,1,1,0
+2026-09-29,Pasar Minggu,Es Teh,35.0,5000,0,1,0
+2026-09-29,Pasar Minggu,Martabak,15.0,20000,0,1,0
+2026-09-29,Pasar Minggu,Mie Ayam,17.0,13000,0,1,0
+2026-09-29,Pasar Minggu,Nasi Goreng,24.0,15000,0,1,0
+2026-09-30,Padang Harapan,Es Teh,45.0,5000,0,0,0
+2026-09-30,Padang Harapan,Martabak,16.0,20000,0,0,0
+2026-09-30,Padang Harapan,Mie Ayam,25.0,13000,0,0,0
+2026-09-30,Padang Harapan,Nasi Goreng,29.0,15000,0,0,0
+2026-09-30,Panorama,Es Teh,50.0,5000,1,0,0
+2026-09-30,Panorama,Martabak,22.0,20000,1,0,0
+2026-09-30,Panorama,Mie Ayam,34.0,13000,1,0,0
+2026-09-30,Panorama,Nasi Goreng,34.0,15000,1,0,0
+2026-09-30,Pasar Minggu,Es Teh,37.0,5000,0,0,0
+2026-09-30,Pasar Minggu,Martabak,11.0,20000,0,0,0
+2026-09-30,Pasar Minggu,Mie Ayam,27.0,13000,0,0,0
+2026-09-30,Pasar Minggu,Nasi Goreng,30.0,15000,0,0,0

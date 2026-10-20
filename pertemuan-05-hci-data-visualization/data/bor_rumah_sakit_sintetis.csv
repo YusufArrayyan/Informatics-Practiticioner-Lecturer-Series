@@ -1,0 +1,7 @@
+Nama_RS,Wilayah,Total_Bed,Bed_Terisi,BOR_Persen,Status,Warna
+RS Contoh A,Gading Cempaka,320,285,89.0625,Kritis,#D9383A
+RS Contoh B,Ratu Agung,150,102,68.0,Aman,#27AE60
+RS Contoh C,Teluk Segara,110,82,74.54545454545455,Waspada,#F39C12
+RS Contoh D,Ratu Samban,95,86,90.52631578947368,Kritis,#D9383A
+RS Contoh E,Selebar,140,92,65.71428571428571,Aman,#27AE60
+RS Contoh F,Gading Cempaka,80,45,56.25,Aman,#27AE60

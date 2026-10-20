@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+# Workspace KNIME lokal (simpan workflow sebagai .knwf bila ingin dibagikan)
+knime-workspace/
