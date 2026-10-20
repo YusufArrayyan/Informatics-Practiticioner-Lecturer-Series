@@ -1,6 +1,6 @@
 # Pertemuan 3 — Career and Competition in Indonesia with GIS
 
-[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/pertemuan-03-gis-career-and-competition/notebook.ipynb)
+[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/Pertemuan_3_GIS.ipynb)
 
 **Narasumber:** praktisi GIS (nama pada catatan tulisan tangan kurang terbaca, mohon dilengkapi)
 **Penyelenggara:** Program Studi S1 Teknik Informatika, Universitas Bengkulu

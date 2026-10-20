@@ -1,6 +1,6 @@
 # Pertemuan 5 — Human-Computer Interaction (HCI) & Data Visualization
 
-[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/pertemuan-05-hci-data-visualization/notebook.ipynb)
+[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/Pertemuan_5_HCI_Visualisasi_Data.ipynb)
 
 **Narasumber:** Dr. Arafat Febriandirza, S.T., M.T.I. (Ketua Kelompok Riset Interaksi Manusia Komputer dan Visualisasi, Pusat Riset Sains Data dan Informasi, BRIN)
 **Penyelenggara:** Program Studi S1 Teknik Informatika, Universitas Bengkulu
@@ -41,4 +41,4 @@ Dinas Kesehatan Kota menolak dasbor lama karena beban kognitif ekstra (tabel pan
 Kode ini mengembangkan versi awal dengan: nama/angka RS **fiktif** (agar tidak terbaca sebagai data fasilitas nyata), KPI yang ikut berubah saat filter, grafik tren interaktif, audit kontras WCAG, dan demo *lie factor*.
 
 ## Berkas
-`notebook.ipynb`, `kode.py`, `data/*.csv`, `output/05_dasbor_statis.png`, `output/05_lie_factor.png`, `output/healthviz_dashboard_interactive.html`.
+`kode.py` (notebook utama: `Pertemuan_5_HCI_Visualisasi_Data.ipynb` di akar repo), `data/*.csv`, `output/05_dasbor_statis.png`, `output/05_lie_factor.png`, `output/healthviz_dashboard_interactive.html`.

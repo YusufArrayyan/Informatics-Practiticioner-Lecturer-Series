@@ -1,6 +1,6 @@
 # Pertemuan 6 — Attributing Direct Drivers to Deforestation Alerts with Satellite Imagery and AI
 
-[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/pertemuan-06-deforestation-driver-attribution/notebook.ipynb)
+[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/Pertemuan_6_Deforestasi_Satelit_AI.ipynb)
 
 **Narasumber:** Dr. Bart Slagter (Laboratory of Geo-Information Science and Remote Sensing, Wageningen University & Research)
 **Penyelenggara:** Program Studi S1 Teknik Informatika, Universitas Bengkulu
@@ -44,4 +44,4 @@ Balai Penegakan Hukum Kehutanan di Bengkulu menerima ratusan peringatan kehilang
 - Untuk citra nyata: gunakan data latih beranotasi ahli, validasi lapangan, dan arsitektur CNN/U-Net/Transformer sebagaimana dibahas materi; Random Forest di sini adalah *baseline* tabular.
 
 ## Berkas
-`notebook.ipynb`, `kode.py`, `data/peringatan_deforestasi_sintetis.csv`, `output/06_ablasi_fusi_sensor.png`, `output/06_evaluasi_model.png`.
+`kode.py` (notebook utama: `Pertemuan_6_Deforestasi_Satelit_AI.ipynb` di akar repo), `data/peringatan_deforestasi_sintetis.csv`, `output/06_ablasi_fusi_sensor.png`, `output/06_evaluasi_model.png`.

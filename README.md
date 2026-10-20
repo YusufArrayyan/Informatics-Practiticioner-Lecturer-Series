@@ -9,43 +9,36 @@ Kumpulan studi kasus, implementasi kode (Python/Google Colab), dan panduan workf
 ## Notebook utama (Google Colab)
 Buka langsung di Colab, lalu *Runtime → Run all*. Data dibangkitkan otomatis oleh notebook.
 
-| # | Notebook | Buka |
-|---|---|---|
-| 1 | [`studi_kasus_dan_implementasi_lecture_series_pertemuan_1.ipynb`](studi_kasus_dan_implementasi_lecture_series_pertemuan_1.ipynb) (Make Sense of Data with Analytics and AI) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/studi_kasus_dan_implementasi_lecture_series_pertemuan_1.ipynb) |
-| 2 | [`studi_kasus_dan_implementasi_lecture_series_pertemuan_2.ipynb`](studi_kasus_dan_implementasi_lecture_series_pertemuan_2.ipynb) (Bridging Global Infrastructure to Address Local Challenge with HPC) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/studi_kasus_dan_implementasi_lecture_series_pertemuan_2.ipynb) |
-| 3 | [`studi_kasus_dan_implementasi_lecture_series_pertemuan_3.ipynb`](studi_kasus_dan_implementasi_lecture_series_pertemuan_3.ipynb) (Career and Competition in Indonesia with GIS) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/studi_kasus_dan_implementasi_lecture_series_pertemuan_3.ipynb) |
-| 4 | [`studi_kasus_dan_implementasi_lecture_series_pertemuan_4.ipynb`](studi_kasus_dan_implementasi_lecture_series_pertemuan_4.ipynb) (Introduction to Machine Learning) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/studi_kasus_dan_implementasi_lecture_series_pertemuan_4.ipynb) |
-| 5 | [`studi_kasus_dan_implementasi_lecture_series_pertemuan_5.ipynb`](studi_kasus_dan_implementasi_lecture_series_pertemuan_5.ipynb) (HCI & Data Visualization) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/studi_kasus_dan_implementasi_lecture_series_pertemuan_5.ipynb) |
-| 6 | [`studi_kasus_dan_implementasi_lecture_series_pertemuan_6.ipynb`](studi_kasus_dan_implementasi_lecture_series_pertemuan_6.ipynb) (Attributing Direct Drivers to Deforestation Alerts) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/studi_kasus_dan_implementasi_lecture_series_pertemuan_6.ipynb) |
+| # | Topik | Notebook | Materi lengkap |
+|---|---|---|---|
+| 1 | Make Sense of Data with Analytics and AI | [`Pertemuan_1_Analytics_and_AI.ipynb`](Pertemuan_1_Analytics_and_AI.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/Pertemuan_1_Analytics_and_AI.ipynb) | [materi/pertemuan-01-make-sense-of-data](materi/pertemuan-01-make-sense-of-data) |
+| 2 | Bridging Global Infrastructure to Address Local Challenge with HPC | [`Pertemuan_2_HPC.ipynb`](Pertemuan_2_HPC.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/Pertemuan_2_HPC.ipynb) | [materi/pertemuan-02-hpc-bridging-global-infrastructure](materi/pertemuan-02-hpc-bridging-global-infrastructure) |
+| 3 | Career and Competition in Indonesia with GIS | [`Pertemuan_3_GIS.ipynb`](Pertemuan_3_GIS.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/Pertemuan_3_GIS.ipynb) | [materi/pertemuan-03-gis-career-and-competition](materi/pertemuan-03-gis-career-and-competition) |
+| 4 | Introduction to Machine Learning | [`Pertemuan_4_Machine_Learning.ipynb`](Pertemuan_4_Machine_Learning.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/Pertemuan_4_Machine_Learning.ipynb) | [materi/pertemuan-04-introduction-to-machine-learning](materi/pertemuan-04-introduction-to-machine-learning) |
+| 5 | HCI & Data Visualization | [`Pertemuan_5_HCI_Visualisasi_Data.ipynb`](Pertemuan_5_HCI_Visualisasi_Data.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/Pertemuan_5_HCI_Visualisasi_Data.ipynb) | [materi/pertemuan-05-hci-data-visualization](materi/pertemuan-05-hci-data-visualization) |
+| 6 | Attributing Direct Drivers to Deforestation Alerts | [`Pertemuan_6_Deforestasi_Satelit_AI.ipynb`](Pertemuan_6_Deforestasi_Satelit_AI.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/Pertemuan_6_Deforestasi_Satelit_AI.ipynb) | [materi/pertemuan-06-deforestation-driver-attribution](materi/pertemuan-06-deforestation-driver-attribution) |
 
-Setiap folder pertemuan berisi:
-- `README.md`: ringkasan materi, studi kasus, pemetaan materi → implementasi, dan hasil utama
-- `notebook.ipynb`: salinan notebook yang sama (notebook utama ada di akar repo; semuanya dibuat otomatis dari `kode.py`)
-- `KNIME_GUIDE.md`: panduan membangun workflow KNIME langkah demi langkah
-- `data/`: dataset sintetis (siap dipakai di KNIME) dan `output/`: grafik/hasil
-
-| # | Topik | Narasumber | Studi kasus | Colab |
-|---|---|---|---|---|
-| 1 | [Make Sense of Data with Analytics and AI](pertemuan-01-make-sense-of-data) | Peneliti senior BRIN* | Analitik penjualan UMKM kuliner: CRISP-DM, 4 jenis analitik, bukti GIGO | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/pertemuan-01-make-sense-of-data/notebook.ipynb) |
-| 2 | [Bridging Global Infrastructure to Address Local Challenge with HPC](pertemuan-02-hpc-bridging-global-infrastructure) | Asst. Prof. Dr. Worawan Diaz Carballo* | Simulasi Monte Carlo banjir serial vs paralel, hukum Amdahl | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/pertemuan-02-hpc-bridging-global-infrastructure/notebook.ipynb) |
-| 3 | [Career and Competition in Indonesia with GIS](pertemuan-03-gis-career-and-competition) | Praktisi GIS* | Lokasi shelter tsunami + klasifikasi tutupan lahan | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/pertemuan-03-gis-career-and-competition/notebook.ipynb) |
-| 4 | [Introduction to Machine Learning](pertemuan-04-introduction-to-machine-learning) | Dr. Tanzila Tahiddin* (UiTM) | 4 paradigma ML pada analitik akademik | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/pertemuan-04-introduction-to-machine-learning/notebook.ipynb) |
-| 5 | [HCI & Data Visualization](pertemuan-05-hci-data-visualization) | Dr. Arafat Febriandirza (BRIN) | Dasbor HealthViz-HCI: Shneiderman, Tufte, Gestalt, WCAG | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/pertemuan-05-hci-data-visualization/notebook.ipynb) |
-| 6 | [Attributing Direct Drivers to Deforestation Alerts](pertemuan-06-deforestation-driver-attribution) | Dr. Bart Slagter (WUR) | Atribusi pemicu deforestasi: fusi Sentinel-1/2 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/pertemuan-06-deforestation-driver-attribution/notebook.ipynb) |
-
-\* Nama/afiliasi pada pertemuan 1–4 dibaca dari catatan tulisan tangan; beberapa kurang terbaca. Mohon dicek dan dilengkapi.
+## Struktur repo
+```
+README.md
+requirements.txt
+Pertemuan_1 … Pertemuan_6 (.ipynb)   <- notebook utama
+materi/
+  pertemuan-0X-…/                     <- per pertemuan
+    README.md        ringkasan materi, studi kasus, hasil
+    KNIME_GUIDE.md   panduan workflow KNIME
+    kode.py          sumber kode (dasar pembuatan notebook)
+    data/  output/   dataset sintetis & hasil
+  tools/build_notebooks.py
+```
 
 ## Menjalankan
-```bash
-pip install -r requirements.txt
-cd pertemuan-01-make-sense-of-data && python kode.py
-```
-Atau buka notebook di Colab lewat badge. Setelah mengubah `kode.py`, bangun ulang notebook dengan `python tools/build_notebooks.py`.
+- **Colab:** klik badge di tabel di atas.
+- **Lokal:** `pip install -r requirements.txt`, lalu `cd materi/pertemuan-01-make-sense-of-data && python kode.py`.
+- Setelah mengubah `kode.py`, bangun ulang notebook dengan `python materi/tools/build_notebooks.py`.
 
 ## Catatan
 - **Semua data sintetis** (dibangkitkan program, seed tetap). Nama rumah sakit pada pertemuan 5 fiktif. Hasil numerik tidak mencerminkan performa pada data nyata.
-- Berkas workflow KNIME (`.knwf`) tidak disertakan karena harus diekspor dari aplikasi KNIME; panduan node per node tersedia di tiap `KNIME_GUIDE.md`.
+- Berkas workflow KNIME (`.knwf`) belum disertakan; panduan node per node ada di tiap `KNIME_GUIDE.md`.
 - Pertemuan 2 mengukur waktu komputasi sehingga hasilnya berbeda antarmesin.
-
-## Ringkasan materi
-Catatan ringkas kuliah (format 1 lembar) tersedia pada ringkasan di tiap README pertemuan.
+- Nama narasumber pertemuan 1–4 dibaca dari catatan tulisan tangan dan perlu dicek.

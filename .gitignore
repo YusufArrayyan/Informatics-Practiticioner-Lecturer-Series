@@ -5,3 +5,6 @@ __pycache__/
 .venv/
 # Workspace KNIME lokal (simpan workflow sebagai .knwf bila ingin dibagikan)
 knime-workspace/
+# Keluaran saat notebook dijalankan lokal di akar repo
+/data/
+/output/

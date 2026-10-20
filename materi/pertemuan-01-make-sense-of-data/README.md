@@ -1,6 +1,6 @@
 # Pertemuan 1 — Make Sense of Data with Analytics and AI
 
-[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/pertemuan-01-make-sense-of-data/notebook.ipynb)
+[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/Pertemuan_1_Analytics_and_AI.ipynb)
 
 **Narasumber:** peneliti senior BRIN dan pengelola tim High Performance Computing (nama pada catatan tulisan tangan kurang terbaca, mohon dilengkapi)
 **Penyelenggara:** Program Studi S1 Teknik Informatika, Universitas Bengkulu
@@ -30,7 +30,7 @@ Pemilik usaha ingin tahu omzet, penyebab penurunan, kebutuhan stok minggu depan,
 
 ## Cara menjalankan
 - **Colab:** klik badge di atas, lalu *Runtime → Run all*. Data dibangkitkan otomatis.
-- **Lokal:** `pip install -r ../requirements.txt` lalu `python kode.py` di folder ini.
+- **Lokal:** `pip install -r ../../requirements.txt` lalu `python kode.py` di folder ini.
 - **KNIME:** ikuti [KNIME_GUIDE.md](KNIME_GUIDE.md). Data CSV siap pakai ada di `data/`.
 
 ## Hasil utama (seed tetap, hasil dapat direproduksi)
@@ -42,7 +42,7 @@ Pemilik usaha ingin tahu omzet, penyebab penurunan, kebutuhan stok minggu depan,
 ## Berkas
 | Berkas | Isi |
 |---|---|
-| `notebook.ipynb`, `kode.py` | Implementasi (notebook dibuat otomatis dari `kode.py`) |
+| `kode.py` (notebook utama: `Pertemuan_1_Analytics_and_AI.ipynb` di akar repo) | Implementasi (notebook dibuat otomatis dari `kode.py`) |
 | `data/penjualan_umkm_kotor.csv` | Data mentah dengan masalah kualitas (input KNIME) |
 | `data/penjualan_umkm_bersih.csv` | Hasil pembersihan |
 | `output/*.png` | Grafik deskriptif dan perbandingan GIGO |

@@ -1,6 +1,6 @@
 # Pertemuan 2 — Bridging Global Infrastructure to Address Local Challenge with HPC
 
-[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/pertemuan-02-hpc-bridging-global-infrastructure/notebook.ipynb)
+[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/Pertemuan_2_HPC.ipynb)
 
 **Narasumber:** Asst. Prof. Dr. Worawan Diaz Carballo, Thammasat University, Thailand*
 **Penyelenggara:** Program Studi S1 Teknik Informatika, Universitas Bengkulu
@@ -36,7 +36,7 @@
 ## Berkas
 | Berkas | Isi |
 |---|---|
-| `notebook.ipynb`, `kode.py` | Implementasi |
+| `kode.py` (notebook utama: `Pertemuan_2_HPC.ipynb` di akar repo) | Implementasi |
 | `data/hasil_strong_scaling.csv`, `data/hasil_weak_scaling.csv` | Hasil pengukuran jalan terakhir |
 | `output/02_strong_scaling_amdahl.png` | Grafik speedup vs Amdahl |
 

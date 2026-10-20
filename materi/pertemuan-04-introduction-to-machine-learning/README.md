@@ -1,6 +1,6 @@
 # Pertemuan 4 — Introduction to Machine Learning
 
-[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/pertemuan-04-introduction-to-machine-learning/notebook.ipynb)
+[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufArrayyan/Informatics-Practiticioner-Lecturer-Series/blob/main/Pertemuan_4_Machine_Learning.ipynb)
 
 **Narasumber:** Dr. Tanzila Tahiddin*, Senior Lecturer, Faculty of Computer and Mathematical Sciences, Universiti Teknologi MARA (UiTM), Malaysia
 **Penyelenggara:** Program Studi S1 Teknik Informatika, Universitas Bengkulu
